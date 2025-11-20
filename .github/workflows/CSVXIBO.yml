@@ -13,13 +13,21 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Download vervangingen.csv from OneDrive
+      - name: Download vervangingen.csv with browser headers
         run: |
-          curl -L -o vervangingen.csv "https://sgsintpauluseu-my.sharepoint.com/:x:/g/personal/tom_vanwehaege_sgsintpaulus_eu/IQD7rXk8hOHEQZKesI6JldJyAdNbEEiY42W-zOOph353_EA?e=sbxawU&download=1"
-
-          # Check if file is empty
+          curl -L -o vervangingen.csv \
+            -H "User-Agent: Mozilla/5.0" \
+            -H "Accept: text/csv,application/xhtml+xml" \
+            "https://sgsintpauluseu-my.sharepoint.com/:x:/g/personal/tom_vanwehaege_sgsintpaulus_eu/IQD7rXk8hOHEQZKesI6JldJyAdNbEEiY42W-zOOph353_EA?e=sbxawU&download=1"
+      
           if [ ! -s vervangingen.csv ]; then
             echo "Downloaded file is empty."
+            exit 1
+          fi
+      
+          if grep -q "<html" vervangingen.csv; then
+            echo "Downloaded file is HTML, not CSV. Likely a redirect or auth issue."
+            head vervangingen.csv
             exit 1
           fi
 
