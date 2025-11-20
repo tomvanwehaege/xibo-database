@@ -59,7 +59,7 @@ jobs:
 
           git checkout -b "$branch_name"
 
-          git add VERVANGINGEN.CSV
+          git add xibo-vervangingen.csv
 
           git commit -m "Update CSV file"
 
