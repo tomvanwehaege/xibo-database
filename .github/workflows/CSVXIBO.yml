@@ -15,27 +15,25 @@ jobs:
 
       - name: Download New CSV
         run: |
-          if curl -L -o xibo-vervangingen.csv "https://sgsintpauluseu-my.sharepoint.com/:x:/g/personal/tom_vanwehaege_sgsintpaulus_eu/IQD7rXk8hOHEQZKesI6JldJyAdNbEEiY42W-zOOph353_EA?e=XaNqCf&download=1"; then
-            echo "CSV download successful."
-          else
-            echo "CSV download failed."
-            exit 1
-          fi
+          curl -L -o new.csv "https://sgsintpauluseu-my.sharepoint.com/:x:/g/personal/tom_vanwehaege_sgsintpaulus_eu/IQD7rXk8hOHEQZKesI6JldJyAdNbEEiY42W-zOOph353_EA?e=XaNqCf&download=1"
 
       - name: Check CSV File Size
         id: check-csv
         run: |
-          if [ -s xibo-vervangingen.csv ]; then
+          if [ -s new.csv ]; then
             echo "CSV file is not empty."
           else
             echo "CSV file is empty."
             exit 1
           fi
-          
+
       - name: Check for Differences
         id: check-differences
         run: |
-          if ! diff -q xibo-vervangingen.csv vervangingen.csv; then
+          if [ ! -f xibo-vervangingen.csv ]; then
+            echo "No existing file to compare. Proceeding with update."
+            echo "DIFFERENT_CSV=true" >> $GITHUB_ENV
+          elif ! diff -q new.csv xibo-vervangingen.csv > /dev/null; then
             echo "CSV files are different."
             echo "DIFFERENT_CSV=true" >> $GITHUB_ENV
           else
@@ -44,31 +42,27 @@ jobs:
           fi
 
       - name: Overwrite CSV
-        if: steps.check-csv.outcome == 'success' && env.DIFFERENT_CSV == 'true'
+        if: env.DIFFERENT_CSV == 'true'
         run: |
-          mv vervangingen.csv xibo-vervangingen.csv
+          mv new.csv xibo-vervangingen.csv
 
       - name: Commit and Push Changes
-        if: steps.check-csv.outcome == 'success' && env.DIFFERENT_CSV == 'true'
+        if: env.DIFFERENT_CSV == 'true'
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          
+
           timestamp=$(date +'%Y%m%d%H%M%S')
           branch_name="update-csv-$timestamp"
 
           git checkout -b "$branch_name"
-
           git add xibo-vervangingen.csv
-
           git commit -m "Update CSV file"
-
           git push origin "$branch_name"
 
           git checkout main
-          git merge --no-ff "$branch_name"
+          git merge --no-ff "$branch_name" -m "Merge CSV update $timestamp"
           git push origin main
 
-          # delete the temporary branch
           git branch -d "$branch_name"
           git push origin --delete "$branch_name"
