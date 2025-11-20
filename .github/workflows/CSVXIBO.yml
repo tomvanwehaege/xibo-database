@@ -15,7 +15,7 @@ jobs:
 
       - name: Download vervangingen.csv with browser headers
         run: |
-          curl -L -o vervangingen.csv \
+          curl -o vervangingen.csv \
             -H "User-Agent: Mozilla/5.0" \
             -H "Accept: text/csv,application/xhtml+xml" \
             "https://sgsintpauluseu-my.sharepoint.com/:x:/g/personal/tom_vanwehaege_sgsintpaulus_eu/IQD7rXk8hOHEQZKesI6JldJyAdNbEEiY42W-zOOph353_EA?e=sbxawU&download=1"
