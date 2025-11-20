@@ -1,0 +1,66 @@
+name: Daily CSV Update
+on:
+  schedule:
+    - cron: '*/5 * * * *' # Runs every 5 minutes
+  workflow_dispatch:
+
+jobs:
+  update-csv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download CSV from OneDrive
+        run: |
+          # OneDrive direct download URL (add download=1 to the share link)
+          ONEDRIVE_URL="https://sgsintpauluseu-my.sharepoint.com/:x:/g/personal/tom_vanwehaege_sgsintpaulus_eu/IQD7rXk8hOHEQZKesI6JldJyAdNbEEiY42W-zOOph353_EA?e=BqVRFZ"
+          
+          if curl -L -o vervangingen.csv "$ONEDRIVE_URL"; then
+            echo "CSV download successful."
+          else
+            echo "CSV download failed."
+            exit 1
+          fi
+
+      - name: Check CSV File Size
+        run: |
+          if [ -s vervangingen.csv ]; then
+            echo "CSV file is not empty."
+            wc -l vervangingen.csv
+          else
+            echo "CSV file is empty or download failed."
+            exit 1
+          fi
+
+      - name: Check for Differences
+        id: check-differences
+        run: |
+          if [ -f xibo-vervangingen.csv ]; then
+            if ! diff -q xibo-vervangingen.csv vervangingen.csv > /dev/null; then
+              echo "CSV files are different."
+              echo "DIFFERENT_CSV=true" >> $GITHUB_ENV
+            else
+              echo "CSV files are the same. Skipping commit."
+              echo "DIFFERENT_CSV=false" >> $GITHUB_ENV
+            fi
+          else
+            echo "xibo-vervangingen.csv doesn't exist yet. Creating it."
+            echo "DIFFERENT_CSV=true" >> $GITHUB_ENV
+          fi
+
+      - name: Update CSV File
+        if: env.DIFFERENT_CSV == 'true'
+        run: |
+          cp vervangingen.csv xibo-vervangingen.csv
+          rm vervangingen.csv
+
+      - name: Commit and Push Changes
+        if: env.DIFFERENT_CSV == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add xibo-vervangingen.csv
+          git commit -m "Update CSV file - $(date +'%Y-%m-%d %H:%M:%S')"
+          git push origin main
