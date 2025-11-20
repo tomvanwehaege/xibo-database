@@ -46,7 +46,7 @@ jobs:
       - name: Overwrite CSV
         if: steps.check-csv.outcome == 'success' && env.DIFFERENT_CSV == 'true'
         run: |
-          mv vervangingen.csv xibo-vervangingen.csv
+          mv xibo-vervangingen.csv vervangingen.csv
 
       - name: Commit and Push Changes
         if: steps.check-csv.outcome == 'success' && env.DIFFERENT_CSV == 'true'
