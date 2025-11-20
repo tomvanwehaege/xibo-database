@@ -15,7 +15,7 @@ jobs:
 
       - name: Download vervangingen.csv from OneDrive
         run: |
-          curl -L -o vervangingen.csv "https://sgsintpauluseu-my.sharepoint.com/:x:/g/personal/tom_vanwehaege_sgsintpaulus_eu/IQD7rXk8hOHEQZKesI6JldJyAdNbEEiY42W-zOOph353_EA?e=XaNqCf&download=1"
+          curl -L -o vervangingen.csv "https://sgsintpauluseu-my.sharepoint.com/:x:/g/personal/tom_vanwehaege_sgsintpaulus_eu/IQD7rXk8hOHEQZKesI6JldJyAdNbEEiY42W-zOOph353_EA?e=sbxawU&download=1"
 
           # Check if file is empty
           if [ ! -s vervangingen.csv ]; then
