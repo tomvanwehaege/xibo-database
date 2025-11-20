@@ -13,27 +13,28 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Download New CSV
+      - name: Download vervangingen.csv from OneDrive
         run: |
-          curl -L -o new.csv "https://sgsintpauluseu-my.sharepoint.com/:x:/g/personal/tom_vanwehaege_sgsintpaulus_eu/IQD7rXk8hOHEQZKesI6JldJyAdNbEEiY42W-zOOph353_EA?e=XaNqCf&download=1"
+          curl -L -o vervangingen.csv "https://sgsintpauluseu-my.sharepoint.com/:x:/g/personal/tom_vanwehaege_sgsintpaulus_eu/IQD7rXk8hOHEQZKesI6JldJyAdNbEEiY42W-zOOph353_EA?e=XaNqCf&download=1"
 
-      - name: Check CSV File Size
-        id: check-csv
-        run: |
-          if [ -s new.csv ]; then
-            echo "CSV file is not empty."
-          else
-            echo "CSV file is empty."
+          # Check if file is empty
+          if [ ! -s vervangingen.csv ]; then
+            echo "Downloaded file is empty."
+            exit 1
+          fi
+
+          # Check if file contains HTML (SharePoint error page)
+          if grep -q "<html" vervangingen.csv; then
+            echo "Downloaded file is HTML, not CSV. Likely a redirect or auth issue."
             exit 1
           fi
 
       - name: Check for Differences
-        id: check-differences
         run: |
           if [ ! -f xibo-vervangingen.csv ]; then
-            echo "No existing file to compare. Proceeding with update."
+            echo "No existing CSV to compare. Proceeding with update."
             echo "DIFFERENT_CSV=true" >> $GITHUB_ENV
-          elif ! diff -q new.csv xibo-vervangingen.csv > /dev/null; then
+          elif ! diff -q vervangingen.csv xibo-vervangingen.csv > /dev/null; then
             echo "CSV files are different."
             echo "DIFFERENT_CSV=true" >> $GITHUB_ENV
           else
@@ -44,7 +45,7 @@ jobs:
       - name: Overwrite CSV
         if: env.DIFFERENT_CSV == 'true'
         run: |
-          mv new.csv xibo-vervangingen.csv
+          mv vervangingen.csv xibo-vervangingen.csv
 
       - name: Commit and Push Changes
         if: env.DIFFERENT_CSV == 'true'
