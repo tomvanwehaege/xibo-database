@@ -276,12 +276,15 @@
 2026-01-16,Holter M.,6,14:00:00,6ADT & 6ET & 6IAT,,,V114>A038,ENG,Lokaalwijziging,,marnie.holter@sgsintpaulus.eu,,VTI_6ADT_Leerlingen@sgsintpaulus.eu; VTI_6ET_Leerlingen@sgsintpaulus.eu; VTI_6IAT_Leerlingen@sgsintpaulus.eu,,,yW_ZyXggbk8
 2026-01-16,De Frene N.,7,15:05:00,1STd,,,V221,NED,Behouden opdracht,,joachim.decuyper@sgsintpaulus.eu,,VTI_1STd_Leerlingen@sgsintpaulus.eu,,,Es5K-W2dyEw
 2026-01-16,Laurent G.,7,15:05:00,2SMEa,,,V115,STCAD,Vercauteren G.,,pieterjan.lamont@sgsintpaulus.eu,,VTI_2SMEa_Leerlingen@sgsintpaulus.eu,,,pm2R0TZv9NE
-2026-01-16,Amri N.,7 ~ 8,15:05:00,3E,,,B190>A114,MEC$SAN,Lokaalwijziging,,naim.amri@sgsintpaulus.eu,,VTI_3E_Leerlingen@sgsintpaulus.eu,,,hgQAkP87Cj0
-2026-01-16,Vandevoorde H.,7,15:05:00,3EMTa,,,V009>V111,ENG,Lokaalwijziging,,heleen.vandevoorde@sgsintpaulus.eu,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu,,,IB7xX9DuVPQ
-2026-01-16,Braekevelt P.,7 ~ 8,15:05:00,3Ha,,,E020,HT$REAH,Behouden opdracht,,pascal.braekevelt@sgsintpaulus.eu,,VTI_3Ha_Leerlingen@sgsintpaulus.eu,,,CiLfwN-dRJU
-2026-01-16,Holter M.,7,15:05:00,3HTb,,,V111>V009,ENG,Lokaalwijziging,,marnie.holter@sgsintpaulus.eu,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,,cx0Qp7-COmI
-2026-01-16,Tack S.,7 ~ 8,15:05:00,3Hv & 3Hb Gy,,,B060,HT$REAH,Behouden opdracht,,steven.tack@sgsintpaulus.eu,,VTI_3Hv_Leerlingen@sgsintpaulus.eu,,,uvkm-jDrL2Q
-2026-01-16,Genitello S.,7 ~ 8,15:05:00,6AT & 5OAa x & 5OAa y,,,B070,OA$CM,Deleye F.,,steven.genitello@sgsintpaulus.eu,,VTI_6AT_Leerlingen@sgsintpaulus.eu,,,T86N9PZIzdk
-2026-01-16,De Langhe Y.,7,15:05:00,6DN & 6EI & 6SV,,,PL V004,STUDIE,Jabeur W.,,Yves.DeLanghe@sgsintpaulus.eu,,VTI_6DN_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu; VTI_6SV_Leerlingen@sgsintpaulus.eu,,,1ykZB0TMPWQ
-2026-01-16,De Ryck S.,8,15:55:00,3EMTa,,,PL V004,STUDIE,Jabeur W.,,sofie.deryck@sgsintpaulus.eu,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu,,,5K2OwtU4XMM
-2026-01-16,Holter M.,8,15:55:00,4EMTb,,,C123>V009,ENG,Lokaalwijziging,,marnie.holter@sgsintpaulus.eu,,VTI_4EMTb_Leerlingen@sgsintpaulus.eu,,,Y2hFbxs51is
+2026-01-16,De Langhe Y.,7,15:05:00,2SWc,,,PL V004,TAAK,De Lie C.,,Yves.DeLanghe@sgsintpaulus.eu,,VTI_2SWc_Leerlingen@sgsintpaulus.eu,,TAAK TEAMS,hgQAkP87Cj0
+2026-01-16,Amri N.,7 ~ 8,15:05:00,3E,,,B190>A114,MEC$SAN,Lokaalwijziging,,naim.amri@sgsintpaulus.eu,,VTI_3E_Leerlingen@sgsintpaulus.eu,,,IB7xX9DuVPQ
+2026-01-16,Vandevoorde H.,7,15:05:00,3EMTa,,,V009>V111,ENG,Lokaalwijziging,,heleen.vandevoorde@sgsintpaulus.eu,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu,,,CiLfwN-dRJU
+2026-01-16,Braekevelt P.,7 ~ 8,15:05:00,3Ha,,,E020,HT$REAH,Behouden opdracht,,pascal.braekevelt@sgsintpaulus.eu,,VTI_3Ha_Leerlingen@sgsintpaulus.eu,,,cx0Qp7-COmI
+2026-01-16,Holter M.,7,15:05:00,3HTb,,,V111>V009,ENG,Lokaalwijziging,,marnie.holter@sgsintpaulus.eu,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,,uvkm-jDrL2Q
+2026-01-16,Tack S.,7 ~ 8,15:05:00,3Hv & 3Hb Gy,,,B060,HT$REAH,Behouden opdracht,,steven.tack@sgsintpaulus.eu,,VTI_3Hv_Leerlingen@sgsintpaulus.eu,,,T86N9PZIzdk
+2026-01-16,Genitello S.,7 ~ 8,15:05:00,6AT & 5OAa x & 5OAa y,,,B070,OA$CM,Deleye F.,,steven.genitello@sgsintpaulus.eu,,VTI_6AT_Leerlingen@sgsintpaulus.eu,,,1ykZB0TMPWQ
+2026-01-16,De Langhe Y.,7,15:05:00,6DN & 6EI & 6SV,,,PL V004,STUDIE,Jabeur W.,,Yves.DeLanghe@sgsintpaulus.eu,,VTI_6DN_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu; VTI_6SV_Leerlingen@sgsintpaulus.eu,,,5K2OwtU4XMM
+2026-01-16,De Ryck S.,8,15:55:00,3BW,,,PL V004,STUDIE,Verstraete G.,,sofie.deryck@sgsintpaulus.eu,,VTI_3BW_Leerlingen@sgsintpaulus.eu,,,Y2hFbxs51is
+2026-01-16,De Ryck S.,8,15:55:00,3EMTa,,,PL V004,STUDIE,Jabeur W.,,sofie.deryck@sgsintpaulus.eu,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu,,,dD-WiUeyPMU
+2026-01-16,Holter M.,8,15:55:00,4EMTb,,,C123>V009,ENG,Lokaalwijziging,,marnie.holter@sgsintpaulus.eu,,VTI_4EMTb_Leerlingen@sgsintpaulus.eu,,,RmY0HJ3298M
+2026-01-16,De Ryck S.,8,15:55:00,6DN & 6EI & 6SV,,,PL V004,TAAK,De Lie C.,,sofie.deryck@sgsintpaulus.eu,,VTI_6DN_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu; VTI_6SV_Leerlingen@sgsintpaulus.eu,,TAAK TEAMS,MoRSFdCgce0
