@@ -80,20 +80,379 @@
 2026-04-30,Seynaeve J.,3 ~ 4,10:20:00,3EMTa,,,B090,EMT$EPCC,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu,,,aKSUYL7ySYk
 2026-04-30,Seynaeve J.,5 ~ 6,13:10:00,3Mb,,,B090,MEC$VORGp,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,bTedgaoMBcA
 2026-04-30,Seynaeve J.,7 ~ 8,15:05:00,3EMTb,,,B022,EMT$EPCC,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3EMTb_Leerlingen@sgsintpaulus.eu,,,DPZ_Kv7liJE
-2026-04-28,Geannuleerde opdracht,1 ~ 2,08:25:00,6TWE x & 6TWE y,,,NTB,TAAK,Van Heghe B. & Vandenbroucke S.,,,,,,Geannuleerde opdracht,8gxR7yzJshM
-2026-04-27,Geannuleerde opdracht,1 ~ 2,08:25:00,7DPMV,,,NTB,TAAK,Genitello S.,,,,VTI_7DPMV_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,EG9zsfQ6Oj4
-2026-04-28,Geannuleerde opdracht,3 ~ 4,10:20:00,6TWE x & 6TWE y,,,NTB,TAAK,Van Heghe B. & Vandenbroucke S.,,,,,,Geannuleerde opdracht,Z2nzep8eh_I
-2026-04-27,Geannuleerde opdracht,3 ~ 4,10:20:00,4EMTb,,,NTB,TAAK,Van Coppenolle K.,,,,VTI_4EMTb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,qg5_5VWFvQI
-2026-04-27,Geannuleerde opdracht,3,10:20:00,4HTa,,,NTB,TAAK,Santens T.,,,,VTI_4HTa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,r_js4iqHT-0
-2026-04-30,Geannuleerde opdracht,3,10:20:00,6TWE,,,NTB,TAAK,Ackerman L.,,,,VTI_6TWE_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,7XdUPsNcqyo
-2026-04-27,Geannuleerde opdracht,4,11:10:00,Planton,,,NTB,TAAK,Nocon V.,,,,,,Geannuleerde opdracht,XWEUreWXvWs
-2026-04-27,Geannuleerde opdracht,4,11:10:00,4HTb,,,NTB,TAAK,Santens T.,,,,VTI_4HTb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,GHbDejxmnZM
-2026-04-30,Geannuleerde opdracht,4,11:10:00,6MEE & 6MEM,,,NTB,TAAK,Ackerman L.,,,,VTI_6MEE_Leerlingen@sgsintpaulus.eu; VTI_6MEM_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,eTclunOwhFA
-2026-04-27,Geannuleerde opdracht,99,12:00:00,01 0750:0810 Opvang V004+hal,,,NTB,TAAK,Bogaerts T.,,,,,,Geannuleerde opdracht,-rbuNDrzU-Q
-2026-04-28,Geannuleerde opdracht,5 ~ 6,13:10:00,2SMEa,,,NTB,TAAK,Van Hulle J.,,,,VTI_2SMEa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,jQyvnLBVHtE
-2026-04-27,Geannuleerde opdracht,5,13:10:00,2SWa,,,NTB,TAAK,Santens T.,,,,VTI_2SWa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,NPsbIhtnaxc
-2026-04-27,Geannuleerde opdracht,,13:10:00,3EMTa,,,NTB,TAAK,Demeulemeester C.,,,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,fpOZobr98hk
-2026-04-27,Geannuleerde opdracht,,14:00:00,3EMTb,,,NTB,TAAK,Deweer-Taelman K. & Van Coppenolle K.,,,,VTI_3EMTb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,gbpe5Sus178
-2026-04-27,Geannuleerde opdracht,7,15:05:00,2SMEa,,,NTB,TAAK,Santens T.,,,,VTI_2SMEa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,hCVjLYeo-4g
-2026-04-28,Geannuleerde opdracht,7 ~ 8,15:05:00,2SWb,,,NTB,TAAK,Van Hulle J.,,,,VTI_2SWb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,E1F76W2uOpk
-2026-04-27,Geannuleerde opdracht,8,15:55:00,4Hc,,,NTB,TAAK,Santens T.,,,,VTI_4Hc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,qQn7Sz1hMX0
+2026-05-04,Degroote W.,3 ~ 4,10:20:00,2SBHb 2SBHEX$EX2SME2SBH_1 & 2SBHb 2SBHEX$EX2SME2SBH_2 & 2SBHa 2SBHEX$EX2SME2SBH_1 & 2SBHa 2SBHEX$EX2SME2SBH_2,,,V242,EX$EX2SME2SBH,Behouden opdracht,Degroote Willem,Willem.Degroote@sgsintpaulus.eu,,,,,8gxR7yzJshM
+2026-05-04,Van Coppenolle K.,7 ~ 8,15:05:00,6LC,,,B022 Plaatbewerking & B030 Lasserij groepA & B030B Lasserijk groepB,LC$CM,Goethals A.,Van Coppenolle Kenneth,kenneth.vancoppenolle@sgsintpaulus.eu,,VTI_6LC_Leerlingen@sgsintpaulus.eu,,,EG9zsfQ6Oj4
+2026-05-05,Deweer-Taelman K.,1,08:25:00,3Ma,,,B090 draaierij/Freeserij & B119 Theorie SV,MEC$VORGp,Goethals A.,Deweer-Taelman Karel,karel.deweertaelman@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,Z2nzep8eh_I
+2026-05-05,Deweer-Taelman K.,2,09:15:00,3Ma,,,B090,MEC$VORGp,Goethals A.,Deweer-Taelman Karel,karel.deweertaelman@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,qg5_5VWFvQI
+2026-05-05,Deweer-Taelman K.,3,10:20:00,3Ma,,,B090 draaierij/Freeserij & V246,MEC$VORGp,Goethals A.,Deweer-Taelman Karel,karel.deweertaelman@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,r_js4iqHT-0
+2026-05-05,Portier F.,4,11:10:00,3Ma,,,V220,MEC$TMEC,Goethals A.,Portier Frank,frank.portier@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,7XdUPsNcqyo
+2026-05-06,Van de Wege L.,1,08:25:00,5AT & 5MT,,,V248>V009,WIS,Lokaalwijziging,Van de Wege Lies,Lies.VanDeWege@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,XWEUreWXvWs
+2026-05-06,Derieuw G.,3,10:20:00,5AT & 5MT,,,C206>V009,NED,Lokaalwijziging,Derieuw Geoffrey,geoffrey.derieuw@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,GHbDejxmnZM
+2026-05-07,Vande Walle F.,1,08:25:00,4Mb,,,V221,MEC$TEC,Goethals A.,Vande Walle Filip,filip.vandewalle@sgsintpaulus.eu,,VTI_4Mb_Leerlingen@sgsintpaulus.eu,,,eTclunOwhFA
+2026-05-07,Van de Wege L.,2,09:15:00,5AT & 5MT,,,V248>V009,WIS,Lokaalwijziging,Van de Wege Lies,Lies.VanDeWege@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,-rbuNDrzU-Q
+2026-05-07,Seynaeve J.,3 ~ 4,10:20:00,3EMTa,,,B090,EMT$EPCC,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu,,,jQyvnLBVHtE
+2026-05-07,Seynaeve J.,5 ~ 6,13:10:00,3Mb,,,B090,MEC$VORGp,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,NPsbIhtnaxc
+2026-05-07,Vandeputte M.,6,14:00:00,3EMTb & 3ET,,,PL V004,STUDIE,Wegsteen E.,Vandeputte Mathieu,Mathieu.vandeputte@sgsintpaulus.eu,,VTI_3EMTb_Leerlingen@sgsintpaulus.eu; VTI_3ET_Leerlingen@sgsintpaulus.eu,,,fpOZobr98hk
+2026-05-07,Baert P.,7 ~ 8,15:05:00,2SBHa w,,,E020,SWCO,Klasdeel afwezig,Baert Pallieter,pallieter.baert@sgsintpaulus.eu,,,,,gbpe5Sus178
+2026-05-07,Degroote W.,7 ~ 8,15:05:00,2SBHa x,,,B165,SWCO,Klasdeel afwezig,Degroote Willem,Willem.Degroote@sgsintpaulus.eu,,,,,hCVjLYeo-4g
+2026-05-07,Gevaert F.,7 ~ 8,15:05:00,2SBHa y,,,B160,SWCO,Klasdeel afwezig,Gevaert Filip,Filip.Gevaert@sgsintpaulus.eu,,,,,E1F76W2uOpk
+2026-05-07,Seynaeve J.,7 ~ 8,15:05:00,3EMTb,,,B022,EMT$EPCC,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3EMTb_Leerlingen@sgsintpaulus.eu,,,qQn7Sz1hMX0
+2026-05-07,Nollet C.,8,15:55:00,3BW,,,PL V004,STUDIE,Wegsteen E.,Nollet Chris,Chris.Nollet@sgsintpaulus.eu,,VTI_3BW_Leerlingen@sgsintpaulus.eu,,,Gzdm5CQbRSo
+2026-05-08,Declercq D.,1,08:25:00,5AT & 5MT,,,A115>V009,GFL,Lokaalwijziging,Declercq Dirk,Dirk.Declercq@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,EC1qd-k2llE
+2026-05-08,Derieuw G.,2,09:15:00,5AT & 5MT,,,V124>V009,NED,Lokaalwijziging,Derieuw Geoffrey,geoffrey.derieuw@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,QAfZfdesyjs
+2026-05-08,Derieuw G.,5,13:10:00,5AT & 5MT,,,A115>V009,ENG,Lokaalwijziging,Derieuw Geoffrey,geoffrey.derieuw@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,RQn5ukHmHHM
+2026-05-08,Declercq D.,6,14:00:00,5AT & 5MT,,,C201>V009,GOD,Lokaalwijziging,Declercq Dirk,Dirk.Declercq@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,C3a5QxtHHqo
+2026-05-08,Viaene T.,7,15:05:00,5AT & 5MT,,,V119>V009,GES,Lokaalwijziging,Viaene Tuur,Tuur.Viaene@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,wSUrQHZYnCk
+2026-05-11,Degroote W.,1 ~ 2,08:25:00,2SBHb x,,,B161 & B165,SWCO,Klasdeel afwezig,Degroote Willem,Willem.Degroote@sgsintpaulus.eu,,,,,pBh3LE4BYBo
+2026-05-11,Gevaert F.,1 ~ 2,08:25:00,2SBHb y,,,B160,SWCO,Klasdeel afwezig,Gevaert Filip,Filip.Gevaert@sgsintpaulus.eu,,,,,MZVZFrKT86k
+2026-05-11,Verhulst W.,1 ~ 2,08:25:00,2SBHb z,,,B160,SWCO,Klasdeel afwezig,Verhulst Wouter,wouter.verhulst@sgsintpaulus.eu,,,,,_oQdXns7ki4
+2026-05-11,Ferlin L. & Gevaert F. & Laurent G. & Van Herreweghe B.,3 ~ 4,10:20:00,2SBHb 2SBHEX$EX2SME2SBH_1 & 2SBHb 2SBHEX$EX2SME2SBH_2,,,B160A & C010 FabLab & C132 Techn Elek STEM & V248,EX$EX2SME2SBH,Klasdeel afwezig,,,,,,,75wKaEOXtyE
+2026-05-11,Van Coppenolle K.,7 ~ 8,15:05:00,6LC,,,B022 Plaatbewerking & B030 Lasserij groepA & B030B Lasserijk groepB,LC$CM,Goethals A.,Van Coppenolle Kenneth,kenneth.vancoppenolle@sgsintpaulus.eu,,VTI_6LC_Leerlingen@sgsintpaulus.eu,,,_HnUPiUi00U
+2026-05-12,Deweer-Taelman K.,1,08:25:00,3Ma,,,B090 draaierij/Freeserij & B119 Theorie SV,MEC$VORGp,Goethals A.,Deweer-Taelman Karel,karel.deweertaelman@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,H7IrFJybcCI
+2026-05-12,Braeckevelt W.,1 ~ 2,08:25:00,5EI & 6EI,,,D130,EI$EIS,Behouden opdracht,Braeckevelt Wouter,wouter.braeckevelt@sgsintpaulus.eu,,VTI_5EI_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu,,,n3lPzdL2r-I
+2026-05-12,Van Acker A.,1 ~ 2,08:25:00,7TB,,,OLC4>D141,BVT/TAB,Lokaalwijziging,Van Acker Anja,Anja.VanAcker@sgsintpaulus.eu,,VTI_7TB_Leerlingen@sgsintpaulus.eu,,,oB_y3BVAmHM
+2026-05-12,Deweer-Taelman K.,2,09:15:00,3Ma,,,B090,MEC$VORGp,Goethals A.,Deweer-Taelman Karel,karel.deweertaelman@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,33MH6psZ2n0
+2026-05-12,Deweer-Taelman K.,3,10:20:00,3Ma,,,B090 draaierij/Freeserij & V246,MEC$VORGp,Goethals A.,Deweer-Taelman Karel,karel.deweertaelman@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,rcf3VXPp8iQ
+2026-05-12,Portier F.,4,11:10:00,3Ma,,,V220,MEC$TMEC,Goethals A.,Portier Frank,frank.portier@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,zN3Ro7NBnpw
+2026-05-13,Van de Wege L.,1,08:25:00,5AT & 5MT,,,V248>V009,WIS,Lokaalwijziging,Van de Wege Lies,Lies.VanDeWege@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,r0WcOyEtRTU
+2026-05-13,Derieuw G.,3,10:20:00,5AT & 5MT,,,C206>V009,NED,Lokaalwijziging,Derieuw Geoffrey,geoffrey.derieuw@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,5qNfstseKlI
+2026-05-14,Vande Walle F.,1,08:25:00,4Mb,,,V221,MEC$TEC,Goethals A.,Vande Walle Filip,filip.vandewalle@sgsintpaulus.eu,,VTI_4Mb_Leerlingen@sgsintpaulus.eu,,,mp0HG3TUp9U
+2026-05-14,Van de Wege L.,2,09:15:00,5AT & 5MT,,,V248>V009,WIS,Lokaalwijziging,Van de Wege Lies,Lies.VanDeWege@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,0U0MEPJ0XTA
+2026-05-14,Seynaeve J.,3 ~ 4,10:20:00,3EMTa,,,B090,EMT$EPCC,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu,,,n08ulOYEG4Y
+2026-05-14,Seynaeve J.,5 ~ 6,13:10:00,3Mb,,,B090,MEC$VORGp,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,fiDcaCI2III
+2026-05-14,Seynaeve J.,7 ~ 8,15:05:00,3EMTb,,,B022,EMT$EPCC,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3EMTb_Leerlingen@sgsintpaulus.eu,,,hGOPdV_cJjc
+2026-05-15,Declercq D.,1,08:25:00,5AT & 5MT,,,A115>V009,GFL,Lokaalwijziging,Declercq Dirk,Dirk.Declercq@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,awxUzL7fJv4
+2026-05-15,Derieuw G.,2,09:15:00,5AT & 5MT,,,V124>V009,NED,Lokaalwijziging,Derieuw Geoffrey,geoffrey.derieuw@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,VlypBFqIf2Q
+2026-05-15,Derieuw G.,5,13:10:00,5AT & 5MT,,,A115>V009,ENG,Lokaalwijziging,Derieuw Geoffrey,geoffrey.derieuw@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,wUyK-XO7yy4
+2026-05-15,Declercq D.,6,14:00:00,5AT & 5MT,,,C201>V009,GOD,Lokaalwijziging,Declercq Dirk,Dirk.Declercq@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,-G1wT4dMd1k
+2026-05-15,Viaene T.,7,15:05:00,5AT & 5MT,,,V119>V009,GES,Lokaalwijziging,Viaene Tuur,Tuur.Viaene@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,__tX9DrDm84
+2026-05-18,Van Coppenolle K.,7 ~ 8,15:05:00,6LC,,,B022 Plaatbewerking & B030 Lasserij groepA & B030B Lasserijk groepB,LC$CM,Goethals A.,Van Coppenolle Kenneth,kenneth.vancoppenolle@sgsintpaulus.eu,,VTI_6LC_Leerlingen@sgsintpaulus.eu,,,AyEvafhF8Qo
+2026-05-19,Van Mello G.,1 ~ 2,08:25:00,3EMTa,,,D220,EMT$EE,Van Mello G.,Van Mello Guy,Guy.VanMello@sgsintpaulus.eu,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu,,,FVcCvdQwmwQ
+2026-05-19,Deweer-Taelman K.,1,08:25:00,3Ma,,,B090 draaierij/Freeserij & B119 Theorie SV,MEC$VORGp,Goethals A.,Deweer-Taelman Karel,karel.deweertaelman@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,NRW532sBHMg
+2026-05-19,Braeckevelt W.,1 ~ 2,08:25:00,5EI & 6EI,,,D130,EI$EIS,Behouden opdracht,Braeckevelt Wouter,wouter.braeckevelt@sgsintpaulus.eu,,VTI_5EI_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu,,,TGZgTp-5Y6s
+2026-05-19,Van Acker A.,1 ~ 2,08:25:00,7TB,,,OLC4>D141,BVT/TAB,Lokaalwijziging,Van Acker Anja,Anja.VanAcker@sgsintpaulus.eu,,VTI_7TB_Leerlingen@sgsintpaulus.eu,,,U8RLNJtxfGg
+2026-05-19,Deweer-Taelman K.,2,09:15:00,3Ma,,,B090,MEC$VORGp,Goethals A.,Deweer-Taelman Karel,karel.deweertaelman@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,gitVuu5Ctqo
+2026-05-19,Deweer-Taelman K.,3,10:20:00,3Ma,,,B090 draaierij/Freeserij & V246,MEC$VORGp,Goethals A.,Deweer-Taelman Karel,karel.deweertaelman@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,VLvaPSjKdQs
+2026-05-19,Portier F.,4,11:10:00,3Ma,,,V220,MEC$TMEC,Goethals A.,Portier Frank,frank.portier@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,8ppnW25B5yQ
+2026-05-21,Vande Walle F.,1,08:25:00,4Mb,,,V221,MEC$TEC,Goethals A.,Vande Walle Filip,filip.vandewalle@sgsintpaulus.eu,,VTI_4Mb_Leerlingen@sgsintpaulus.eu,,,Y2s7ZCr6J9E
+2026-05-21,Holter M.,1,08:25:00,6ET & 6IAT,,,V121,ENG,Klasdeel afwezig,Holter Marnie,marnie.holter@sgsintpaulus.eu,,VTI_6ET_Leerlingen@sgsintpaulus.eu; VTI_6IAT_Leerlingen@sgsintpaulus.eu,,,V5vfv8BbFak
+2026-05-21,Cardinael L.,2,09:15:00,6ET & 6IAT,,,V247,FRA,Klasdeel afwezig,Cardinael L�lo,lelo.cardinael@sgsintpaulus.eu,,VTI_6ET_Leerlingen@sgsintpaulus.eu; VTI_6IAT_Leerlingen@sgsintpaulus.eu,,,g_D5qucDXmQ
+2026-05-21,Seynaeve J.,3 ~ 4,10:20:00,3EMTa,,,B090,EMT$EPCC,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu,,,44iT8hrQREo
+2026-05-21,Huys L.,3,10:20:00,5ET,,,V245,WIS,Klasdeel afwezig,Huys Liesbeth,liesbeth.huys@sgsintpaulus.eu,,VTI_5ET_Leerlingen@sgsintpaulus.eu,,,imhQ8rmY1KU
+2026-05-21,Allemeersch K.,4,11:10:00,5ET,,,LO1,LO,Klasdeel afwezig,Allemeersch Klaas,Klaas.Allemeersch@sgsintpaulus.eu,,VTI_5ET_Leerlingen@sgsintpaulus.eu,,,SOFHnNWZ7uM
+2026-05-21,Seynaeve J.,5 ~ 6,13:10:00,3Mb,,,B090,MEC$VORGp,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,4bmqpoYAQoI
+2026-05-21,Seynaeve J.,7 ~ 8,15:05:00,3EMTb,,,B022,EMT$EPCC,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3EMTb_Leerlingen@sgsintpaulus.eu,,,Jc1ec1htNf4
+2026-05-25,Van Coppenolle K.,7 ~ 8,15:05:00,6LC,,,B022 Plaatbewerking & B030 Lasserij groepA & B030B Lasserijk groepB,LC$CM,Goethals A.,Van Coppenolle Kenneth,kenneth.vancoppenolle@sgsintpaulus.eu,,VTI_6LC_Leerlingen@sgsintpaulus.eu,,,zHhS5pD4Pzs
+2026-05-26,Nolf M.,1 ~ 2,08:25:00,4HTa w,,,OLC1,HT$PROPd,Klasdeel afwezig,Nolf Mathieu,mathieu.nolf@sgsintpaulus.eu,,,,,mnOKk9aOAKg
+2026-05-26,Verhulst W.,1 ~ 2,08:25:00,4HTa x,,,OLC2,HT$PROPd,Klasdeel afwezig,Verhulst Wouter,wouter.verhulst@sgsintpaulus.eu,,,,,s5Uh526pZxI
+2026-05-26,Dierick R.,1 ~ 2,08:25:00,4HTa y,,,A161,HT$PROPd,Klasdeel afwezig,Dierick Robbe,robbe.dierick@sgsintpaulus.eu,,,,,wJ5J4pU9l1k
+2026-05-26,Velle M.,1 ~ 2,08:25:00,4HTa z,,,V224,HT$PROPd,Klasdeel afwezig,Velle Mathis,mathis.velle@sgsintpaulus.eu,,,,,WjGJuB4KfzY
+2026-05-26,Van Mello G.,1 ~ 2,08:25:00,3EMTa,,,D220,EMT$EE,Van Mello G.,Van Mello Guy,Guy.VanMello@sgsintpaulus.eu,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu,,,KFlhPXGmnEU
+2026-05-26,Deweer-Taelman K.,1,08:25:00,3Ma,,,B090 draaierij/Freeserij & B119 Theorie SV,MEC$VORGp,Goethals A.,Deweer-Taelman Karel,karel.deweertaelman@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,R0_7_kIew3g
+2026-05-26,Braeckevelt W.,1 ~ 2,08:25:00,5EI & 6EI,,,D130,EI$EIS,Behouden opdracht,Braeckevelt Wouter,wouter.braeckevelt@sgsintpaulus.eu,,VTI_5EI_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu,,,gh5ds7XsISY
+2026-05-26,Van Acker A.,1 ~ 2,08:25:00,7TB,,,OLC4>D141,BVT/TAB,Lokaalwijziging,Van Acker Anja,Anja.VanAcker@sgsintpaulus.eu,,VTI_7TB_Leerlingen@sgsintpaulus.eu,,,tUeGION6Emc
+2026-05-26,Deweer-Taelman K.,2,09:15:00,3Ma,,,B090,MEC$VORGp,Goethals A.,Deweer-Taelman Karel,karel.deweertaelman@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,N0_ieblAdKc
+2026-05-26,Beyaert S.,3,10:20:00,4HTa Gx,,,A162,HT$MMAg,Klasdeel afwezig,Beyaert Stijn,stijn.beyaert@sgsintpaulus.eu,,,,,y2yIybVi8Kc
+2026-05-26,Verhulst W.,3,10:20:00,4HTa Gy,,,A161,HT$MMAg,Verhulst W.,Verhulst Wouter,wouter.verhulst@sgsintpaulus.eu,,,,,Tv7p-l_EY-k
+2026-05-26,Vanaelst T.,3,10:20:00,4HTa Gz,,,A135,HT$MMAg,Vanaelst T.,Vanaelst Tony,Tony.Vanaelst@sgsintpaulus.eu,,,,,j2GdxeiwhNM
+2026-05-26,Deweer-Taelman K.,3,10:20:00,3Ma,,,B090 draaierij/Freeserij & V246,MEC$VORGp,Goethals A.,Deweer-Taelman Karel,karel.deweertaelman@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,tBh9ur7zsQQ
+2026-05-26,Portier F.,4,11:10:00,3Ma,,,V220,MEC$TMEC,Goethals A.,Portier Frank,frank.portier@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,0Z2U8AjJj9g
+2026-05-28,Vande Walle F.,1,08:25:00,4Mb,,,V221,MEC$TEC,Goethals A.,Vande Walle Filip,filip.vandewalle@sgsintpaulus.eu,,VTI_4Mb_Leerlingen@sgsintpaulus.eu,,,K55sSRiqYMo
+2026-05-28,Seynaeve J.,3 ~ 4,10:20:00,3EMTa,,,B090,EMT$EPCC,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu,,,lb44bymAZeA
+2026-05-28,Seynaeve J.,5 ~ 6,13:10:00,3Mb,,,B090,MEC$VORGp,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,bsk9RBVDMUw
+2026-05-28,Seynaeve J.,7 ~ 8,15:05:00,3EMTb,,,B022,EMT$EPCC,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3EMTb_Leerlingen@sgsintpaulus.eu,,,wmb6xLIpGxo
+2026-05-29,Nolf M.,,08:25:00,4HTb w,,,B050,HT$REAH,Klasdeel afwezig,Nolf Mathieu,mathieu.nolf@sgsintpaulus.eu,,,,,XGIJNAiGo-8
+2026-05-29,Giang V.,1,08:25:00,4HTb y,,,B050,HT$REAH,Klasdeel afwezig,Giang Van Khoa,vankhoa.giang@sgsintpaulus.eu,,,,,hZl37AibM7U
+2026-05-29,De Henau F.,1 ~ 2,08:25:00,4HTb z,,,A043,HT$REAH,Klasdeel afwezig,De Henau Filip,filip.dehenau@sgsintpaulus.eu,,,,,jxL66eNYJec
+2026-05-29,Giang V.,2,09:15:00,4HTb y,,,B050,HT$REAH,Klasdeel afwezig,Giang Van Khoa,vankhoa.giang@sgsintpaulus.eu,,,,,8E-ipBk1Pyw
+2026-05-29,Giang V.,3,10:20:00,4HTb y,,,B050,HT$REAH,Klasdeel afwezig,Giang Van Khoa,vankhoa.giang@sgsintpaulus.eu,,,,,Drzeee46d5E
+2026-05-29,De Henau F.,3 ~ 4,10:20:00,4HTb z,,,A043,HT$REAH,Klasdeel afwezig,De Henau Filip,filip.dehenau@sgsintpaulus.eu,,,,,YhEjX7ThZe4
+2026-05-29,Giang V.,4,11:10:00,4HTb y,,,B050,HT$REAH,Klasdeel afwezig,Giang Van Khoa,vankhoa.giang@sgsintpaulus.eu,,,,,PzZWzuQJS8s
+2026-05-05,Geannuleerde opdracht,1,08:25:00,Planton,,,NTB,TAAK,Demeulemeester C.,,,,,,Geannuleerde opdracht,I3T8WgLrZEU
+2026-05-05,Geannuleerde opdracht,1 ~ 2,08:25:00,5BIa Gz & 5BIb Gz,,,NTB,TAAK,Deryckere K.,,,,,,Geannuleerde opdracht,DaVNazmWejk
+2026-04-28,Geannuleerde opdracht,1 ~ 2,08:25:00,6TWE x & 6TWE y,,,NTB,TAAK,Van Heghe B. & Vandenbroucke S.,,,,,,Geannuleerde opdracht,l4kTWnu_CYk
+2026-05-11,Geannuleerde opdracht,1,08:25:00,1Be,,,NTB,TAAK,Delecourt N.,,,,VTI_1Be_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,GFhTIzThbPQ
+2026-05-07,Geannuleerde opdracht,1,08:25:00,1Bf,,,NTB,TAAK,Caes E.,,,,VTI_1Bf_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,hEVM1HRv_z8
+2026-05-11,Geannuleerde opdracht,1,08:25:00,1SWc,,,NTB,TAAK,De Lie C.,,,,VTI_1SWc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,wJoyx0nqA-8
+2026-05-22,Geannuleerde opdracht,1,08:25:00,2BEMc,,,NTB,TAAK,Notebaert L.,,,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,Z3NIGpSAX1w
+2026-05-29,Geannuleerde opdracht,1,08:25:00,2BEMc,,,NTB,TAAK,Notebaert L.,,,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,TiRiZSeYxYA
+2026-05-25,Geannuleerde opdracht,1,08:25:00,2BEMc,,,NTB,TAAK,Notebaert L.,,,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,15vjOHQ8ltY
+2026-05-28,Geannuleerde opdracht,1,08:25:00,2BEMc,,,NTB,TAAK,Notebaert L.,,,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,gzDSugm9Og4
+2026-05-26,Geannuleerde opdracht,1,08:25:00,2BEMc,,,NTB,TAAK,Notebaert L.,,,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,Ww02vOYX-sg
+2026-05-04,Geannuleerde opdracht,1,08:25:00,2SWa,,,NTB,TAAK,Descheemaeker B.,,,,VTI_2SWa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,eLQcAg982Wo
+2026-05-07,Geannuleerde opdracht,1,08:25:00,2SWc,,,NTB,TAAK,Van Glabeke E.,,,,VTI_2SWc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,ZLf4285Gx90
+2026-05-21,Geannuleerde opdracht,1,08:25:00,2SWc,,,NTB,TAAK,Van Glabeke E.,,,,VTI_2SWc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,2fhHVlr8st8
+2026-05-07,Geannuleerde opdracht,1,08:25:00,3E,,,NTB,TAAK,Delecourt N.,,,,VTI_3E_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,wEtV2IkDVkw
+2026-05-05,Geannuleerde opdracht,1,08:25:00,3E,,,NTB,TAAK,D'huyvetter S. & Dehaerne J.,,,,VTI_3E_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,i-BYxk_Kzys
+2026-05-04,Geannuleerde opdracht,1,08:25:00,3EMTb & 3ET,,,NTB,TAAK,Deblauwe N. & Degheldere C.,,,,VTI_3EMTb_Leerlingen@sgsintpaulus.eu; VTI_3ET_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,lE53_Zk3VO0
+2026-05-04,Geannuleerde opdracht,1,08:25:00,3Ha,,,NTB,TAAK,Bauwen T.,,,,VTI_3Ha_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,PaQej01BEkM
+2026-05-04,Geannuleerde opdracht,1,08:25:00,3HTa,,,NTB,TAAK,Dehaerne J.,,,,VTI_3HTa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,mnH8EMZLuTU
+2026-05-05,Geannuleerde opdracht,1,08:25:00,3TWENa,,,NTB,TAAK,Bauwen T.,,,,VTI_3TWENa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,1-jKdlDYvzQ
+2026-05-05,Geannuleerde opdracht,1,08:25:00,3TWENb,,,NTB,TAAK,Schamps I.,,,,VTI_3TWENb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,0XBorFUYrz8
+2026-05-08,Geannuleerde opdracht,1 ~ 2,08:25:00,4Ea,,,NTB,TAAK,Van Mello G.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,b2blOzyPW5Q
+2026-05-07,Geannuleerde opdracht,1,08:25:00,4Ea & 4Mc,,,NTB,TAAK,Jabeur W.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu; VTI_4Mc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,DVLuFoZP9tM
+2026-05-04,Geannuleerde opdracht,1 ~ 2,08:25:00,4Eb,,,NTB,TAAK,Delagrense D. & Verschueren J.,,,,VTI_4Eb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,HsABRg4P4SM
+2026-05-06,Geannuleerde opdracht,1,08:25:00,4Ma,,,NTB,TAAK,Van Utterbeeck A.,,,,VTI_4Ma_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,8iVttG2b8Hs
+2026-05-18,Geannuleerde opdracht,1 ~ 2,08:25:00,5BHW,,,NTB,TAAK,Verstuyft G.,,,,VTI_5BHW_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,qfW2fSRp5To
+2026-05-19,Geannuleerde opdracht,1 ~ 2,08:25:00,5BHW,,,NTB,TAAK,Verstuyft G.,,,,VTI_5BHW_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,yL5_MhwqBIw
+2026-05-04,Geannuleerde opdracht,1 ~ 2,08:25:00,5BIa,,,NTB,TAAK,Deryckere K.,,,,VTI_5BIa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,ye_qzGwxAQw
+2026-05-06,Geannuleerde opdracht,1,08:25:00,5BIb,,,NTB,TAAK,Schaek M.,,,,VTI_5BIb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,LGmQFsCcC4I
+2026-05-07,Geannuleerde opdracht,1,08:25:00,5BIb,,,NTB,TAAK,Dewaele S.,,,,VTI_5BIb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,53epHKhvzuY
+2026-05-12,Geannuleerde opdracht,1,08:25:00,5OAb,,,NTB,TAAK,Genitello S.,,,,VTI_5OAb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,sAw0bPZDE0c
+2026-05-22,Geannuleerde opdracht,,08:25:00,5TWE,,,NTB,TAAK,Devos C. & Van Heghe B.,,,,VTI_5TWE_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,pmsU1h7Mktw
+2026-05-26,Geannuleerde opdracht,1,08:25:00,6ADT & 6ET & 6IAT,,,NTB,TAAK,Callu F.,,,,VTI_6ADT_Leerlingen@sgsintpaulus.eu; VTI_6ET_Leerlingen@sgsintpaulus.eu; VTI_6IAT_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,WFcgMW_pdnI
+2026-05-08,Geannuleerde opdracht,1,08:25:00,6BIa,,,NTB,TAAK,Van Utterbeeck A.,,,,VTI_6BIa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,-TsShHQg_4s
+2026-05-05,Geannuleerde opdracht,1,08:25:00,6BIb,,,NTB,TAAK,Van Utterbeeck A.,,,,VTI_6BIb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,9Li-bxY8VO4
+2026-05-06,Geannuleerde opdracht,1,08:25:00,6BIb,,,NTB,TAAK,Viaene T.,,,,VTI_6BIb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,SCCGLalFTaw
+2026-05-20,Geannuleerde opdracht,1,08:25:00,6BIb,,,NTB,TAAK,Viaene T.,,,,VTI_6BIb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,2VrKZsbOPN0
+2026-05-08,Geannuleerde opdracht,1,08:25:00,6BIb,,,NTB,TAAK,Schaek M.,,,,VTI_6BIb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,mbEUcGoA2ZM
+2026-05-19,Geannuleerde opdracht,1,08:25:00,6HTa,,,NTB,TAAK,Viaene T.,,,,VTI_6HTa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,lbAylMpXLFc
+2026-05-29,Geannuleerde opdracht,1,08:25:00,6HTb,,,NTB,TAAK,Callu F.,,,,VTI_6HTb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,MStCtyZr1z4
+2026-05-05,Geannuleerde opdracht,1 ~ 2,08:25:00,6MEE & 6MEM,,,NTB,TAAK,Ackerman L.,,,,VTI_6MEE_Leerlingen@sgsintpaulus.eu; VTI_6MEM_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,bsNsYQ_X6NU
+2026-05-18,Geannuleerde opdracht,1,08:25:00,6TWE,,,NTB,TAAK,Naessens J.,,,,VTI_6TWE_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,8z6QjjwLsdE
+2026-04-27,Geannuleerde opdracht,1 ~ 2,08:25:00,7DPMV,,,NTB,TAAK,Genitello S.,,,,VTI_7DPMV_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,s1JsvhC1qrQ
+2026-05-05,Geannuleerde opdracht,2,09:15:00,Planton,,,NTB,TAAK,Schamps I.,,,,,,Geannuleerde opdracht,O9CxJV0-wpk
+2026-05-11,Geannuleerde opdracht,2,09:15:00,1Bf,,,NTB,TAAK,Delecourt N.,,,,VTI_1Bf_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,jAk0yTBHLNk
+2026-05-07,Geannuleerde opdracht,2,09:15:00,1Bg,,,NTB,TAAK,Courtens A.,,,,VTI_1Bg_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,cqT8M_Rh_Z8
+2026-05-05,Geannuleerde opdracht,2,09:15:00,1STa,,,NTB,TAAK,Vandevoorde H.,,,,VTI_1STa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,OWsvLgAiVqo
+2026-05-05,Geannuleerde opdracht,2,09:15:00,1SWa,,,NTB,TAAK,Bauwen T.,,,,VTI_1SWa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,NzyOysPkGI8
+2026-05-07,Geannuleerde opdracht,2,09:15:00,2SWa,,,NTB,TAAK,De Lie C.,,,,VTI_2SWa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,IIzqY-zDql4
+2026-05-07,Geannuleerde opdracht,2,09:15:00,2SWb,,,NTB,TAAK,Van Glabeke E.,,,,VTI_2SWb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,nNvS1-URG4k
+2026-05-21,Geannuleerde opdracht,2,09:15:00,2SWb,,,NTB,TAAK,Van Glabeke E.,,,,VTI_2SWb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,Z3JEq8ujgFE
+2026-05-11,Geannuleerde opdracht,2,09:15:00,3Ha,,,NTB,TAAK,Dehaerne A.,,,,VTI_3Ha_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,rwtlX5FjP-Y
+2026-05-04,Geannuleerde opdracht,2,09:15:00,3HTa,,,NTB,TAAK,Dehaerne J.,,,,VTI_3HTa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,k5I8Hpz8QgA
+2026-05-04,Geannuleerde opdracht,2,09:15:00,3HTb,,,NTB,TAAK,De Langhe Y.,,,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,kY_FZJBhccs
+2026-05-21,Geannuleerde opdracht,2,09:15:00,3HTb,,,NTB,TAAK,Notebaert L.,,,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,DH-Pao15kzA
+2026-05-28,Geannuleerde opdracht,2,09:15:00,3HTb,,,NTB,TAAK,Notebaert L.,,,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,A7YVGEHyEOk
+2026-05-22,Geannuleerde opdracht,2,09:15:00,3HTb,,,NTB,TAAK,Notebaert L.,,,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,yCasdCzQqfw
+2026-05-29,Geannuleerde opdracht,2,09:15:00,3HTb,,,NTB,TAAK,Notebaert L.,,,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,-2JtdlK78T4
+2026-05-05,Geannuleerde opdracht,2,09:15:00,3Mb,,,NTB,TAAK,Dehaerne J.,,,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,B1A2WXuBGxk
+2026-05-05,Geannuleerde opdracht,2 ~ 3,09:15:00,3TWENa,,,NTB,TAAK,Verschueren J.,,,,VTI_3TWENa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,XKVTY3rEVFs
+2026-05-05,Geannuleerde opdracht,2 ~ 3,09:15:00,3TWENb,,,NTB,TAAK,Demeulemeester C.,,,,VTI_3TWENb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,zNV1PoCDJSo
+2026-05-11,Geannuleerde opdracht,2,09:15:00,4Ea & 4Mc,,,NTB,TAAK,De Lie C.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu; VTI_4Mc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,A8qMISQ7038
+2026-05-05,Geannuleerde opdracht,2,09:15:00,4Eb,,,NTB,TAAK,D'huyvetter S. & Schaek M.,,,,VTI_4Eb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,wroKPRSGlgw
+2026-05-04,Geannuleerde opdracht,2,09:15:00,4Ma,,,NTB,TAAK,Bauwen T.,,,,VTI_4Ma_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,AdkMDGac20w
+2026-05-11,Geannuleerde opdracht,2,09:15:00,4TWENa,,,NTB,TAAK,Van Huylenbrouck T.,,,,VTI_4TWENa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,plQUD863dAw
+2026-05-06,Geannuleerde opdracht,2,09:15:00,5BIa,,,NTB,TAAK,Schaek M.,,,,VTI_5BIa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,pqJ_F3sW3O8
+2026-05-07,Geannuleerde opdracht,2,09:15:00,5BIb,,,NTB,TAAK,Dewaele S.,,,,VTI_5BIb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,kIIbuvfVE6o
+2026-05-18,Geannuleerde opdracht,2,09:15:00,5HTb,,,NTB,TAAK,Viaene T.,,,,VTI_5HTb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,9grc5RtaXow
+2026-05-29,Geannuleerde opdracht,2,09:15:00,6AT & 6MT,,,NTB,TAAK,Callu F.,,,,VTI_6AT_Leerlingen@sgsintpaulus.eu; VTI_6MT_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,3YhE76_eEwQ
+2026-05-06,Geannuleerde opdracht,2,09:15:00,6BIa,,,NTB,TAAK,Van Utterbeeck A.,,,,VTI_6BIa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,ts36m55iAgY
+2026-05-08,Geannuleerde opdracht,2,09:15:00,6BIa,,,NTB,TAAK,Schaek M.,,,,VTI_6BIa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,kOAECqv2ijg
+2026-05-08,Geannuleerde opdracht,2,09:15:00,6BIb,,,NTB,TAAK,Van Utterbeeck A.,,,,VTI_6BIb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,_kAhVhrsJk0
+2026-05-26,Geannuleerde opdracht,2,09:15:00,6HTa,,,NTB,TAAK,Callu F.,,,,VTI_6HTa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,iFlZHRJRgKQ
+2026-05-18,Geannuleerde opdracht,2,09:15:00,6HTa,,,NTB,TAAK,Naessens J.,,,,VTI_6HTa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,BHvKe5HhLHA
+2026-05-19,Geannuleerde opdracht,2,09:15:00,6HTb,,,NTB,TAAK,Viaene T.,,,,VTI_6HTb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,Df2gtd1eyLg
+2026-05-07,Geannuleerde opdracht,3,10:20:00,Planton,,,NTB,TAAK,Jabeur W.,,,,,,Geannuleerde opdracht,nOhhdIZVamQ
+2026-05-29,Geannuleerde opdracht,3,10:20:00,Planton,,,NTB,TAAK,Callu F.,,,,,,Geannuleerde opdracht,zUZdAXIMsYw
+2026-05-07,Geannuleerde opdracht,3 ~ 4,10:20:00,3HTb Gz & 3HTa Gz,,,NTB,TAAK,Verhulst W.,,,,,,Geannuleerde opdracht,nQacn55pJ3Y
+2026-05-05,Geannuleerde opdracht,3 ~ 4,10:20:00,5BIa Gz & 5BIb Gz,,,NTB,FRAR,Deryckere K.,,,,,,,ayG_vwehZ38
+2026-05-04,Geannuleerde opdracht,3,10:20:00,5BIa Gz & 5BIb Gz,,,NTB,FRAR,Deryckere K.,,,,,,,5wB_yfpfmps
+2026-05-12,Geannuleerde opdracht,3 ~ 4,10:20:00,6OA x,,,NTB,FRAR,Genitello S.,,,,,,,YpX1QjfyHYc
+2026-04-28,Geannuleerde opdracht,3 ~ 4,10:20:00,6TWE x & 6TWE y,,,NTB,FRAR,Van Heghe B. & Vandenbroucke S.,,,,,,,3gc2x-ikEnM
+2026-05-07,Geannuleerde opdracht,3,10:20:00,1Bf,,,NTB,FRAR,Delecourt N.,,,,VTI_1Bf_Leerlingen@sgsintpaulus.eu,,,WzXbzs_wJEc
+2026-05-07,Geannuleerde opdracht,3,10:20:00,1STc,,,NTB,FRAR,Courtens A.,,,,VTI_1STc_Leerlingen@sgsintpaulus.eu,,,7RPIgpiPk9g
+2026-05-07,Geannuleerde opdracht,3,10:20:00,1SWc,,,NTB,FRAR,Caes E. & Verstraete S.,,,,VTI_1SWc_Leerlingen@sgsintpaulus.eu,,,JSLLV-vQzgs
+2026-05-26,Geannuleerde opdracht,3,10:20:00,2SBHa,,,NTB,FRAR,Notebaert L.,,,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,mchehyhNwog
+2026-05-22,Geannuleerde opdracht,3,10:20:00,2SBHa,,,NTB,FRAR,Notebaert L.,,,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,tQP0CAeDLmo
+2026-05-29,Geannuleerde opdracht,3,10:20:00,2SBHa,,,NTB,FRAR,Notebaert L.,,,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,h4cRkh_wknU
+2026-05-05,Geannuleerde opdracht,3,10:20:00,2SBHb,,,NTB,FRAR,Schamps I.,,,,VTI_2SBHb_Leerlingen@sgsintpaulus.eu,,,Kx1tIMweT6A
+2026-05-04,Geannuleerde opdracht,3,10:20:00,2SWa,,,NTB,FRAR,Wegsteen E.,,,,VTI_2SWa_Leerlingen@sgsintpaulus.eu,,,jX3mNoR-IFs
+2026-05-04,Geannuleerde opdracht,3,10:20:00,2SWb,,,NTB,FRAR,Descheemaeker B.,,,,VTI_2SWb_Leerlingen@sgsintpaulus.eu,,,LYrxaQLBDtc
+2026-05-05,Geannuleerde opdracht,3,10:20:00,3BW,,,NTB,FRAR,Bauwen T.,,,,VTI_3BW_Leerlingen@sgsintpaulus.eu,,,bITPKWf8nb4
+2026-05-05,Geannuleerde opdracht,3,10:20:00,3E,,,NTB,FRAR,Vandevoorde H. & Vannieuwenhuyse T.,,,,VTI_3E_Leerlingen@sgsintpaulus.eu,,,ZhTIKhS1vLo
+2026-05-04,regeling volgt,3,10:20:00,3EMTa,,,NTB,FRAR,Degheldere C.,,,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu,,,qfMe7dxX7ao
+2026-05-04,Regeling volgt,3,10:20:00,3EMTb & 3ET,,,NTB,FRAR,Vandevoorde H.,,,,VTI_3EMTb_Leerlingen@sgsintpaulus.eu; VTI_3ET_Leerlingen@sgsintpaulus.eu,,,LgkF7kSlUZk
+2026-05-11,Regeling volgt,3,10:20:00,3Ha,,,NTB,FRAR,Van Huylenbrouck T.,,,,VTI_3Ha_Leerlingen@sgsintpaulus.eu,,,UalpLQGNM9Q
+2026-05-11,Regeling volgt,3,10:20:00,3Hb,,,NTB,FRAR,Dehaerne A. & Dejagere S.,,,,VTI_3Hb_Leerlingen@sgsintpaulus.eu,,,LBSdz8s3v4Y
+2026-05-25,Regeling volgt,3,10:20:00,3HTb,,,NTB,FRAR,Notebaert L.,,,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,,j08kaoQXjpQ
+2026-05-05,Regeling volgt,3,10:20:00,4Eb,,,NTB,FRAR,D'huyvetter S. & Schaek M.,,,,VTI_4Eb_Leerlingen@sgsintpaulus.eu,,,IUq3K7Ql-6k
+2026-05-05,Regeling volgt,3,10:20:00,4EMTa,,,NTB,FRAR,De Langhe Y.,,,,VTI_4EMTa_Leerlingen@sgsintpaulus.eu,,,BRdwDiH2Mec
+2026-04-27,Regeling volgt,3 ~ 4,10:20:00,4EMTb,,,NTB,FRAR,Van Coppenolle K.,,,,VTI_4EMTb_Leerlingen@sgsintpaulus.eu,,,qqy0BRhevrE
+2026-04-27,Regeling volgt,3,10:20:00,4HTa,,,NTB,FRAR,Santens T.,,,,VTI_4HTa_Leerlingen@sgsintpaulus.eu,,,0U57N0oy4sw
+2026-05-07,Regeling volgt,3,10:20:00,4Mb,,,NTB,FRAR,De Lie C.,,,,VTI_4Mb_Leerlingen@sgsintpaulus.eu,,,CuFbbMwRbFU
+2026-05-20,Regeling volgt,3,10:20:00,5HTb,,,NTB,FRAR,Ackerman L.,,,,VTI_5HTb_Leerlingen@sgsintpaulus.eu,,,D-MjADY_54I
+2026-05-20,Regeling volgt,3 ~ 4,10:20:00,5MEE & 5MEM,,,NTB,FRAR,Van Heghe B.,,,,VTI_5MEE_Leerlingen@sgsintpaulus.eu; VTI_5MEM_Leerlingen@sgsintpaulus.eu,,,iMGl5boG7SA
+2026-05-05,Regeling volgt,3,10:20:00,5MEE & 5MEM,,,NTB,FRAR,Declercq D.,,,,VTI_5MEE_Leerlingen@sgsintpaulus.eu; VTI_5MEM_Leerlingen@sgsintpaulus.eu,,,yW_ZyXggbk8
+2026-05-06,Regeling volgt,3,10:20:00,6BIa,,,NTB,FRAR,Schaek M.,,,,VTI_6BIa_Leerlingen@sgsintpaulus.eu,,,Es5K-W2dyEw
+2026-05-08,Regeling volgt,3,10:20:00,6BIb,,,NTB,FRAR,Schaek M.,,,,VTI_6BIb_Leerlingen@sgsintpaulus.eu,,,pm2R0TZv9NE
+2026-05-08,Regeling volgt,3,10:20:00,6DN & 6EI & 6SV,,,NTB,FRAR,Van Utterbeeck A.,,,,VTI_6DN_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu; VTI_6SV_Leerlingen@sgsintpaulus.eu,,,hgQAkP87Cj0
+2026-05-11,Regeling volgt,3,10:20:00,6LC,,,NTB,FRAR,De Lie C.,,,,VTI_6LC_Leerlingen@sgsintpaulus.eu,,,IB7xX9DuVPQ
+2026-05-06,Regeling volgt,3,10:20:00,6OA,,,NTB,FRAR,Van Utterbeeck A.,,,,VTI_6OA_Leerlingen@sgsintpaulus.eu,,,CiLfwN-dRJU
+2026-04-30,Regeling volgt,3,10:20:00,6TWE,,,NTB,FRAR,Ackerman L.,,,,VTI_6TWE_Leerlingen@sgsintpaulus.eu,,,cx0Qp7-COmI
+2026-04-27,Regeling volgt,4,11:10:00,Planton,,,NTB,FRAR,Nocon V.,,,,,,,uvkm-jDrL2Q
+2026-05-21,Regeling volgt,4,11:10:00,Planton,,,NTB,FRAR,Verstraete G.,,,,,,,T86N9PZIzdk
+2026-05-06,Regeling volgt,4,11:10:00,Planton,,,NTB,FRAR,Schaek M.,,,,,,,1ykZB0TMPWQ
+2026-05-11,Regeling volgt,4,11:10:00,Planton,,,NTB,FRAR,Baert P.,,,,,,,5K2OwtU4XMM
+2026-05-11,Regeling volgt,4,11:10:00,1Ba,,,NTB,FRAR,De Lie C.,,,,VTI_1Ba_Leerlingen@sgsintpaulus.eu,,,Y2hFbxs51is
+2026-05-26,Regeling volgt,4,11:10:00,1Bd,,,NTB,FRAR,Notebaert L.,,,,VTI_1Bd_Leerlingen@sgsintpaulus.eu,,,dD-WiUeyPMU
+2026-05-21,Regeling volgt,4,11:10:00,1Be,,,NTB,FRAR,Calleeuw S.,,,,VTI_1Be_Leerlingen@sgsintpaulus.eu,,,RmY0HJ3298M
+2026-05-04,Regeling volgt,4,11:10:00,1STb,,,NTB,FRAR,Wegsteen E.,,,,VTI_1STb_Leerlingen@sgsintpaulus.eu,,,MoRSFdCgce0
+2026-05-11,Regeling volgt,4,11:10:00,1SWc,,,NTB,FRAR,Dehaerne A.,,,,VTI_1SWc_Leerlingen@sgsintpaulus.eu,,,GDZURgmjNPQ
+2026-05-04,Regeling volgt,4,11:10:00,2BEMb,,,NTB,FRAR,Vandevoorde H.,,,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,BzZxqllgtVA
+2026-05-28,Regeling volgt,4,11:10:00,2BEMb,,,NTB,FRAR,Notebaert L.,,,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,3M7yNEC_4mc
+2026-05-22,Regeling volgt,4,11:10:00,2BEMb,,,NTB,FRAR,Notebaert L.,,,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,_WArvs8bd10
+2026-05-29,Regeling volgt,4,11:10:00,2BEMb,,,NTB,FRAR,Notebaert L.,,,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,6Kxnb2uh6F4
+2026-05-07,Regeling volgt,4,11:10:00,2BEMc,,,NTB,FRAR,Jabeur W.,,,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,,7UEsAbl8ghw
+2026-05-07,Regeling volgt,4,11:10:00,2SBHa,,,NTB,FRAR,Van Glabeke E.,,,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,BwWW7_uC2Cs
+2026-05-21,Regeling volgt,4,11:10:00,2SBHa,,,NTB,FRAR,Van Glabeke E.,,,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,P2AdiG7QDA8
+2026-05-08,Regeling volgt,4,11:10:00,3ET,,,NTB,FRAR,Van Mello G.,,,,VTI_3ET_Leerlingen@sgsintpaulus.eu,,,7gjOsXEmnHw
+2026-05-21,Regeling volgt,4,11:10:00,3Ha,,,NTB,FRAR,Dupret T.,,,,VTI_3Ha_Leerlingen@sgsintpaulus.eu,,,BS2TZ4lVD5g
+2026-05-04,Regeling volgt,4,11:10:00,3Hb,,,NTB,FRAR,Bauwen T. & Deblauwe N.,,,,VTI_3Hb_Leerlingen@sgsintpaulus.eu,,,MIbZQnlGGVg
+2026-05-04,Regeling volgt,4,11:10:00,3HTa,,,NTB,FRAR,Dehaerne J.,,,,VTI_3HTa_Leerlingen@sgsintpaulus.eu,,,ulWd7e9rSFs
+2026-05-04,Regeling volgt,4,11:10:00,3HTb,,,NTB,FRAR,Degheldere C.,,,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,,mXhh4RdaMuI
+2026-05-05,Regeling volgt,4,11:10:00,3TWEE & 3TWEM,,,NTB,FRAR,Schamps I.,,,,VTI_3TWEE_Leerlingen@sgsintpaulus.eu; VTI_3TWEM_Leerlingen@sgsintpaulus.eu,,,mi8HZlOBJ-Q
+2026-05-05,Regeling volgt,4,11:10:00,3TWENa,,,NTB,FRAR,Demeulemeester C.,,,,VTI_3TWENa_Leerlingen@sgsintpaulus.eu,,,7Ui2UlyBJ2A
+2026-05-05,Regeling volgt,4,11:10:00,3TWENb,,,NTB,FRAR,Verschueren J.,,,,VTI_3TWENb_Leerlingen@sgsintpaulus.eu,,,sAO6IyI4QGI
+2026-05-29,Regeling volgt,4,11:10:00,4BW & 4TWEE & 4TWEM,,,NTB,FRAR,Callu F.,,,,VTI_4BW_Leerlingen@sgsintpaulus.eu; VTI_4TWEE_Leerlingen@sgsintpaulus.eu; VTI_4TWEM_Leerlingen@sgsintpaulus.eu,,,EbyvvNKN-4A
+2026-05-06,Regeling volgt,4,11:10:00,4Ea & 4Mc,,,NTB,FRAR,Van Utterbeeck A.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu; VTI_4Mc_Leerlingen@sgsintpaulus.eu,,,9w8rHgB7TGc
+2026-04-27,Regeling volgt,4,11:10:00,4HTb,,,NTB,FRAR,Santens T.,,,,VTI_4HTb_Leerlingen@sgsintpaulus.eu,,,D3rHkyN9hhE
+2026-05-18,Regeling volgt,4,11:10:00,5ADT & 5ET,,,NTB,FRAR,Viaene T.,,,,VTI_5ADT_Leerlingen@sgsintpaulus.eu; VTI_5ET_Leerlingen@sgsintpaulus.eu,,,zy9TNEeHeQ0
+2026-05-19,Regeling volgt,4,11:10:00,5ADT & 5ET,,,NTB,FRAR,Goethals S.,,,,VTI_5ADT_Leerlingen@sgsintpaulus.eu; VTI_5ET_Leerlingen@sgsintpaulus.eu,,,pBSQLeBB4Cw
+2026-05-05,Regeling volgt,4,11:10:00,5HTb,,,NTB,FRAR,Declercq D.,,,,VTI_5HTb_Leerlingen@sgsintpaulus.eu,,,UhSP-Ly6jTM
+2026-05-22,Regeling volgt,4,11:10:00,5MEE,,,NTB,FRAR,Van Heghe B.,,,,VTI_5MEE_Leerlingen@sgsintpaulus.eu,,,qXiH9sArNzs
+2026-05-05,Regeling volgt,4,11:10:00,5TWE,,,NTB,FRAR,Ackerman L.,,,,VTI_5TWE_Leerlingen@sgsintpaulus.eu,,,0fOxm9ZoIEg
+2026-05-19,Regeling volgt,4,11:10:00,5TWE,,,NTB,FRAR,Ackerman L.,,,,VTI_5TWE_Leerlingen@sgsintpaulus.eu,,,lfF7mDO38ps
+2026-05-20,Regeling volgt,4,11:10:00,6BIa,,,NTB,FRAR,Viaene T.,,,,VTI_6BIa_Leerlingen@sgsintpaulus.eu,,,KTzokwewjpY
+2026-05-18,Regeling volgt,4,11:10:00,6HTb,,,NTB,FRAR,Naessens J.,,,,VTI_6HTb_Leerlingen@sgsintpaulus.eu,,,YMaT70yYkjg
+2026-05-05,Regeling volgt,4,11:10:00,6LC,,,NTB,FRAR,Van Utterbeeck A.,,,,VTI_6LC_Leerlingen@sgsintpaulus.eu,,,p0EpDTYiVOU
+2026-04-30,Regeling volgt,4,11:10:00,6MEE & 6MEM,,,NTB,FRAR,Ackerman L.,,,,VTI_6MEE_Leerlingen@sgsintpaulus.eu; VTI_6MEM_Leerlingen@sgsintpaulus.eu,,,2HPFpr4qMDo
+2026-05-07,Regeling volgt,4,11:10:00,6OA,,,NTB,FRAR,De Lie C.,,,,VTI_6OA_Leerlingen@sgsintpaulus.eu,,,deP2TTFOv_A
+2026-05-08,Regeling volgt,4,11:10:00,7DE & 7DPMV,,,NTB,FRAR,Van Utterbeeck A.,,,,VTI_7DE_Leerlingen@sgsintpaulus.eu; VTI_7DPMV_Leerlingen@sgsintpaulus.eu,,,8N0J58VDbCw
+2026-04-27,Regeling volgt,99,12:00:00,01 0750:0810 Opvang V004+hal,,,NTB,FRAR,Bogaerts T.,,,,,,,0z_-Cjgk_HE
+2026-05-07,Regeling volgt,99,12:00:00,27 1450:1505 Koer B,,,NTB,FRAR,Van Glabeke E.,,,,,,,jOo1q1Xa_2M
+2026-05-21,Regeling volgt,99,12:00:00,27 1450:1505 Koer B,,,NTB,FRAR,Van Glabeke E.,,,,,,,2YYK7QjkUsU
+2026-05-18,Regeling volgt,99,12:00:00,24 1230:1300 OLC,,,NTB,FRAR,Verstuyft G.,,,,,,,ohX39BEgbN0
+2026-05-05,Regeling volgt,99,12:00:00,16 1230:1300 Resto A013 tz,,,NTB,FRAR,Degheldere C.,,,,,,,gxsCkxDWXj0
+2026-05-22,Regeling volgt,99,12:00:00,11 1210:1240 Resto A013 scan,,,NTB,FRAR,Van Heghe B.,,,,,,,RRMqa1hiNNQ
+2026-05-08,Regeling volgt,99,12:00:00,07 1230:1300 Koer C,,,NTB,FRAR,Van Mello G.,,,,,,,D_j5MfAOMZg
+2026-05-07,Regeling volgt,99,12:00:00,22 12:30:1300 V004 Spelletjes,,,NTB,FRAR,De Lie C.,,,,,,,rB_4IrZHoLU
+2026-05-11,Regeling volgt,99,12:00:00,25 1450:15005 Broodjes Koer B,,,NTB,FRAR,Van Glabeke E.,,,,,,,6BK_vPrQ6hs
+2026-05-21,Regeling volgt,5,13:10:00,Planton,,,NTB,FRAR,Ackerman L.,,,,,,,_EgAAM4ZLvI
+2026-05-12,Regeling volgt,5,13:10:00,Planton,,,NTB,FRAR,Genitello S.,,,,,,,sDBSpp0-qdQ
+2026-05-21,Regeling volgt,5 ~ 6,13:10:00,1STd TG7,,,NTB,FRAR,Degroote W.,,,,,,,1X67WjR4F-A
+2026-05-11,Regeling volgt,5,13:10:00,4HTb x & 4HTa x,,,NTB,FRAR,Baert P.,,,,,,,xDXGMts4UKs
+2026-05-05,Regeling volgt,5 ~ 6,13:10:00,4TWENa Gz & 4TWENb Gz,,,NTB,FRAR,Verschueren J.,,,,,,,xuWo6AbVdrw
+2026-05-04,Regeling volgt,5 ~ 6,13:10:00,5BIa Gz & 5BIb Gz,,,NTB,FRAR,Deryckere K.,,,,,,,nRnvDzQAvU4
+2026-05-07,Regeling volgt,5 ~ 6,13:10:00,1Bd,,,NTB,FRAR,Verhulst W.,,,,VTI_1Bd_Leerlingen@sgsintpaulus.eu,,,fqZGCDABBEQ
+2026-05-22,Regeling volgt,5,13:10:00,1Bd,,,NTB,FRAR,Notebaert L.,,,,VTI_1Bd_Leerlingen@sgsintpaulus.eu,,,IMYOZvlwOeY
+2026-05-29,Regeling volgt,5,13:10:00,1Bd,,,NTB,FRAR,Notebaert L.,,,,VTI_1Bd_Leerlingen@sgsintpaulus.eu,,,jtnsO--pb6M
+2026-05-25,Regeling volgt,5,13:10:00,1Bd,,,NTB,FRAR,Notebaert L.,,,,VTI_1Bd_Leerlingen@sgsintpaulus.eu,,,5IgWTnxvrA0
+2026-05-26,Regeling volgt,5,13:10:00,2BEMb,,,NTB,FRAR,Notebaert L.,,,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,c4Vk_a-wRq8
+2026-05-11,Regeling volgt,5,13:10:00,2BHMb,,,NTB,FRAR,Van Glabeke E.,,,,VTI_2BHMb_Leerlingen@sgsintpaulus.eu,,,kWGKkZcWJTE
+2026-05-04,Regeling volgt,5,13:10:00,2SBHa,,,NTB,FRAR,Schamps I.,,,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,yIiF9VoDgEQ
+2026-05-07,Regeling volgt,5,13:10:00,2SBHa,,,NTB,FRAR,Van Glabeke E.,,,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,81l3hvoV7MI
+2026-05-21,Regeling volgt,5,13:10:00,2SBHa,,,NTB,FRAR,Van Glabeke E.,,,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,hF_vXjOZU90
+2026-04-28,Regeling volgt,5 ~ 6,13:10:00,2SMEa,,,NTB,FRAR,Van Hulle J.,,,,VTI_2SMEa_Leerlingen@sgsintpaulus.eu,,,xzYJcGzlqkI
+2026-05-21,Regeling volgt,5,13:10:00,2SMEa,,,NTB,FRAR,Dupret T.,,,,VTI_2SMEa_Leerlingen@sgsintpaulus.eu,,,UsZ4OqfIOsU
+2026-04-27,Regeling volgt,5,13:10:00,2SWa,,,NTB,FRAR,Santens T.,,,,VTI_2SWa_Leerlingen@sgsintpaulus.eu,,,1hOCvRKZHcw
+2026-05-18,Regeling volgt,5,13:10:00,3BW,,,NTB,FRAR,Verstuyft G.,,,,VTI_3BW_Leerlingen@sgsintpaulus.eu,,,PahtUgIUmSE
+2026-04-27,Regeling volgt,,13:10:00,3EMTa,,,NTB,FRAR,Demeulemeester C.,,,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu,,,NclW4g5mmlo
+2026-05-19,Regeling volgt,5,13:10:00,3EMTb & 3ET,,,NTB,FRAR,Demets R. & Demey M.,,,,VTI_3EMTb_Leerlingen@sgsintpaulus.eu; VTI_3ET_Leerlingen@sgsintpaulus.eu,,,iRFqifH96Ro
+2026-05-04,Regeling volgt,5,13:10:00,3EMTb & 3ET,,,NTB,FRAR,Deblauwe N. & Degheldere C.,,,,VTI_3EMTb_Leerlingen@sgsintpaulus.eu; VTI_3ET_Leerlingen@sgsintpaulus.eu,,,E4a13vGkNGM
+2026-05-04,Regeling volgt,5,13:10:00,3HTa,,,NTB,FRAR,Wegsteen E.,,,,VTI_3HTa_Leerlingen@sgsintpaulus.eu,,,QhBcCmjDyYw
+2026-05-04,Regeling volgt,5,13:10:00,3HTb,,,NTB,FRAR,Dehaerne J.,,,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,,IylZz82emxs
+2026-05-04,Regeling volgt,5,13:10:00,3Ma,,,NTB,FRAR,Vandevoorde H.,,,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,2Ko6JLIGYtw
+2026-05-05,Regeling volgt,5,13:10:00,3Ma,,,NTB,FRAR,Dehaerne J.,,,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,zCjNVd9lFIY
+2026-05-05,Regeling volgt,5,13:10:00,3TWEE & 3TWEM,,,NTB,FRAR,Degheldere C.,,,,VTI_3TWEE_Leerlingen@sgsintpaulus.eu; VTI_3TWEM_Leerlingen@sgsintpaulus.eu,,,L6TdgzHxyJo
+2026-05-08,Regeling volgt,5,13:10:00,4Ea,,,NTB,FRAR,Van Mello G.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,,O7BBaQcJhdI
+2026-05-07,Regeling volgt,5,13:10:00,4Eb,,,NTB,FRAR,D'huyvetter S. & Schaek M.,,,,VTI_4Eb_Leerlingen@sgsintpaulus.eu,,,F-it_bBgMBU
+2026-05-07,Regeling volgt,5,13:10:00,4ET,,,NTB,FRAR,Delecourt N. & Georgescu S.,,,,VTI_4ET_Leerlingen@sgsintpaulus.eu,,,UxG9WMd2DpE
+2026-05-07,Regeling volgt,5,13:10:00,4Hb,,,NTB,FRAR,De Lie C. & Vannieuwenhuyse T.,,,,VTI_4Hb_Leerlingen@sgsintpaulus.eu,,,8etlB4CzdBk
+2026-05-05,Regeling volgt,5,13:10:00,4HTa,,,NTB,FRAR,De Langhe Y.,,,,VTI_4HTa_Leerlingen@sgsintpaulus.eu,,,d96q9F5dnS4
+2026-05-05,Regeling volgt,5,13:10:00,4Mb,,,NTB,FRAR,Bauwen T.,,,,VTI_4Mb_Leerlingen@sgsintpaulus.eu,,,VZnwpRXeoJg
+2026-05-05,Regeling volgt,5 ~ 6,13:10:00,4TWEE & 4TWEM,,,NTB,FRAR,Goemaere K.,,,,VTI_4TWEE_Leerlingen@sgsintpaulus.eu; VTI_4TWEM_Leerlingen@sgsintpaulus.eu,,,SORRQIrzigA
+2026-05-18,Regeling volgt,5,13:10:00,5AT & 5MT,,,NTB,FRAR,Goethals S.,,,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,QgFjnPSAxiE
+2026-05-05,Regeling volgt,5,13:10:00,5BIa,,,NTB,FRAR,Dewaele S.,,,,VTI_5BIa_Leerlingen@sgsintpaulus.eu,,,eE1f6gxDFf8
+2026-05-05,Regeling volgt,5,13:10:00,5BIb,,,NTB,FRAR,Schaek M.,,,,VTI_5BIb_Leerlingen@sgsintpaulus.eu,,,0MPf_jHge3Y
+2026-05-08,Regeling volgt,5 ~ 6,13:10:00,5HTa,,,NTB,FRAR,Dewaele S.,,,,VTI_5HTa_Leerlingen@sgsintpaulus.eu,,,x62H1zDnrxA
+2026-05-07,Regeling volgt,5,13:10:00,6BIb,,,NTB,FRAR,Jabeur W.,,,,VTI_6BIb_Leerlingen@sgsintpaulus.eu,,,p_UtvHGvilc
+2026-05-08,Regeling volgt,5,13:10:00,6LC,,,NTB,FRAR,Van Utterbeeck A.,,,,VTI_6LC_Leerlingen@sgsintpaulus.eu,,,ghQVhDKMK80
+2026-05-11,Regeling volgt,5,13:10:00,6OA,,,NTB,FRAR,De Lie C.,,,,VTI_6OA_Leerlingen@sgsintpaulus.eu,,,R9ljLkWNuo0
+2026-05-18,Regeling volgt,5,13:10:00,6TWE,,,NTB,FRAR,Viaene T.,,,,VTI_6TWE_Leerlingen@sgsintpaulus.eu,,,6nM2R8hfcsY
+2026-05-04,Regeling volgt,6,14:00:00,Planton,,,NTB,FRAR,Verschueren J.,,,,,,,DZadJwfisk4
+2026-05-07,Regeling volgt,6,14:00:00,Planton,,,NTB,FRAR,Caes E.,,,,,,,X_has7BXJYQ
+2026-05-07,Regeling volgt,6,14:00:00,1Be,,,NTB,FRAR,Delecourt N.,,,,VTI_1Be_Leerlingen@sgsintpaulus.eu,,,AwBZUkrUaO0
+2026-05-04,Regeling volgt,6,14:00:00,1STc,,,NTB,FRAR,Vandevoorde H.,,,,VTI_1STc_Leerlingen@sgsintpaulus.eu,,,omn72C_qLUM
+2026-05-19,Regeling volgt,6,14:00:00,1SWa,,,NTB,FRAR,Decavel L. & Demets R.,,,,VTI_1SWa_Leerlingen@sgsintpaulus.eu,,,HufgBybDXmI
+2026-05-25,Regeling volgt,6,14:00:00,2BEMb,,,NTB,FRAR,Notebaert L.,,,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,1CSst4kd768
+2026-05-11,Regeling volgt,6,14:00:00,2BHMa,,,NTB,FRAR,Van Glabeke E.,,,,VTI_2BHMa_Leerlingen@sgsintpaulus.eu,,,DA3LC7H8q8M
+2026-05-07,Regeling volgt,6,14:00:00,2BHMc,,,NTB,FRAR,Jabeur W.,,,,VTI_2BHMc_Leerlingen@sgsintpaulus.eu,,,dNzA3NPdLtw
+2026-05-04,Regeling volgt,6,14:00:00,2SMEc,,,NTB,FRAR,Schamps I.,,,,VTI_2SMEc_Leerlingen@sgsintpaulus.eu,,,G9GcQ8fW0t8
+2026-05-04,Regeling volgt,6,14:00:00,2SWb,,,NTB,FRAR,Wegsteen E.,,,,VTI_2SWb_Leerlingen@sgsintpaulus.eu,,,FYI2VAe4cK4
+2026-05-07,Regeling volgt,6,14:00:00,2SWb,,,NTB,FRAR,Van Glabeke E.,,,,VTI_2SWb_Leerlingen@sgsintpaulus.eu,,,vRubDKPw7Jg
+2026-05-21,Regeling volgt,6,14:00:00,2SWb,,,NTB,FRAR,Van Glabeke E.,,,,VTI_2SWb_Leerlingen@sgsintpaulus.eu,,,DSEzz2IURGQ
+2026-05-21,Regeling volgt,6,14:00:00,2SWc,,,NTB,FRAR,Dupret T.,,,,VTI_2SWc_Leerlingen@sgsintpaulus.eu,,,c2Okax7xyiY
+2026-05-05,Regeling volgt,6,14:00:00,3BW,,,NTB,FRAR,Bauwen T.,,,,VTI_3BW_Leerlingen@sgsintpaulus.eu,,,c3De3g5IK5g
+2026-05-21,Regeling volgt,6,14:00:00,3BW,,,NTB,FRAR,Verstraete G.,,,,VTI_3BW_Leerlingen@sgsintpaulus.eu,,,YZ5KIy35MB0
+2026-04-27,Regeling volgt,,14:00:00,3EMTb,,,NTB,FRAR,Deweer-Taelman K. & Van Coppenolle K.,,,,VTI_3EMTb_Leerlingen@sgsintpaulus.eu,,,ajzaRp2edzk
+2026-05-04,Regeling volgt,6,14:00:00,3HTb,,,NTB,FRAR,Degheldere C.,,,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,,AJ7KfdZCnwA
+2026-05-05,Regeling volgt,6,14:00:00,3Mb,,,NTB,FRAR,Dehaerne J.,,,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,k0-gNcdGoIg
+2026-05-04,Regeling volgt,6,14:00:00,3Mb,,,NTB,FRAR,Dehaerne J.,,,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,pn9gJ95X5Io
+2026-05-08,Regeling volgt,6,14:00:00,4Ea,,,NTB,FRAR,Van Mello G.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,,OT_fAd5oc1A
+2026-05-07,Regeling volgt,6,14:00:00,4Ha,,,NTB,FRAR,De Lie C.,,,,VTI_4Ha_Leerlingen@sgsintpaulus.eu,,,jQbQ_-DIcDA
+2026-05-05,Regeling volgt,6,14:00:00,4HTb,,,NTB,FRAR,De Langhe Y.,,,,VTI_4HTb_Leerlingen@sgsintpaulus.eu,,,x_J91zDtEE0
+2026-05-08,Regeling volgt,6,14:00:00,4Mb,,,NTB,FRAR,Van Utterbeeck A.,,,,VTI_4Mb_Leerlingen@sgsintpaulus.eu,,,UAG16eK1r9o
+2026-05-22,Regeling volgt,6,14:00:00,5BHW & 5ICW,,,NTB,FRAR,Huys L.,,,,VTI_5BHW_Leerlingen@sgsintpaulus.eu; VTI_5ICW_Leerlingen@sgsintpaulus.eu,,,r51sXzZjIhU
+2026-05-05,Regeling volgt,6,14:00:00,5BIa,,,NTB,FRAR,Schaek M.,,,,VTI_5BIa_Leerlingen@sgsintpaulus.eu,,,FzDovbZ8_CQ
+2026-05-22,Regeling volgt,6,14:00:00,5TWE,,,NTB,FRAR,Van Heghe B.,,,,VTI_5TWE_Leerlingen@sgsintpaulus.eu,,,kWZaQpVzpTw
+2026-05-05,Regeling volgt,6,14:00:00,5TWE,,,NTB,FRAR,Ackerman L.,,,,VTI_5TWE_Leerlingen@sgsintpaulus.eu,,,B2KpMrFXx48
+2026-05-19,Regeling volgt,6,14:00:00,5TWE,,,NTB,FRAR,Ackerman L.,,,,VTI_5TWE_Leerlingen@sgsintpaulus.eu,,,_P4eEfdGI6E
+2026-05-18,Regeling volgt,6,14:00:00,6AT & 6MT,,,NTB,FRAR,Viaene T.,,,,VTI_6AT_Leerlingen@sgsintpaulus.eu; VTI_6MT_Leerlingen@sgsintpaulus.eu,,,HTbpdZQ5ySs
+2026-05-07,Regeling volgt,6,14:00:00,6BIa,,,NTB,FRAR,Van Utterbeeck A.,,,,VTI_6BIa_Leerlingen@sgsintpaulus.eu,,,zWn-XquB6m8
+2026-05-18,Regeling volgt,6,14:00:00,6HTb,,,NTB,FRAR,Naessens J.,,,,VTI_6HTb_Leerlingen@sgsintpaulus.eu,,,HdGwMlMTzOU
+2026-05-12,Regeling volgt,6,14:00:00,6OA,,,NTB,FRAR,Genitello S.,,,,VTI_6OA_Leerlingen@sgsintpaulus.eu,,,Sqs-wjMKYes
+2026-05-18,Regeling volgt,6,14:00:00,6TWE,,,NTB,FRAR,Goethals S.,,,,VTI_6TWE_Leerlingen@sgsintpaulus.eu,,,gJ4OnVRMe4w
+2026-05-19,Regeling volgt,7,15:05:00,Planton,,,NTB,FRAR,Goethals S.,,,,,,,grbas8Pkdog
+2026-05-21,Regeling volgt,7 ~ 8,15:05:00,2SBHb w & 2SBHa w,,,NTB,FRAR,Baert P.,,,,,,,LwnSMbMSqkw
+2026-05-21,Regeling volgt,7 ~ 8,15:05:00,2SBHb x & 2SBHa x,,,NTB,FRAR,Degroote W.,,,,,,,lQs6tvYXiOk
+2026-05-05,Regeling volgt,7 ~ 8,15:05:00,3TWENb Gz & 3TWENa Gz,,,NTB,FRAR,Verschueren J.,,,,,,,qsD7fS-SnQQ
+2026-05-04,Regeling volgt,7 ~ 8,15:05:00,5BIa Gz & 5BIb Gz,,,NTB,FRAR,Deryckere K.,,,,,,,JBjQ6DFeyaQ
+2026-05-07,Regeling volgt,7,15:05:00,1Bd,,,NTB,FRAR,Delecourt N.,,,,VTI_1Bd_Leerlingen@sgsintpaulus.eu,,,6EmmjMvDgW8
+2026-05-26,Regeling volgt,7,15:05:00,1Bd,,,NTB,FRAR,Notebaert L.,,,,VTI_1Bd_Leerlingen@sgsintpaulus.eu,,,27n6dbqRmw0
+2026-05-07,Regeling volgt,7,15:05:00,1STc,,,NTB,FRAR,Caes E. & De Frene N.,,,,VTI_1STc_Leerlingen@sgsintpaulus.eu,,,9gw6NBn6peI
+2026-05-04,Regeling volgt,7,15:05:00,1SWa,,,NTB,FRAR,Wegsteen E.,,,,VTI_1SWa_Leerlingen@sgsintpaulus.eu,,,wZrj-3hsf60
+2026-05-07,Regeling volgt,7,15:05:00,1SWc,,,NTB,FRAR,Decordier T.,,,,VTI_1SWc_Leerlingen@sgsintpaulus.eu,,,ytdGXiZ-cwI
+2026-05-25,Regeling volgt,7,15:05:00,2SBHa,,,NTB,FRAR,Notebaert L.,,,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,qZaDtXdvoLg
+2026-05-22,Regeling volgt,7,15:05:00,2SBHa,,,NTB,FRAR,Notebaert L.,,,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,PC7JLK5YK9w
+2026-05-29,Regeling volgt,7,15:05:00,2SBHa,,,NTB,FRAR,Notebaert L.,,,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,FGODj_wouoE
+2026-04-27,Regeling volgt,7,15:05:00,2SMEa,,,NTB,FRAR,Santens T.,,,,VTI_2SMEa_Leerlingen@sgsintpaulus.eu,,,GIier_WfpUc
+2026-05-04,Regeling volgt,7,15:05:00,2SMEc,,,NTB,FRAR,Schamps I.,,,,VTI_2SMEc_Leerlingen@sgsintpaulus.eu,,,UQvtgkYsSdw
+2026-05-04,Regeling volgt,7,15:05:00,2SWa,,,NTB,FRAR,Descheemaeker B.,,,,VTI_2SWa_Leerlingen@sgsintpaulus.eu,,,le6IFTqN19U
+2026-04-28,Regeling volgt,7 ~ 8,15:05:00,2SWb,,,NTB,FRAR,Van Hulle J.,,,,VTI_2SWb_Leerlingen@sgsintpaulus.eu,,,I8cqgw7rQdk
+2026-05-04,Regeling volgt,7,15:05:00,3Mb,,,NTB,FRAR,Vandevoorde H.,,,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,gra1rLOpjFk
+2026-05-05,Regeling volgt,7,15:05:00,3TWEE & 3TWEM,,,NTB,FRAR,Bauwen T.,,,,VTI_3TWEE_Leerlingen@sgsintpaulus.eu; VTI_3TWEM_Leerlingen@sgsintpaulus.eu,,,EnGpDX9M-xs
+2026-05-18,Regeling volgt,7 ~ 8,15:05:00,4BW,,,NTB,FRAR,Verstuyft G.,,,,VTI_4BW_Leerlingen@sgsintpaulus.eu,,,w3ovyLlsgQY
+2026-05-05,Regeling volgt,7,15:05:00,4EMTa,,,NTB,FRAR,De Langhe Y.,,,,VTI_4EMTa_Leerlingen@sgsintpaulus.eu,,,mm2rT6cAy1U
+2026-05-19,Regeling volgt,7,15:05:00,4EMTb,,,NTB,FRAR,De Clerck L. & Demets R.,,,,VTI_4EMTb_Leerlingen@sgsintpaulus.eu,,,XvaGZTlWN9Y
+2026-05-05,Regeling volgt,7 ~ 8,15:05:00,4Ha,,,NTB,FRAR,Dewaele S.,,,,VTI_4Ha_Leerlingen@sgsintpaulus.eu,,,waJlBDSPm9Y
+2026-05-05,Regeling volgt,7,15:05:00,4HTa,,,NTB,FRAR,Goemaere K.,,,,VTI_4HTa_Leerlingen@sgsintpaulus.eu,,,eYPsb1xdJ0M
+2026-05-22,Regeling volgt,7 ~ 8,15:05:00,5ICW,,,NTB,FRAR,Van Heghe B.,,,,VTI_5ICW_Leerlingen@sgsintpaulus.eu,,,uN8XxMY0d8A
+2026-05-22,Regeling volgt,7 ~ 8,15:05:00,5LC,,,NTB,FRAR,Cottignies V.,,,,VTI_5LC_Leerlingen@sgsintpaulus.eu,,,VRjcuPPtqAU
+2026-05-29,Regeling volgt,7 ~ 8,15:05:00,5LC,,,NTB,FRAR,Cottignies V.,,,,VTI_5LC_Leerlingen@sgsintpaulus.eu,,,ZeZDUtgoAG8
+2026-05-18,Regeling volgt,7,15:05:00,5MEE & 5MEM,,,NTB,FRAR,Viaene T.,,,,VTI_5MEE_Leerlingen@sgsintpaulus.eu; VTI_5MEM_Leerlingen@sgsintpaulus.eu,,,1Wt6VLd4kX0
+2026-05-22,Regeling volgt,7,15:05:00,5MEE & 5MEM,,,NTB,FRAR,Huys L.,,,,VTI_5MEE_Leerlingen@sgsintpaulus.eu; VTI_5MEM_Leerlingen@sgsintpaulus.eu,,,isoVrbOLuFs
+2026-05-12,Regeling volgt,7,15:05:00,5OAa,,,NTB,FRAR,Genitello S.,,,,VTI_5OAa_Leerlingen@sgsintpaulus.eu,,,GvLfTahg1_Q
+2026-05-18,Regeling volgt,7,15:05:00,6ADT & 6ET & 6IAT,,,NTB,FRAR,Naessens J.,,,,VTI_6ADT_Leerlingen@sgsintpaulus.eu; VTI_6ET_Leerlingen@sgsintpaulus.eu; VTI_6IAT_Leerlingen@sgsintpaulus.eu,,,luv7iFzTfN0
+2026-05-07,Regeling volgt,7,15:05:00,6BIb,,,NTB,FRAR,Van Utterbeeck A.,,,,VTI_6BIb_Leerlingen@sgsintpaulus.eu,,,jw5ualHoyU0
+2026-05-07,Regeling volgt,7,15:05:00,6DN & 6EI & 6SV,,,NTB,FRAR,De Lie C.,,,,VTI_6DN_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu; VTI_6SV_Leerlingen@sgsintpaulus.eu,,,hAo3n3oI9go
+2026-05-08,Regeling volgt,7,15:05:00,6OA,,,NTB,FRAR,Van Utterbeeck A.,,,,VTI_6OA_Leerlingen@sgsintpaulus.eu,,,xYpuPVgbPn4
+2026-05-04,Regeling volgt,8,15:55:00,0,,,NTB,FRAR,Dehaerne J.,,,,,,,tvGqfOCVp8I
+2026-05-26,Regeling volgt,8,15:55:00,Planton,,,NTB,FRAR,Notebaert L.,,,,,,,RxRbsiGgnns
+2026-05-04,Regeling volgt,8,15:55:00,2SWa,,,NTB,FRAR,Descheemaeker B.,,,,VTI_2SWa_Leerlingen@sgsintpaulus.eu,,,gha6RRIurM0
+2026-05-04,Regeling volgt,8,15:55:00,3HTa,,,NTB,FRAR,Vandevoorde H.,,,,VTI_3HTa_Leerlingen@sgsintpaulus.eu,,,UkdwHY0_nGI
+2026-05-04,Regeling volgt,8,15:55:00,3HTb,,,NTB,FRAR,Wegsteen E.,,,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,,Pb1S9xww3Ls
+2026-05-05,Regeling volgt,8,15:55:00,3Ma,,,NTB,FRAR,Dehaerne J.,,,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,I7eOh8jH0L0
+2026-05-05,Regeling volgt,8,15:55:00,4BW & 4TWEE & 4TWEM,,,NTB,FRAR,Bauwen T.,,,,VTI_4BW_Leerlingen@sgsintpaulus.eu; VTI_4TWEE_Leerlingen@sgsintpaulus.eu; VTI_4TWEM_Leerlingen@sgsintpaulus.eu,,,nGyYapes90I
+2026-05-07,Regeling volgt,8,15:55:00,4Eb,,,NTB,FRAR,D'huyvetter S. & De Lie C.,,,,VTI_4Eb_Leerlingen@sgsintpaulus.eu,,,PtWP3TZMr_Y
+2026-04-27,Regeling volgt,8,15:55:00,4Hc,,,NTB,FRAR,Santens T.,,,,VTI_4Hc_Leerlingen@sgsintpaulus.eu,,,0DgrfChB89w
+2026-05-12,Regeling volgt,8,15:55:00,4Ma,,,NTB,FRAR,Genitello S.,,,,VTI_4Ma_Leerlingen@sgsintpaulus.eu,,,eDwMHYDeb4g
+2026-05-11,Regeling volgt,8,15:55:00,4Ma,,,NTB,FRAR,De Lie C.,,,,VTI_4Ma_Leerlingen@sgsintpaulus.eu,,,tW_ZOB2zKTw
+2026-05-11,Regeling volgt,8,15:55:00,4TWENb,,,NTB,FRAR,Van Huylenbrouck T.,,,,VTI_4TWENb_Leerlingen@sgsintpaulus.eu,,,Rcebjss2B9Y
+2026-05-22,Regeling volgt,8,15:55:00,5ADT & 5ET,,,NTB,FRAR,Huys L.,,,,VTI_5ADT_Leerlingen@sgsintpaulus.eu; VTI_5ET_Leerlingen@sgsintpaulus.eu,,,SefuBwcqQV0
+2026-05-19,Regeling volgt,8,15:55:00,5AT & 5MT,,,NTB,FRAR,Goethals S.,,,,VTI_5AT_Leerlingen@sgsintpaulus.eu; VTI_5MT_Leerlingen@sgsintpaulus.eu,,,62G6oYO7a-4
+2026-05-21,Regeling volgt,8,15:55:00,5HTb,,,NTB,FRAR,Ackerman L.,,,,VTI_5HTb_Leerlingen@sgsintpaulus.eu,,,n1seOlFt8R0
+2026-05-18,Regeling volgt,8,15:55:00,6ADT & 6ET & 6IAT,,,NTB,FRAR,Naessens J.,,,,VTI_6ADT_Leerlingen@sgsintpaulus.eu; VTI_6ET_Leerlingen@sgsintpaulus.eu; VTI_6IAT_Leerlingen@sgsintpaulus.eu,,,y3Hw0prg1lU
+2026-05-07,Regeling volgt,8,15:55:00,6DN & 6EI & 6SV,,,NTB,FRAR,Van Utterbeeck A.,,,,VTI_6DN_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu; VTI_6SV_Leerlingen@sgsintpaulus.eu,,,9qRDglrXx8o
+2026-05-08,Regeling volgt,8,15:55:00,6OA,,,NTB,FRAR,Van Utterbeeck A.,,,,VTI_6OA_Leerlingen@sgsintpaulus.eu,,,nvhD_Cr9aUQ
+2026-05-18,Regeling volgt,8,15:55:00,6TWE,,,NTB,FRAR,Goethals S.,,,,VTI_6TWE_Leerlingen@sgsintpaulus.eu,,,TEmn7z5oBSc
