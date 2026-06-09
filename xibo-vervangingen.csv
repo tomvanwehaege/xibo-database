@@ -62,76 +62,85 @@
 2026-06-10,Deconinck L.,1,08:25:00,3Ev & 3Hv,,,PL V004,STUDIE,Courtens A.,Deconinck Lode,Lode.Deconinck@sgsintpaulus.eu,,VTI_3Ev_Leerlingen@sgsintpaulus.eu; VTI_3Hv_Leerlingen@sgsintpaulus.eu,,,gV3WXt5U9Fc
 2026-06-10,Brondeel O.,2,09:15:00,1Bb,,,PL V004,STUDIE,Courtens A.,Brondeel Olivier,olivier.brondeel@sgsintpaulus.eu,,VTI_1Bb_Leerlingen@sgsintpaulus.eu,,,oIHiZQUSP-w
 2026-06-10,Declercq D.,3,10:20:00,1STc,,,PL V004,STUDIE,Courtens A.,Declercq Dirk,Dirk.Declercq@sgsintpaulus.eu,,VTI_1STc_Leerlingen@sgsintpaulus.eu,,,FY4iwtZa_jE
-2026-06-10,Verschueren J.,4,11:10:00,3TWENa,,,D310>C231,TWE$EEI,Lokaalwijziging,Verschueren Jonathan,jonathan.verschueren@sgsintpaulus.eu,,VTI_3TWENa_Leerlingen@sgsintpaulus.eu,,,h-zTuYuQ_Gk
-2026-06-11,Van de Wege L.,1,08:25:00,2BEMc,,,PL V004,STUDIE,Notebaert L.,Van de Wege Lies,Lies.VanDeWege@sgsintpaulus.eu,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,,TsCFD22cpWc
-2026-06-11,Verschaete D.,1 ~ 2,08:25:00,2SMEb,,,C112,ST$STEMt,Laurent G.,Verschaete Dimitri,dimitri.verschaete@sgsintpaulus.eu,,VTI_2SMEb_Leerlingen@sgsintpaulus.eu,,,CLlaHZj_Yvw
-2026-06-11,Vande Walle F.,1,08:25:00,4Mb,,,V221,MEC$TEC,Goethals A.,Vande Walle Filip,filip.vandewalle@sgsintpaulus.eu,,VTI_4Mb_Leerlingen@sgsintpaulus.eu,,,gaTPrYEabHo
-2026-06-11,Sengier L.,2,09:15:00,3HTb,,,PL V004,STUDIE,Notebaert L.,Sengier Lesley,Lesley.Sengier@sgsintpaulus.eu,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,,jLrnAPH3hO4
-2026-06-11,Seynaeve J.,3 ~ 4,10:20:00,3EMTa,,,B090,EMT$EPCC,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu,,,QG3p9f4_f-k
-2026-06-11,Verstraete G.,4,11:10:00,2BEMb,,,PL V004,STUDIE,Notebaert L.,Verstraete Glenn,glenn.verstraete@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,CT4KquS1SPs
-2026-06-11,Verschaete D.,,13:10:00,4EMTa,,,B117 Labo Pneumatica/Elektr & Fluidsim MecLab,EMT$EMPRt,Portier F.,Verschaete Dimitri,dimitri.verschaete@sgsintpaulus.eu,,VTI_4EMTa_Leerlingen@sgsintpaulus.eu,,,PYugBk3V42Y
-2026-06-11,Holter M.,5,13:10:00,5LC & 5OAb,,,V009>C203,ENG,Lokaalwijziging,Holter Marnie,marnie.holter@sgsintpaulus.eu,,VTI_5LC_Leerlingen@sgsintpaulus.eu; VTI_5OAb_Leerlingen@sgsintpaulus.eu,,,jJj8gQordF0
-2026-06-11,Seynaeve J.,7 ~ 8,15:05:00,3EMTb,,,B022,EMT$EPCC,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3EMTb_Leerlingen@sgsintpaulus.eu,,,WbuZZYcX5xg
-2026-06-12,Caes M.,1,08:25:00,2BEMc,,,PL V004,STUDIE,Notebaert L.,Caes Mieke,Mieke.Caes@sgsintpaulus.eu,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,,jo4KcZr4FZk
-2026-06-12,Verschueren J.,1,08:25:00,3TWENb,,,D310>C122,TWE$EEI,Lokaalwijziging,Verschueren Jonathan,jonathan.verschueren@sgsintpaulus.eu,,VTI_3TWENb_Leerlingen@sgsintpaulus.eu,,,3S2roEAmAH0
-2026-06-12,Vandevoorde H.,2,09:15:00,3HTb,,,PL V004,STUDIE,Notebaert L.,Vandevoorde Heleen,heleen.vandevoorde@sgsintpaulus.eu,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,,8JVw3gXwXl8
-2026-06-12,Vanlerberghe P.,3,10:20:00,2SBHa,,,PL V004,STUDIE,Notebaert L.,Vanlerberghe Peter,Peter.Vanlerberghe@sgsintpaulus.eu,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,valVJzSo4CU
-2026-06-12,Coorevits L.,4,11:10:00,2BEMb,,,PL V004,STUDIE,Notebaert L.,Coorevits Lode,Lode.Coorevits@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,8ZC8zfIFeZ8
-2026-06-12,Seynaeve J.,5,13:10:00,0,,,V007,STUDIE,Behouden opdracht,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,,,,0owwa2Vit2c
-2026-06-12,Dubois E.,5,13:10:00,1Bd,,,PL V004,STUDIE,Notebaert L.,Dubois Elke,Elke.Dubois@sgsintpaulus.eu,,VTI_1Bd_Leerlingen@sgsintpaulus.eu,,,CfirOm3dw-c
-2026-06-12,,6,14:00:00,0,,,C203,STUDIE,Seynaeve J.,,,,,,,K0lGR1-gtCw
-2026-06-12,De Langhe Y.,7,15:05:00,2SBHa,,,PL V004,STUDIE,Notebaert L.,De Langhe Yves,Yves.DeLanghe@sgsintpaulus.eu,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,qr5PsFMacxE
-2026-06-15,Dewaele S.,1,08:25:00,2BEMc,,,PL V004,STUDIE,Notebaert L.,Dewaele Sven,sven.dewaele@sgsintpaulus.eu,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,,Kbpvcopa1Ck
-2026-06-15,Gevaert F. & Van Herreweghe B. & Van Laere C.,3 ~ 4,10:20:00,2SMEa 2SMEEX$EX2SME2SBH_1 & 2SMEa 2SMEEX$EX2SME2SBH_2 & 2SMEb 2SMEEX$EX2SME2SBH_1 & 2SMEb 2SMEEX$EX2SME2SBH_2 & 2SMEc 2SMEEX$EX2SME2SBH_1 & 2SMEc 2SMEEX$EX2SME2SBH_2,,,B160A & C010 FabLab & C132 Techn Elek STEM & V248,EX$EX2SME2SBH,Behouden opdracht,,,,,,,reRGHc9fiRc
-2026-06-15,Velle M.,3,10:20:00,3HTb,,,PL V004,STUDIE,Notebaert L.,Velle Mathis,mathis.velle@sgsintpaulus.eu,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,,xoOwA5jCQG8
-2026-06-15,Amri N.,5,13:10:00,1Bd,,,PL V004,STUDIE,Notebaert L.,Amri Na�m,naim.amri@sgsintpaulus.eu,,VTI_1Bd_Leerlingen@sgsintpaulus.eu,,,Xn-krxC4jZM
-2026-06-15,Verschueren J.,6,14:00:00,2BEMb,,,PL V004,STUDIE,Notebaert L.,Verschueren Jonathan,jonathan.verschueren@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,CZXEnD_yCPQ
-2026-06-15,Hermans L.,7,15:05:00,2SBHa,,,PL V004,STUDIE,Notebaert L.,Hermans Laurien,laurien.hermans@sgsintpaulus.eu,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,vTpL6CfrCOw
-2026-06-16,Goesaert K.,1,08:25:00,2BEMc,,,PL V004,STUDIE,Notebaert L.,Goesaert Karel,karel.goesaert@sgsintpaulus.eu,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,,8_UqlyunH2Y
-2026-06-16,Verschaete D.,1,08:25:00,3Ma,,,B090 draaierij/Freeserij & B119 Theorie SV,MEC$VORGp,Goethals A.,Verschaete Dimitri,dimitri.verschaete@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,--wUzOHI34g
-2026-06-16,Verschaete D.,2,09:15:00,3Ma,,,B090,MEC$VORGp,Goethals A.,Verschaete Dimitri,dimitri.verschaete@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,ASHNFuBOFVE
-2026-06-16,Dupret T.,3,10:20:00,2SBHa,,,PL V004,STUDIE,Notebaert L.,Dupret Tiffany,tiffany.dupret@sgsintpaulus.eu,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,dbc5K0KmxP4
-2026-06-16,Verschaete D.,3,10:20:00,3Ma,,,B090 draaierij/Freeserij & V246,MEC$VORGp,Goethals A.,Verschaete Dimitri,dimitri.verschaete@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,4UjTCFltPA0
-2026-06-16,Verhulst W.,4,11:10:00,1Bd,,,PL V004,STUDIE,Notebaert L.,Verhulst Wouter,wouter.verhulst@sgsintpaulus.eu,,VTI_1Bd_Leerlingen@sgsintpaulus.eu,,,sHe14lkBlgM
-2026-06-16,Verschaete D.,4,11:10:00,3Ma,,,V220,MEC$TMEC,Goethals A.,Verschaete Dimitri,dimitri.verschaete@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,H-N9vTqUoLE
-2026-06-16,Swaenepoel W.,5 ~ 6,13:10:00,0,,,PL V004,STUDIE,Notebaert L.,Swaenepoel Wouter,Wouter.Swaenepoel@sgsintpaulus.eu,,,,,b9LYu2mC5lQ
-2026-06-16,Goethals S.,7,15:05:00,1Bd,,,PL V004,STUDIE,Notebaert L.,Goethals Sarah,sarah.goethals@sgsintpaulus.eu,,VTI_1Bd_Leerlingen@sgsintpaulus.eu,,,CbC3KF_lkKA
-2026-06-17,Nolf M.,99,12:00:00,0,,,05 1005:1020 Broodjes koer B,TOEZICHT,Giang V.,Nolf Mathieu,mathieu.nolf@sgsintpaulus.eu,,,,,tFgrk0JmU7g
-2026-06-19,Moreels W.,99,12:00:00,0,,,05 1005:1020 Broodjes koer B,TOEZICHT,Giang V.,Moreels Wout,Wout.Moreels@sgsintpaulus.eu,,,,,ul8YEb1K8e4
-2026-06-09,Geannuleerde opdracht,1,08:25:00,Planton,,,NTB,TAAK,Goesaert K.,,,,,,Geannuleerde opdracht,8sj298OZMkg
-2026-06-15,Geannuleerde opdracht,1 ~ 2,08:25:00,2SMEa z & 2SMEb z & 2SMEc z,,,NTB,TAAK,Laurent G.,,,,,,Geannuleerde opdracht,KM4X5g7EFLo
-2026-06-18,Geannuleerde opdracht,1 ~ 2,08:25:00,2BEMb,,,NTB,TAAK,Notebaert L.,,,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,VGSGCSSdFAo
-2026-06-12,Geannuleerde opdracht,,08:25:00,2BHMa,,,NTB,TAAK,Baert M.,,,,VTI_2BHMa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,p5ZW0aviQE4
-2026-06-17,Geannuleerde opdracht,1 ~ 2,08:25:00,2SMEa & 2SMEb & 2SMEc,,,NTB,TAAK,Baert M. & Deweer-Taelman K. & Lagrou G. & Laurent G. & Vercauteren G.,,,,VTI_2SMEa_Leerlingen@sgsintpaulus.eu; VTI_2SMEb_Leerlingen@sgsintpaulus.eu; VTI_2SMEc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,4hAebGJFc6U
-2026-06-12,Geannuleerde opdracht,1,08:25:00,2SWa,,,NTB,TAAK,De Lie C.,,,,VTI_2SWa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,Iw9Zosh1SAU
-2026-06-09,Geannuleerde opdracht,1 ~ 2,08:25:00,4Ea,,,NTB,TAAK,Laurent G.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,71w56pFNcH8
-2026-06-16,Geannuleerde opdracht,1 ~ 2,08:25:00,4Ea,,,NTB,TAAK,Laurent G.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,Eu244xa4PyA
-2026-06-12,Geannuleerde opdracht,2,09:15:00,1SWc,,,NTB,TAAK,De Lie C.,,,,VTI_1SWc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,Y8HKuRj68I8
-2026-06-15,Geannuleerde opdracht,2,09:15:00,2BEMc,,,NTB,TAAK,Callens J.,,,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,PqhhOaHWAiE
-2026-06-19,Geannuleerde opdracht,3 ~ 4,10:20:00,1Bd,,,NTB,TAAK,Notebaert L.,,,,VTI_1Bd_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,BPdMhEboHds
-2026-06-18,Geannuleerde opdracht,3 ~ 4,10:20:00,2BEMb,,,NTB,TAAK,Notebaert L.,,,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,PVhN2J4eD8w
-2026-06-16,Geannuleerde opdracht,3,10:20:00,2SBHb,,,NTB,TAAK,Schamps I.,,,,VTI_2SBHb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,Il11NM2TaMY
-2026-06-17,Geannuleerde opdracht,3 ~ 4,10:20:00,2SMEa & 2SMEb & 2SMEc,,,NTB,TAAK,Baert M. & Deweer-Taelman K. & Lagrou G. & Laurent G. & Vercauteren G.,,,,VTI_2SMEa_Leerlingen@sgsintpaulus.eu; VTI_2SMEb_Leerlingen@sgsintpaulus.eu; VTI_2SMEc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,Sf0WDIO4-as
-2026-06-12,Geannuleerde opdracht,3,10:20:00,2SWa,,,NTB,TAAK,De Lie C.,,,,VTI_2SWa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,Oa6_xvlRhB0
-2026-06-09,Geannuleerde opdracht,3 ~ 4,10:20:00,4Ea,,,NTB,TAAK,Laurent G.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,0hgUOKGEWEg
-2026-06-16,Geannuleerde opdracht,3 ~ 4,10:20:00,4Ea,,,NTB,TAAK,Laurent G.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,N1ou1SMRJnE
-2026-06-12,Geannuleerde opdracht,4,11:10:00,Planton,,,NTB,TAAK,Baert M. & Coorevits L.,,,,,,Geannuleerde opdracht,bEGPsflNiEs
-2026-06-12,Geannuleerde opdracht,4,11:10:00,4Hc,,,NTB,TAAK,De Lie C.,,,,VTI_4Hc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,vMtyZ7vfSYU
-2026-06-09,Geannuleerde opdracht,99,12:00:00,26 1450:1505 Koer C,,,NTB,TAAK,Courtens A.,,,,,,Geannuleerde opdracht,deyqnq2bve4
-2026-06-08,Geannuleerde opdracht,99,12:00:00,09 1230:1300 Koer B,,,NTB,TAAK,Georgescu S.,,,,,,Geannuleerde opdracht,sjFozKl46Vk
-2026-06-15,Geannuleerde opdracht,5,13:10:00,2SMEa,,,NTB,TAAK,Callens J.,,,,VTI_2SMEa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,jUAwxBS9w2E
-2026-06-08,Geannuleerde opdracht,,13:10:00,4Ea,,,NTB,TAAK,Laurent G.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,AeaMEC_HXOI
-2026-06-15,Geannuleerde opdracht,,13:10:00,4Ea,,,NTB,TAAK,Laurent G.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,GvlwG3wRio4
-2026-06-19,Geannuleerde opdracht,,13:10:00,4Ea,,,NTB,TAAK,Laurent G. & Noterman J. & Vaernewyck J. & Vanoverbeke L.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,xsNWJjg641c
-2026-06-09,Geannuleerde opdracht,6,14:00:00,1Bg,,,NTB,TAAK,Courtens A.,,,,VTI_1Bg_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,A6WW6UYgTmA
-2026-06-15,Geannuleerde opdracht,6,14:00:00,2SBHb,,,NTB,TAAK,Callens J.,,,,VTI_2SBHb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,jSbxPjZQwqg
-2026-06-15,Geannuleerde opdracht,6,14:00:00,2SMEc,,,NTB,TAAK,Schamps I.,,,,VTI_2SMEc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,sTwKUCnbv4E
-2026-06-12,Geannuleerde opdracht,6,14:00:00,6LC,,,NTB,TAAK,De Lie C.,,,,VTI_6LC_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,GfejlKUZpto
-2026-06-16,Geannuleerde opdracht,7,15:05:00,1SWb,,,NTB,TAAK,Decavel L. & Snauwaert M.,,,,VTI_1SWb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,yU51mDHLkK0
-2026-06-15,Geannuleerde opdracht,7,15:05:00,2SMEb,,,NTB,TAAK,Callens J.,,,,VTI_2SMEb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,WSKlEcyVkec
-2026-06-15,Geannuleerde opdracht,7,15:05:00,2SMEc,,,NTB,TAAK,Schamps I.,,,,VTI_2SMEc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,WIfP7YJU_qA
-2026-06-12,Geannuleerde opdracht,7,15:05:00,2SWc,,,NTB,TAAK,De Lie C.,,,,VTI_2SWc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,dy5WymHRM6s
-2026-06-12,Geannuleerde opdracht,7 ~ 8,15:05:00,5LC,,,NTB,TAAK,Cottignies V.,,,,VTI_5LC_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,zI2UMNofQ0w
-2026-06-16,Geannuleerde opdracht,8,15:55:00,Planton,,,NTB,TAAK,De Clerck L. & Notebaert L.,,,,,,Geannuleerde opdracht,Bw6xu_oEMys
-2026-06-15,Geannuleerde opdracht,8,15:55:00,3Mb,,,NTB,TAAK,Callens J.,,,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,oV62t0s2L9s
-2026-06-12,Geannuleerde opdracht,8,15:55:00,6DN & 6EI & 6SV,,,NTB,TAAK,De Lie C.,,,,VTI_6DN_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu; VTI_6SV_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,68I7qZ-cEZg
+2026-06-10,Declercq D.,3,10:20:00,4Ea & 4Mc,,,PL V004,TAAK,Vaesen Bentein J.,Declercq Dirk,Dirk.Declercq@sgsintpaulus.eu,,VTI_4Ea_Leerlingen@sgsintpaulus.eu; VTI_4Mc_Leerlingen@sgsintpaulus.eu,,TAAK op TEAMS,h-zTuYuQ_Gk
+2026-06-10,Verschueren J.,4,11:10:00,3TWENa,,,D310>C231,TWE$EEI,Lokaalwijziging,Verschueren Jonathan,jonathan.verschueren@sgsintpaulus.eu,,VTI_3TWENa_Leerlingen@sgsintpaulus.eu,,,TsCFD22cpWc
+2026-06-10,Vannieuwenhuyse T.,4,11:10:00,4Hb,,,C202,MAVO,Behouden opdracht,Vannieuwenhuyse Tine,tine.vannieuwenhuyse@sgsintpaulus.eu,,VTI_4Hb_Leerlingen@sgsintpaulus.eu,,,CLlaHZj_Yvw
+2026-06-11,Van de Wege L.,1,08:25:00,2BEMc,,,PL V004,STUDIE,Notebaert L.,Van de Wege Lies,Lies.VanDeWege@sgsintpaulus.eu,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,,gaTPrYEabHo
+2026-06-11,Verschaete D.,1 ~ 2,08:25:00,2SMEb,,,C112,ST$STEMt,Laurent G.,Verschaete Dimitri,dimitri.verschaete@sgsintpaulus.eu,,VTI_2SMEb_Leerlingen@sgsintpaulus.eu,,,jLrnAPH3hO4
+2026-06-11,Vande Walle F.,1,08:25:00,4Mb,,,V221,MEC$TEC,Goethals A.,Vande Walle Filip,filip.vandewalle@sgsintpaulus.eu,,VTI_4Mb_Leerlingen@sgsintpaulus.eu,,,QG3p9f4_f-k
+2026-06-11,Sengier L.,2,09:15:00,3HTb,,,PL V004,STUDIE,Notebaert L.,Sengier Lesley,Lesley.Sengier@sgsintpaulus.eu,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,,CT4KquS1SPs
+2026-06-11,Seynaeve J.,3 ~ 4,10:20:00,3EMTa,,,B090,EMT$EPCC,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu,,,PYugBk3V42Y
+2026-06-11,Verstraete G.,4,11:10:00,2BEMb,,,PL V004,STUDIE,Notebaert L.,Verstraete Glenn,glenn.verstraete@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,jJj8gQordF0
+2026-06-11,Verschaete D.,,13:10:00,4EMTa,,,B117 Labo Pneumatica/Elektr & Fluidsim MecLab,EMT$EMPRt,Portier F.,Verschaete Dimitri,dimitri.verschaete@sgsintpaulus.eu,,VTI_4EMTa_Leerlingen@sgsintpaulus.eu,,,WbuZZYcX5xg
+2026-06-11,Seynaeve J.,7 ~ 8,15:05:00,3EMTb,,,B022,EMT$EPCC,Goethals A.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,VTI_3EMTb_Leerlingen@sgsintpaulus.eu,,,jo4KcZr4FZk
+2026-06-12,Caes M.,1,08:25:00,2BEMc,,,PL V004,STUDIE,Notebaert L.,Caes Mieke,Mieke.Caes@sgsintpaulus.eu,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,,3S2roEAmAH0
+2026-06-12,Verschueren J.,1,08:25:00,3TWENb,,,D310>C122,TWE$EEI,Lokaalwijziging,Verschueren Jonathan,jonathan.verschueren@sgsintpaulus.eu,,VTI_3TWENb_Leerlingen@sgsintpaulus.eu,,,8JVw3gXwXl8
+2026-06-12,Vandevoorde H.,2,09:15:00,3HTb,,,PL V004,STUDIE,Notebaert L.,Vandevoorde Heleen,heleen.vandevoorde@sgsintpaulus.eu,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,,valVJzSo4CU
+2026-06-12,Vanlerberghe P.,3,10:20:00,2SBHa,,,PL V004,STUDIE,Notebaert L.,Vanlerberghe Peter,Peter.Vanlerberghe@sgsintpaulus.eu,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,8ZC8zfIFeZ8
+2026-06-12,Coorevits L.,4,11:10:00,2BEMb,,,PL V004,STUDIE,Notebaert L.,Coorevits Lode,Lode.Coorevits@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,0owwa2Vit2c
+2026-06-12,Seynaeve J.,5,13:10:00,0,,,V007,STUDIE,Behouden opdracht,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,,,,CfirOm3dw-c
+2026-06-12,Dubois E.,5,13:10:00,1Bd,,,PL V004,STUDIE,Notebaert L.,Dubois Elke,Elke.Dubois@sgsintpaulus.eu,,VTI_1Bd_Leerlingen@sgsintpaulus.eu,,,K0lGR1-gtCw
+2026-06-12,,6,14:00:00,0,,,C203,STUDIE,Seynaeve J.,,,,,,,qr5PsFMacxE
+2026-06-12,De Langhe Y.,7,15:05:00,2SBHa,,,PL V004,STUDIE,Notebaert L.,De Langhe Yves,Yves.DeLanghe@sgsintpaulus.eu,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,Kbpvcopa1Ck
+2026-06-15,Dewaele S.,1,08:25:00,2BEMc,,,PL V004,STUDIE,Notebaert L.,Dewaele Sven,sven.dewaele@sgsintpaulus.eu,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,,reRGHc9fiRc
+2026-06-15,Gevaert F. & Van Herreweghe B. & Van Laere C.,3 ~ 4,10:20:00,2SMEa 2SMEEX$EX2SME2SBH_1 & 2SMEa 2SMEEX$EX2SME2SBH_2 & 2SMEb 2SMEEX$EX2SME2SBH_1 & 2SMEb 2SMEEX$EX2SME2SBH_2 & 2SMEc 2SMEEX$EX2SME2SBH_1 & 2SMEc 2SMEEX$EX2SME2SBH_2,,,B160A & C010 FabLab & C132 Techn Elek STEM & V248,EX$EX2SME2SBH,Behouden opdracht,,,,,,,xoOwA5jCQG8
+2026-06-15,Velle M.,3,10:20:00,3HTb,,,PL V004,STUDIE,Notebaert L.,Velle Mathis,mathis.velle@sgsintpaulus.eu,,VTI_3HTb_Leerlingen@sgsintpaulus.eu,,,Xn-krxC4jZM
+2026-06-15,Amri N.,5,13:10:00,1Bd,,,PL V004,STUDIE,Notebaert L.,Amri Na�m,naim.amri@sgsintpaulus.eu,,VTI_1Bd_Leerlingen@sgsintpaulus.eu,,,CZXEnD_yCPQ
+2026-06-15,Verschueren J.,6,14:00:00,2BEMb,,,PL V004,STUDIE,Notebaert L.,Verschueren Jonathan,jonathan.verschueren@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,vTpL6CfrCOw
+2026-06-15,Hermans L.,7,15:05:00,2SBHa,,,PL V004,STUDIE,Notebaert L.,Hermans Laurien,laurien.hermans@sgsintpaulus.eu,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,8_UqlyunH2Y
+2026-06-16,Goesaert K.,1,08:25:00,2BEMc,,,PL V004,STUDIE,Notebaert L.,Goesaert Karel,karel.goesaert@sgsintpaulus.eu,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,,--wUzOHI34g
+2026-06-16,Verschaete D.,1,08:25:00,3Ma,,,B090 draaierij/Freeserij & B119 Theorie SV,MEC$VORGp,Goethals A.,Verschaete Dimitri,dimitri.verschaete@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,ASHNFuBOFVE
+2026-06-16,Staelens J.,1 ~ 2,08:25:00,4Ea,,,D120,ELE$EREAp,Laurent G.,Staelens Jeroen,jeroen.staelens@sgsintpaulus.eu,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,,dbc5K0KmxP4
+2026-06-16,Verschaete D.,2,09:15:00,3Ma,,,B090,MEC$VORGp,Goethals A.,Verschaete Dimitri,dimitri.verschaete@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,4UjTCFltPA0
+2026-06-16,Dupret T.,3,10:20:00,2SBHa,,,PL V004,STUDIE,Notebaert L.,Dupret Tiffany,tiffany.dupret@sgsintpaulus.eu,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,sHe14lkBlgM
+2026-06-16,Verschaete D.,3,10:20:00,3Ma,,,B090 draaierij/Freeserij & V246,MEC$VORGp,Goethals A.,Verschaete Dimitri,dimitri.verschaete@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,H-N9vTqUoLE
+2026-06-16,Staelens J.,3 ~ 4,10:20:00,4Ea,,,D120,ELE$EREAp,Laurent G.,Staelens Jeroen,jeroen.staelens@sgsintpaulus.eu,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,,b9LYu2mC5lQ
+2026-06-16,Verhulst W.,4,11:10:00,1Bd,,,PL V004,STUDIE,Notebaert L.,Verhulst Wouter,wouter.verhulst@sgsintpaulus.eu,,VTI_1Bd_Leerlingen@sgsintpaulus.eu,,,CbC3KF_lkKA
+2026-06-16,Verschaete D.,4,11:10:00,3Ma,,,V220,MEC$TMEC,Goethals A.,Verschaete Dimitri,dimitri.verschaete@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,tFgrk0JmU7g
+2026-06-16,Swaenepoel W.,5 ~ 6,13:10:00,0,,,PL V004,STUDIE,Notebaert L.,Swaenepoel Wouter,Wouter.Swaenepoel@sgsintpaulus.eu,,,,,ul8YEb1K8e4
+2026-06-16,Goethals S.,7,15:05:00,1Bd,,,PL V004,STUDIE,Notebaert L.,Goethals Sarah,sarah.goethals@sgsintpaulus.eu,,VTI_1Bd_Leerlingen@sgsintpaulus.eu,,,8sj298OZMkg
+2026-06-17,Nolf M.,99,12:00:00,0,,,05 1005:1020 Broodjes koer B,TOEZICHT,Giang V.,Nolf Mathieu,mathieu.nolf@sgsintpaulus.eu,,,,,KM4X5g7EFLo
+2026-06-19,Moreels W.,99,12:00:00,0,,,05 1005:1020 Broodjes koer B,TOEZICHT,Giang V.,Moreels Wout,Wout.Moreels@sgsintpaulus.eu,,,,,VGSGCSSdFAo
+2026-06-09,Geannuleerde opdracht,1,08:25:00,Planton,,,NTB,TAAK,Goesaert K.,,,,,,Geannuleerde opdracht,p5ZW0aviQE4
+2026-06-10,Geannuleerde opdracht,1,08:25:00,Planton,,,NTB,TAAK,Vaesen Bentein J.,,,,,,Geannuleerde opdracht,4hAebGJFc6U
+2026-06-15,Geannuleerde opdracht,1 ~ 2,08:25:00,2SMEa z & 2SMEb z & 2SMEc z,,,NTB,TAAK,Laurent G.,,,,,,Geannuleerde opdracht,Iw9Zosh1SAU
+2026-06-12,Geannuleerde opdracht,1,08:25:00,1STd,,,NTB,TAAK,De Frene N. & Meulebrouck E.,,,,VTI_1STd_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,71w56pFNcH8
+2026-06-18,Geannuleerde opdracht,1 ~ 2,08:25:00,2BEMb,,,NTB,TAAK,Notebaert L.,,,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,Eu244xa4PyA
+2026-06-12,Geannuleerde opdracht,,08:25:00,2BHMa,,,NTB,TAAK,Baert M.,,,,VTI_2BHMa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,Y8HKuRj68I8
+2026-06-17,Geannuleerde opdracht,1 ~ 2,08:25:00,2SMEa & 2SMEb & 2SMEc,,,NTB,TAAK,Baert M. & Deweer-Taelman K. & Lagrou G. & Laurent G. & Vercauteren G.,,,,VTI_2SMEa_Leerlingen@sgsintpaulus.eu; VTI_2SMEb_Leerlingen@sgsintpaulus.eu; VTI_2SMEc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,PqhhOaHWAiE
+2026-06-12,Geannuleerde opdracht,1,08:25:00,2SWa,,,NTB,TAAK,De Lie C.,,,,VTI_2SWa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,BPdMhEboHds
+2026-06-09,Geannuleerde opdracht,1 ~ 2,08:25:00,4Ea,,,NTB,TAAK,Laurent G.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,PVhN2J4eD8w
+2026-06-12,Geannuleerde opdracht,2,09:15:00,1SWc,,,NTB,TAAK,De Lie C.,,,,VTI_1SWc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,Il11NM2TaMY
+2026-06-15,Geannuleerde opdracht,2,09:15:00,2BEMc,,,NTB,TAAK,Callens J.,,,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,Sf0WDIO4-as
+2026-06-19,Geannuleerde opdracht,3 ~ 4,10:20:00,1Bd,,,NTB,TAAK,Notebaert L.,,,,VTI_1Bd_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,Oa6_xvlRhB0
+2026-06-18,Geannuleerde opdracht,3 ~ 4,10:20:00,2BEMb,,,NTB,TAAK,Notebaert L.,,,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,0hgUOKGEWEg
+2026-06-12,Geannuleerde opdracht,3,10:20:00,2BHMc,,,NTB,TAAK,Meulebrouck E.,,,,VTI_2BHMc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,N1ou1SMRJnE
+2026-06-16,Geannuleerde opdracht,3,10:20:00,2SBHb,,,NTB,TAAK,Schamps I.,,,,VTI_2SBHb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,bEGPsflNiEs
+2026-06-17,Geannuleerde opdracht,3 ~ 4,10:20:00,2SMEa & 2SMEb & 2SMEc,,,NTB,TAAK,Baert M. & Deweer-Taelman K. & Lagrou G. & Laurent G. & Vercauteren G.,,,,VTI_2SMEa_Leerlingen@sgsintpaulus.eu; VTI_2SMEb_Leerlingen@sgsintpaulus.eu; VTI_2SMEc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,vMtyZ7vfSYU
+2026-06-12,Geannuleerde opdracht,3,10:20:00,2SWa,,,NTB,TAAK,De Lie C.,,,,VTI_2SWa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,deyqnq2bve4
+2026-06-09,Geannuleerde opdracht,3 ~ 4,10:20:00,4Ea,,,NTB,TAAK,Laurent G.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,sjFozKl46Vk
+2026-06-12,Geannuleerde opdracht,4,11:10:00,Planton,,,NTB,TAAK,Baert M. & Coorevits L.,,,,,,Geannuleerde opdracht,jUAwxBS9w2E
+2026-06-12,Geannuleerde opdracht,4,11:10:00,2BHMa,,,NTB,TAAK,Meulebrouck E.,,,,VTI_2BHMa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,AeaMEC_HXOI
+2026-06-12,Geannuleerde opdracht,4,11:10:00,4Hc,,,NTB,TAAK,De Lie C.,,,,VTI_4Hc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,GvlwG3wRio4
+2026-06-12,Geannuleerde opdracht,99,12:00:00,01 0750:0810 Opvang V004+hal,,,NTB,TAAK,Meulebrouck E.,,,,,,Geannuleerde opdracht,xsNWJjg641c
+2026-06-09,Geannuleerde opdracht,99,12:00:00,26 1450:1505 Koer C,,,NTB,TAAK,Courtens A.,,,,,,Geannuleerde opdracht,A6WW6UYgTmA
+2026-06-08,Geannuleerde opdracht,99,12:00:00,09 1230:1300 Koer B,,,NTB,TAAK,Georgescu S.,,,,,,Geannuleerde opdracht,jSbxPjZQwqg
+2026-06-12,Geannuleerde opdracht,5,13:10:00,2BHMc,,,NTB,TAAK,Meulebrouck E.,,,,VTI_2BHMc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,sTwKUCnbv4E
+2026-06-15,Geannuleerde opdracht,5,13:10:00,2SMEa,,,NTB,TAAK,Callens J.,,,,VTI_2SMEa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,GfejlKUZpto
+2026-06-08,Geannuleerde opdracht,,13:10:00,4Ea,,,NTB,TAAK,Laurent G.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,yU51mDHLkK0
+2026-06-15,Geannuleerde opdracht,,13:10:00,4Ea,,,NTB,TAAK,Laurent G.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,WSKlEcyVkec
+2026-06-19,Geannuleerde opdracht,,13:10:00,4Ea,,,NTB,TAAK,Laurent G. & Noterman J. & Vaernewyck J. & Vanoverbeke L.,,,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,WIfP7YJU_qA
+2026-06-09,Geannuleerde opdracht,6,14:00:00,1Bg,,,NTB,TAAK,Courtens A.,,,,VTI_1Bg_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,dy5WymHRM6s
+2026-06-12,Geannuleerde opdracht,6,14:00:00,2BEMa,,,NTB,TAAK,Meulebrouck E.,,,,VTI_2BEMa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,zI2UMNofQ0w
+2026-06-15,Geannuleerde opdracht,6,14:00:00,2SBHb,,,NTB,TAAK,Callens J.,,,,VTI_2SBHb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,Bw6xu_oEMys
+2026-06-15,Geannuleerde opdracht,6,14:00:00,2SMEc,,,NTB,TAAK,Schamps I.,,,,VTI_2SMEc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,oV62t0s2L9s
+2026-06-12,Geannuleerde opdracht,6,14:00:00,6LC,,,NTB,TAAK,De Lie C.,,,,VTI_6LC_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,68I7qZ-cEZg
+2026-06-12,Geannuleerde opdracht,7,15:05:00,1STd,,,NTB,TAAK,De Frene N. & Meulebrouck E.,,,,VTI_1STd_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,mPnU6vSgIkw
+2026-06-16,Geannuleerde opdracht,7,15:05:00,1SWb,,,NTB,TAAK,Decavel L. & Snauwaert M.,,,,VTI_1SWb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,XbqWhrJysmM
+2026-06-15,Geannuleerde opdracht,7,15:05:00,2SMEb,,,NTB,TAAK,Callens J.,,,,VTI_2SMEb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,kRe8HpojIX8
+2026-06-15,Geannuleerde opdracht,7,15:05:00,2SMEc,,,NTB,TAAK,Schamps I.,,,,VTI_2SMEc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,WjaMvwY5_G8
+2026-06-12,Geannuleerde opdracht,7,15:05:00,2SWc,,,NTB,TAAK,De Lie C.,,,,VTI_2SWc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,PMRcGkRpA_A
+2026-06-12,Geannuleerde opdracht,7 ~ 8,15:05:00,5LC,,,NTB,TAAK,Cottignies V.,,,,VTI_5LC_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,iBqRFn0s6OE
+2026-06-16,Geannuleerde opdracht,8,15:55:00,Planton,,,NTB,TAAK,De Clerck L. & Notebaert L.,,,,,,Geannuleerde opdracht,-7YN3_yyOww
+2026-06-15,Geannuleerde opdracht,8,15:55:00,3Mb,,,NTB,TAAK,Callens J.,,,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,X0Sb82_3IiY
+2026-06-12,Geannuleerde opdracht,8,15:55:00,6DN & 6EI & 6SV,,,NTB,TAAK,De Lie C.,,,,VTI_6DN_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu; VTI_6SV_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,lSBTC0wvUcQ
