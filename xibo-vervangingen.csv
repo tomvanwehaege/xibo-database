@@ -1,236 +1,119 @@
-2026-11-23,Ossieur W.,1,08:25:00,,,,V004,PLA,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,,,,363901195030
-2026-11-23,Imbo S.,1 ~ 2,08:25:00,4Ma z & 4Mb z,,,PL V004,STUDIE,Seynaeve J.,Imbo Sofie,Sofie.Imbo@sgsintpaulus.eu,,,,,372959090428
-2026-11-23,Imbo S.,1 ~ 2,08:25:00,1Bc,,,PL V004,STUDIE,Lagrou G.,Imbo Sofie,Sofie.Imbo@sgsintpaulus.eu,,VTI_1Bc_Leerlingen@sgsintpaulus.eu,,,464850588458
-2026-11-23,Notebaert L.,1,08:25:00,2BEMb,,,B152>A038,WIS,Lokaalwijziging,Notebaert Lotte,lotte.notebaert@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,203889382798
-2026-11-23,De Frene N.,1,08:25:00,3ET,,,B158,NED,Behouden opdracht,De Frene Nicky,nicky.defrene@sgsintpaulus.eu,,VTI_3ET_Leerlingen@sgsintpaulus.eu,,,174918281658
-2026-11-23,Imbo S.,1,08:25:00,5OAa,,,PL V004,STUDIE,Parmentier A.,Imbo Sofie,Sofie.Imbo@sgsintpaulus.eu,,VTI_5OAa_Leerlingen@sgsintpaulus.eu,,,567909494408
-2026-11-23,D'hondt J. & Vermeulen S.,,09:15:00,3Eb,,,D110,ELE$EREAp,Breye P. & D'hondt J.,,,,,,,166828685878
-2026-11-23,Ossieur W.,2,09:15:00,3Mb,,,C123,MEC$TEC,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,363901194138
-2026-11-23,De Langhe Y.,2,09:15:00,3Mc,,,PL V004,STUDIE,Faingnaert P.,De Langhe Yves,Yves.DeLanghe@sgsintpaulus.eu,,,,,381878293098
-2026-11-23,Goemaere K.,2,09:15:00,3TWENa,,,B003,TWE$MFT,Demeulemeester C.,Goemaere Koen,Koen.Goemaere@sgsintpaulus.eu,,VTI_3TWENa_Leerlingen@sgsintpaulus.eu,,,333039994468
-2026-11-23,De Langhe Y.,2,09:15:00,5BIa,,,PL V004,STUDIE,Parmentier A.,De Langhe Yves,Yves.DeLanghe@sgsintpaulus.eu,,VTI_5BIa_Leerlingen@sgsintpaulus.eu,,,475929390038
-2026-11-23,Bossuyt R.,3 ~ 4,10:20:00,1STc,,,B257,BLD,Behouden opdracht,Bossuyt Renilde,renilde.bossuyt@sgsintpaulus.eu,,VTI_1STc_Leerlingen@sgsintpaulus.eu,,,278847480768
-2026-11-23,Meulebrouck E.,3,10:20:00,2SMEc,,,PL V004,STUDIE,Lagrou G.,Meulebrouck Ellen,ellen.meulebrouck@sgsintpaulus.eu,,VTI_2SMEc_Leerlingen@sgsintpaulus.eu,,,483913188188
-2026-11-23,Meulebrouck E.,3,10:20:00,2SWc,,,PL V004,STUDIE,Duymelinck L.,Meulebrouck Ellen,ellen.meulebrouck@sgsintpaulus.eu,,VTI_2SWc_Leerlingen@sgsintpaulus.eu,,,590951789938
-2026-11-23,Ossieur W.,3 ~ 4,10:20:00,3Mb,,,D030,MEC$VT,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,363901193088
-2026-11-23,Goemaere K.,3,10:20:00,3TWENa,,,C101,TWE$MFT,Demeulemeester C.,Goemaere Koen,Koen.Goemaere@sgsintpaulus.eu,,VTI_3TWENa_Leerlingen@sgsintpaulus.eu,,,333039993418
-2026-11-23,Meulebrouck E.,3,10:20:00,4Ma,,,PL V004,STUDIE,Faingnaert P.,Meulebrouck Ellen,ellen.meulebrouck@sgsintpaulus.eu,,VTI_4Ma_Leerlingen@sgsintpaulus.eu,,,492920997198
-2026-11-23,Meulebrouck E.,3,10:20:00,5DN & 5EI,,,PL V004,STUDIE,Parmentier A.,Meulebrouck Ellen,ellen.meulebrouck@sgsintpaulus.eu,,VTI_5DN_Leerlingen@sgsintpaulus.eu; VTI_5EI_Leerlingen@sgsintpaulus.eu,,,586972094138
-2026-11-23,Nolf M.,4,11:10:00,6HT Gx,,,A135,OND$LBO,Nollet C.,Nolf Mathieu,mathieu.nolf@sgsintpaulus.eu,,,,,355989895418
-2026-11-23,Ackerman L.,4,11:10:00,1SWa,,,PL V004,STUDIE,Duymelinck L.,Ackerman Lucie,Lucie.Ackerman@sgsintpaulus.eu,,VTI_1SWa_Leerlingen@sgsintpaulus.eu,,,587919801418
-2026-11-23,Ackerman L.,4,11:10:00,4Ea,,,PL V004,STUDIE,Faingnaert P.,Ackerman Lucie,Lucie.Ackerman@sgsintpaulus.eu,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,,489889008678
-2026-11-23,Ackerman L.,4,11:10:00,5LC & 5SV,,,PL V004,STUDIE,Parmentier A.,Ackerman Lucie,Lucie.Ackerman@sgsintpaulus.eu,,VTI_5LC_Leerlingen@sgsintpaulus.eu; VTI_5SV_Leerlingen@sgsintpaulus.eu,,,583940105618
-2026-11-23,De Keukeleire M.,5,13:10:00,1SWc,,,PL V004,STUDIE,Duymelinck L.,De Keukeleire Mike,mike.dekeukeleire@sgsintpaulus.eu,,VTI_1SWc_Leerlingen@sgsintpaulus.eu,,,400930285468
-2026-11-23,Goedefroo N.,5,13:10:00,2BEMb,,,B155>A038,FRA,Lokaalwijziging,Goedefroo Nancy,Nancy.Goedefroo@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,264919583308
-2026-11-23,De Keukeleire M.,5,13:10:00,3HTc,,,PL V004,STUDIE,Faingnaert P.,De Keukeleire Mike,mike.dekeukeleire@sgsintpaulus.eu,,,,,302899492728
-2026-11-23,Ossieur W.,5 ~ 6,13:10:00,3Mc,,,D030,MEC$VT,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,,,,363901190188
-2026-11-23,Staelens J.,,13:10:00,4Ea,,,D120,ELE$EREAp,Behouden opdracht,Staelens Jeroen,jeroen.staelens@sgsintpaulus.eu,,VTI_4Ea_Leerlingen@sgsintpaulus.eu,,,186859288008
-2026-11-23,Arco K. & Tack S.,5,13:10:00,4Hb,,,V243,WIS,De Clerck L. & Tack S.,,,,VTI_4Hb_Leerlingen@sgsintpaulus.eu,,,470899894638
-2026-11-23,Santens T.,6,14:00:00,1STa,,,PL V004,STUDIE,Duymelinck L.,Santens Tessa,Tessa.Santens@sgsintpaulus.eu,,VTI_1STa_Leerlingen@sgsintpaulus.eu,,,588859384998
-2026-11-23,Arco K.,6,14:00:00,3Mb,,,V249,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,470899893738
-2026-11-23,Santens T.,6,14:00:00,4Mb,,,PL V004,STUDIE,Faingnaert P.,Santens Tessa,Tessa.Santens@sgsintpaulus.eu,,VTI_4Mb_Leerlingen@sgsintpaulus.eu,,,490828592258
-2026-11-23,Vanlerberghe P.,7,15:05:00,1STc,,,PL V004,STUDIE,Duymelinck L.,Vanlerberghe Peter,Peter.Vanlerberghe@sgsintpaulus.eu,,VTI_1STc_Leerlingen@sgsintpaulus.eu,,,463901583188
-2026-11-23,Sengier L.,7,15:05:00,2BEMb,,,B155>A038,NED,Lokaalwijziging,Sengier Lesley,Lesley.Sengier@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,276909376488
-2026-11-23,Vanlerberghe P.,7,15:05:00,2BEMc,,,PL V004,TAAK,Notebaert L.,Vanlerberghe Peter,Peter.Vanlerberghe@sgsintpaulus.eu,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,TAAK,368942280299
-2026-11-23,Ossieur W.,7,15:05:00,3Eb,,,D030,MEC$VT,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,,,,363901188238
-2026-11-23,Vanlerberghe P.,7,15:05:00,3HTc,,,PL V004,STUDIE,Faingnaert P.,Vanlerberghe Peter,Peter.Vanlerberghe@sgsintpaulus.eu,,,,,365870790448
-2026-11-23,Vanlerberghe P.,7 ~ 8,15:05:00,3Ma,,,PL V004,STUDIE,Seynaeve J.,Vanlerberghe Peter,Peter.Vanlerberghe@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,264971483408
-2026-11-23,Arco K.,7,15:05:00,3Mb,,,V249,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,470899892688
-2026-11-24,Baert M. & Deweer-Taelman K. & Lagrou G. & Noterman J.,1 ~ 2,08:25:00,2SMEa w & 2SMEa x & 2SMEa y & 2SMEa z & 2SMEb w & 2SMEb x & 2SMEb y & 2SMEb z & 2SMEc w & 2SMEc x & 2SMEc y & 2SMEc z,,,C131 Techn Elek STEM & C132 Techn Elek STEM & D010 Technologie MECH 2de jaar & D020 Technologie MECH 2de jaar,ST$STEMp,Behouden opdracht,,,,,,,289829795398
-2026-11-24,Goedefroo N.,1,08:25:00,1STb,,,V220>V120,FRA,Lokaalwijziging,Goedefroo Nancy,Nancy.Goedefroo@sgsintpaulus.eu,,VTI_1STb_Leerlingen@sgsintpaulus.eu,,,264919588148
-2026-11-24,Vanhoutte S.,1 ~ 2,08:25:00,3Eb,,,V242,MEC$CADT,Behouden opdracht,Vanhoutte Stijn,Stijn.Vanhoutte@sgsintpaulus.eu,,,,,172877683558
-2026-11-24,Nolf M.,1,08:25:00,3Hc,,,E020,HT$REAH,Behouden opdracht,Nolf Mathieu,mathieu.nolf@sgsintpaulus.eu,,,,,191888894388
-2026-11-24,Verschaete D.,1,08:25:00,3Mb,,,B090,MEC$VORGp,Adelaere S.,Verschaete Dimitri,dimitri.verschaete@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,353878593268
-2026-11-24,Nocon V.,1 ~ 2,08:25:00,3Mc,,,PL V004,STUDIE,Seynaeve J.,Nocon Vicky,Vicky.Nocon@sgsintpaulus.eu,,,,,385931691568
-2026-11-24,Nocon V.,1,08:25:00,4Mb,,,PL V004,STUDIE,Faingnaert P.,Nocon Vicky,Vicky.Nocon@sgsintpaulus.eu,,VTI_4Mb_Leerlingen@sgsintpaulus.eu,,,486830998608
-2026-11-24,Demey M.,2,09:15:00,1STb,,,V220>V120,WIS,Lokaalwijziging,Demey Marijn,Marijn.Demey@sgsintpaulus.eu,,VTI_1STb_Leerlingen@sgsintpaulus.eu,,,179898280948
-2026-11-24,Van Coppenolle K.,2,09:15:00,3Mb,,,B090,MEC$VORGp,Adelaere S.,Van Coppenolle Kenneth,kenneth.vancoppenolle@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,362850893278
-2026-11-24,Arco K.,2,09:15:00,4HTb,,,V244,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4HTb_Leerlingen@sgsintpaulus.eu,,,470899898578
-2026-11-24,Ossieur W.,2,09:15:00,4Ma,,,V219,MEC$TEC,Van Coppenolle K.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,VTI_4Ma_Leerlingen@sgsintpaulus.eu,,,374872694368
-2026-11-24,Van Coppenolle K.,3 ~ 4,10:20:00,4Ma x & 4Mb x,,,B004>B022,MEC$MDp,Lokaalwijziging,Van Coppenolle Kenneth,kenneth.vancoppenolle@sgsintpaulus.eu,,,,,186809885538
-2026-11-24,Dubois E.,3,10:20:00,1STb,,,V220>V125,NED,Lokaalwijziging,Dubois Elke,Elke.Dubois@sgsintpaulus.eu,,VTI_1STb_Leerlingen@sgsintpaulus.eu,,,291819081608
-2026-11-24,Goedefroo N.,3,10:20:00,2BEMb,,,B158>A038,FRA,Lokaalwijziging,Goedefroo Nancy,Nancy.Goedefroo@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,264919586198
-2026-11-24,Vermeulen S.,,10:20:00,3Ea,,,D110,ELE$EREAp,Breye P.,Vermeulen Stijn,stijn.vermeulen@sgsintpaulus.eu,,,,,351850490068
-2026-11-24,Turpijn B.,3 ~ 4,10:20:00,3EMTb,,,PL V004,STUDIE,Seynaeve J.,Turpijn Bart,Bart.Turpijn@sgsintpaulus.eu,,VTI_3EMTb_Leerlingen@sgsintpaulus.eu,,,264971088128
-2026-11-24,Arco K.,3,10:20:00,3Ma,,,C207,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,470899897528
-2026-11-24,Ossieur W.,3 ~ 4,10:20:00,3Mc,,,B004,MEC$MDp,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,,,,363901193078
-2026-11-24,Goemaere K.,3,10:20:00,3TWENb,,,V120,TWE$MFT,Demeulemeester C.,Goemaere Koen,Koen.Goemaere@sgsintpaulus.eu,,VTI_3TWENb_Leerlingen@sgsintpaulus.eu,,,333039993408
-2026-11-24,Genitello S.,4,11:10:00,6HT Gy,,,PL V004,TAAK,Vanaelst T.,Genitello Steven,steven.genitello@sgsintpaulus.eu,,,,TAAK STUDIE,360998884508
-2026-11-24,Van Laere C.,4,11:10:00,2BEMb,,,A038,WET,Van Laere C.,Van Laere Charlotte,Charlotte.Vanlaere@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,590002389348
-2026-11-24,Swaenepoel W.,4,11:10:00,3HTc,,,C207,NED,Faingnaert P.,Swaenepoel Wouter,Wouter.Swaenepoel@sgsintpaulus.eu,,,,,383849892898
-2026-11-24,Arco K.,4,11:10:00,4HTa,,,V244,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4HTa_Leerlingen@sgsintpaulus.eu,,,470899896628
-2026-11-24,Goedefroo N.,4,11:10:00,4TWENa,,,V220>V248,FRA,Lokaalwijziging,Goedefroo Nancy,Nancy.Goedefroo@sgsintpaulus.eu,,VTI_4TWENa_Leerlingen@sgsintpaulus.eu,,,264919585298
-2026-11-24,De Lie C.,5,13:10:00,0,,,V004,PLA,Seynaeve J.,De Lie Caroline,Caroline.DeLie@sgsintpaulus.eu,,,,,376960103180
-2026-11-24,De Frene N.,5,13:10:00,3ET,,,C206,NED,Behouden opdracht,De Frene Nicky,nicky.defrene@sgsintpaulus.eu,,VTI_3ET_Leerlingen@sgsintpaulus.eu,,,174918276798
-2026-11-24,Van de Wege L.,5,13:10:00,3HTa,,,PL V004,STUDIE,Parmentier A.,Van de Wege Lies,Lies.VanDeWege@sgsintpaulus.eu,,VTI_3HTa_Leerlingen@sgsintpaulus.eu,,,578891693158
-2026-11-24,Arco K.,5,13:10:00,3Ma,,,V008,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,470899894628
-2026-11-24,Ossieur W.,5,13:10:00,3Mc,,,C123,MEC$TEC,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,,,,363901190178
-2026-11-24,Goemaere K.,5,13:10:00,4TWEM,,,B117,TWE$MEP,Demeulemeester C.,Goemaere Koen,Koen.Goemaere@sgsintpaulus.eu,,VTI_4TWEM_Leerlingen@sgsintpaulus.eu,,,333039990508
-2026-11-24,Vanlerberghe P.,5,13:10:00,5ADT,,,V121,ENG,Klasdeel afwezig,Vanlerberghe Peter,Peter.Vanlerberghe@sgsintpaulus.eu,,VTI_5ADT_Leerlingen@sgsintpaulus.eu,,,164850280008
-2026-11-24,Lagrou S.,5 ~ 6,13:10:00,6ET & 7TB,,,D210,ET$AUTt,Van Acker A.,Lagrou Stefan,Stefan.Lagrou@sgsintpaulus.eu,,VTI_6ET_Leerlingen@sgsintpaulus.eu; VTI_7TB_Leerlingen@sgsintpaulus.eu,,,442940086198
-2026-11-24,Baert M.,6 ~ 7,14:00:00,1Bc,,,D040,TCN$M,Adelaere S.,Baert Miranda,miranda.baert@sgsintpaulus.eu,,VTI_1Bc_Leerlingen@sgsintpaulus.eu,,,465870796338
-2026-11-24,Notebaert L.,6,14:00:00,2BEMb,,,B152>A038,WIS,Lokaalwijziging,Notebaert Lotte,lotte.notebaert@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,203889377038
-2026-11-24,Arco K.,6,14:00:00,3Ea,,,V249,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,,,,470899893728
-2026-11-24,D'hondt J. & Vermeulen S.,6,14:00:00,3Eb,,,Prak,ELE$EREAp,Breye P. & D'hondt J.,,,,,,,166828681018
-2026-11-24,Vankeirsbilck M.,6,14:00:00,3EMTb,,,PL V004,STUDIE,Parmentier A.,Vankeirsbilck Margaux,margaux.vankeirsbilck@sgsintpaulus.eu,,VTI_3EMTb_Leerlingen@sgsintpaulus.eu,,,497991986658
-2026-11-24,Vankeirsbilck M.,6,14:00:00,3Mc,,,PL V004,STUDIE,Faingnaert P.,Vankeirsbilck Margaux,margaux.vankeirsbilck@sgsintpaulus.eu,,,,,403940889718
-2026-11-24,Vankeirsbilck M.,6 ~ 7,14:00:00,3Md,,,PL V004,STUDIE,Seynaeve J.,Vankeirsbilck Margaux,margaux.vankeirsbilck@sgsintpaulus.eu,,,,,303041582678
-2026-11-24,Goemaere K.,6,14:00:00,4TWEM,,,B117,TWE$MEP,Demeulemeester C.,Goemaere Koen,Koen.Goemaere@sgsintpaulus.eu,,VTI_4TWEM_Leerlingen@sgsintpaulus.eu,,,333039989608
-2026-11-24,Goethals S.,6,14:00:00,5ADT,,,V121,FRA,Klasdeel afwezig,Goethals Sarah,sarah.goethals@sgsintpaulus.eu,,VTI_5ADT_Leerlingen@sgsintpaulus.eu,,,291897779148
-2026-11-24,Sengier L.,7,15:05:00,2BEMb,,,B152>A038,NED,Lokaalwijziging,Sengier Lesley,Lesley.Sengier@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,276909376478
-2026-11-24,D'hondt J.,7 ~ 8,15:05:00,3Eb,,,Prak,ELE$EREAp,Breye P. & D'hondt J.,,,,,,,166828679968
-2026-11-24,Menu N.,7,15:05:00,3ET,,,PL V004,STUDIE,Parmentier A.,Menu Nathalie,Nathalie.Menu@sgsintpaulus.eu,,VTI_3ET_Leerlingen@sgsintpaulus.eu,,,572961294098
-2026-11-24,Menu N.,7,15:05:00,3HTc,,,PL V004,STUDIE,Faingnaert P.,Menu Nathalie,Nathalie.Menu@sgsintpaulus.eu,,,,,478910197158
-2026-11-24,Arco K.,7,15:05:00,4Mb,,,V244,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4Mb_Leerlingen@sgsintpaulus.eu,,,470899892678
-2026-11-24,Vermeulen S.,7 ~ 8,15:05:00,6DN & 6EI,,,D130,SV$STA,Braeckevelt W.,Vermeulen Stijn,stijn.vermeulen@sgsintpaulus.eu,,VTI_6DN_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu,,,367890684098
-2026-11-24,Goemaere K.,8,15:55:00,3TWENb,,,B114,TWE$MFT,Demeulemeester C.,Goemaere Koen,Koen.Goemaere@sgsintpaulus.eu,,VTI_3TWENb_Leerlingen@sgsintpaulus.eu,,,333039988058
-2026-11-24,Notebaert L.,8,15:55:00,4Eb,,,PL V004,STUDIE,Faingnaert P.,Notebaert Lotte,lotte.notebaert@sgsintpaulus.eu,,VTI_4Eb_Leerlingen@sgsintpaulus.eu,,,404909887868
-2026-11-24,Arco K.,8,15:55:00,4ET,,,V244,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4ET_Leerlingen@sgsintpaulus.eu,,,470899892178
-2026-11-24,Notebaert L.,8,15:55:00,5BIb,,,PL V004,STUDIE,Parmentier A.,Notebaert Lotte,lotte.notebaert@sgsintpaulus.eu,,VTI_5BIb_Leerlingen@sgsintpaulus.eu,,,498960984808
-2026-11-24,Amri N.,,16:45:00,0,,,13 1200:1230 Resto A013 afruim,TOEZICHT,Faingnaert P.,Amri Na�m,naim.amri@sgsintpaulus.eu,,,,,385868691980
-2026-11-24,Desander P.,,16:45:00,0,,,20 1230:1300 Resto V060 afruim,TOEZICHT,Braeckevelt W.,Desander Pedro,Pedro.Desander@sgsintpaulus.eu,,,,,355970681060
-2026-11-25,Ossieur W.,1 ~ 2,08:25:00,0,,,B004,MEC$MDp,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,,,,363901195010
-2026-11-25,Deweer-Taelman K.,1 ~ 2,08:25:00,2BEMb,,,C131,STEM$STAE,Lagrou G.,Deweer-Taelman Karel,karel.deweertaelman@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,374870189458
-2026-11-25,Schamps I.,1,08:25:00,3TWENa,,,C101,GES,Schamps I.,Schamps Ingrid,Ingrid.Schamps@sgsintpaulus.eu,,VTI_3TWENa_Leerlingen@sgsintpaulus.eu,,,531998396908
-2026-11-25,Arco K.,1,08:25:00,4HTb,,,V124>A038,WIS,Lokaalwijziging,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4HTb_Leerlingen@sgsintpaulus.eu,,,171808489918
-2026-11-25,Wille K.,2,09:15:00,4EMT x,,,V241,EMT$EMPRp,Behouden opdracht,Wille Kurt,Kurt.Wille@sgsintpaulus.eu,,,,,177879686698
-2026-11-25,Vermeulen F.,2,09:15:00,4EMT y,,,B117 Labo Pneumatica/Elektr & Fluidsim MecLab,EMT$EMPRt,Demeulemeester C.,Vermeulen Freek,freek.vermeulen@sgsintpaulus.eu,,,,,347012495838
-2026-11-25,Arco K.,2,09:15:00,4HTa,,,V247,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4HTa_Leerlingen@sgsintpaulus.eu,,,470899898568
-2026-11-25,Coorevits L.,2,09:15:00,4HTb,,,V124>V119,NED,Lokaalwijziging,Coorevits Lode,Lode.Coorevits@sgsintpaulus.eu,,VTI_4HTb_Leerlingen@sgsintpaulus.eu,,,171899183008
-2026-11-25,Capiau M.,2,09:15:00,6SV,,,PL V004,STUDIE,Demets R.,Capiau Maarten,Maarten.Capiau@sgsintpaulus.eu,,VTI_6SV_Leerlingen@sgsintpaulus.eu,,,474969406268
-2026-11-25,Vermeulen F.,3 ~ 4,10:20:00,4EMT y,,,B117 Labo Pneumatica/Elektr & Fluidsim MecLab,EMT$EMPRt,Demeulemeester C.,Vermeulen Freek,freek.vermeulen@sgsintpaulus.eu,,,,,347012494788
-2026-11-25,Deryckere K.,3 ~ 4,10:20:00,6HT Gy,,,A030,SV$STA,Nollet C.,Deryckere Koen,koen.deryckere@sgsintpaulus.eu,,,,,343960990978
-2026-11-25,Caes E. & De Frene N.,3,10:20:00,1STc,,,V124>B152,NED,Lokaalwijziging,,,,VTI_1STc_Leerlingen@sgsintpaulus.eu,,,286829780468
-2026-11-25,Verschueren J.,3,10:20:00,2BEHa,,,PL V004,STUDIE,Vercruysse K.,Verschueren Jonathan,jonathan.verschueren@sgsintpaulus.eu,,VTI_2BEHa_Leerlingen@sgsintpaulus.eu,,,373012084838
-2026-11-25,Dupret T.,3,10:20:00,2BEMb,,,B152>A038,GOD,Lokaalwijziging,Dupret Tiffany,tiffany.dupret@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,297889898308
-2026-11-25,Ossieur W.,3 ~ 4,10:20:00,2BHMb,,,C112,TCN,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,VTI_2BHMb_Leerlingen@sgsintpaulus.eu,,,363901193068
-2026-11-25,Arco K.,3,10:20:00,3Ea,,,C207,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,,,,470899897518
-2026-11-25,Vermeulen B.,3 ~ 4,10:20:00,6DN & 6EI,,,D130,EI$EIS,Breye P.,Vermeulen Bart,Bart.Vermeulen@sgsintpaulus.eu,,VTI_6DN_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu,,,334879992458
-2026-11-25,Caes E.,4,11:10:00,1STc,,,V124>V007,GOD,Lokaalwijziging,Caes Ellen,ellen.caes@sgsintpaulus.eu,,VTI_1STc_Leerlingen@sgsintpaulus.eu,,,286829779568
-2026-11-25,Bogaerts T.,4,11:10:00,2BEHa,,,PL V004,STUDIE,Vercruysse K.,Bogaerts Tijl,Tijl.Bogaerts@sgsintpaulus.eu,,VTI_2BEHa_Leerlingen@sgsintpaulus.eu,,,355941790508
-2026-11-25,De Volder B.,4,11:10:00,2BEMb,,,V115>A038,STEM$EX,Lokaalwijziging,De Volder Bram,Bram.Devolder@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,191879084428
-2026-11-25,Loosveld M.,4,11:10:00,3EMTb,,,V223,WIS,Behouden opdracht,Loosveld Michiel,michiel.loosveld@sgsintpaulus.eu,,VTI_3EMTb_Leerlingen@sgsintpaulus.eu,,,99837884088
-2026-11-25,Arco K.,4,11:10:00,4Ma,,,V244,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4Ma_Leerlingen@sgsintpaulus.eu,,,470899896618
-2026-11-26,Boucquez J. & Degroote W. & Van Welden F. & Vercauteren G.,1 ~ 2,08:25:00,1SWa w & 1SWa x & 1SWa y & 1SWa z & 1SWb w & 1SWb x & 1SWb y & 1SWb z & 1SWc w & 1SWc x & 1SWc y & 1SWc z,,,B160 & C112 Technologie  Elek ICTSTEM & C131 Techn Elek STEM & D040 Technologie Mech 1ste jaa,STEMBHM,Boucquez J. & De Keukeleire M. & Degroote W. & Lagrou G. & Vercauteren G.,,,,,,,346018983338
-2026-11-26,Dehaerne J.,1,08:25:00,2BEMc,,,PL V004,STUDIE,Demets R.,Dehaerne Jeroen,Jeroen.Dehaerne@sgsintpaulus.eu,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,,469920400569
-2026-11-26,Dehaerne J.,1,08:25:00,2SBHa,,,PL V004,STUDIE,Demeurisse G.,Dehaerne Jeroen,Jeroen.Dehaerne@sgsintpaulus.eu,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,,365940688768
-2026-11-26,Ossieur W.,1,08:25:00,3Mb,,,C123,MEC$TEC,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,363901195008
-2026-11-26,Faingnaert P.,1,08:25:00,3Mc,,,V113>V007,NED,Lokaalwijziging,Faingnaert Pauline,pauline.faingnaert@sgsintpaulus.eu,,,,,200817892918
-2026-11-26,Arco K.,1,08:25:00,4ET,,,V246,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4ET_Leerlingen@sgsintpaulus.eu,,,470899899458
-2026-11-26,Vermeulen S.,1 ~ 2,08:25:00,5EI,,,D130 & D141 Huis Elektriciteit,TAAK,Braeckevelt W.,Vermeulen Stijn,stijn.vermeulen@sgsintpaulus.eu,,VTI_5EI_Leerlingen@sgsintpaulus.eu,,ONDERHOUD AFD E,367890690878
-2026-11-26,Vandevelde R.,1 ~ 2,08:25:00,7TB,,,C232,BVT/TAB,Van Acker A.,Vandevelde Ringo,Ringo.Vandevelde@sgsintpaulus.eu,,VTI_7TB_Leerlingen@sgsintpaulus.eu,,,441938590268
-2026-11-26,Ben Miled H.,2,09:15:00,1Ba,,,PL V004,STUDIE,Demets R.,Ben Miled Hamdi,hamdi.benmiled@sgsintpaulus.eu,,VTI_1Ba_Leerlingen@sgsintpaulus.eu,,,478982205318
-2026-11-26,Dehaerne A.,2,09:15:00,2SWa,,,V250,ENG,Demeurisse G.,Dehaerne An,An.Dehaerne@sgsintpaulus.eu,,VTI_2SWa_Leerlingen@sgsintpaulus.eu,,,463949593958
-2026-11-26,Calleeuw S.,2,09:15:00,3Ha,,,C206,MAVO,Behouden opdracht,Calleeuw Sarah,sarah.calleeuw@sgsintpaulus.eu,,VTI_3Ha_Leerlingen@sgsintpaulus.eu,,,282888784708
-2026-11-26,Dehaerne J.,2,09:15:00,3Mb,,,V113>V249,MAVO,Lokaalwijziging,Dehaerne Jeroen,Jeroen.Dehaerne@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,172848581628
-2026-11-26,Ben Miled H.,2,09:15:00,3TWENa,,,PL V004,TWE$MFT,Demeulemeester C.,Ben Miled Hamdi,hamdi.benmiled@sgsintpaulus.eu,,VTI_3TWENa_Leerlingen@sgsintpaulus.eu,,,350032793918
-2026-11-26,Vandecasteele H.,3,10:20:00,1Ba,,,PL V004,STUDIE,Demets R.,Vandecasteele Hilde,Hilde.Vandecasteele@sgsintpaulus.eu,,VTI_1Ba_Leerlingen@sgsintpaulus.eu,,,565960701828
-2026-11-26,Ferlin L.,3,10:20:00,1Bb,,,C131 Techn Elek STEM & V120,WIS,Lagrou G.,Ferlin Leen,leen.ferlin@sgsintpaulus.eu,,VTI_1Bb_Leerlingen@sgsintpaulus.eu,,,485920495049
-2026-11-26,Verstuyft G.,3,10:20:00,3BW,,,V007,BW$STUPW,D'Haene H.,Verstuyft Griet,Griet.Verstuyft@sgsintpaulus.eu,,VTI_3BW_Leerlingen@sgsintpaulus.eu,,,270839503248
-2026-11-26,Ossieur W.,3 ~ 4,10:20:00,3Md,,,D030,MEC$VT,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,,,,363901193058
-2026-11-26,Nellen W.,3,10:20:00,3TWEM,,,LO1,LO,Demeulemeester C.,Nellen Winfried,Winfried.Nellen@sgsintpaulus.eu,,VTI_3TWEM_Leerlingen@sgsintpaulus.eu,,,341972889068
-2026-11-26,Vandecasteele H.,3,10:20:00,4Ha,,,PL V004,TAAK,Dewaele S.,Vandecasteele Hilde,Hilde.Vandecasteele@sgsintpaulus.eu,,VTI_4Ha_Leerlingen@sgsintpaulus.eu,,TAAK,450990093828
-2026-11-26,Dupret T.,3,10:20:00,4Hb,,,V113>V244,GOD,Lokaalwijziging,Dupret Tiffany,tiffany.dupret@sgsintpaulus.eu,,VTI_4Hb_Leerlingen@sgsintpaulus.eu,,,297889898298
-2026-11-26,Arco K.,3,10:20:00,4HTa,,,V245,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4HTa_Leerlingen@sgsintpaulus.eu,,,470899897508
-2026-11-26,Vandecasteele H.,3,10:20:00,4HTb,,,PL V004,TAAK,Vaesen Bentein J.,Vandecasteele Hilde,Hilde.Vandecasteele@sgsintpaulus.eu,,VTI_4HTb_Leerlingen@sgsintpaulus.eu,,TAAK STUDIE,466961888478
-2026-11-26,Beyaert S.,3,10:20:00,5BIa,,,A135,HBW$CGMA,Nollet C.,Beyaert Stijn,stijn.beyaert@sgsintpaulus.eu,,VTI_5BIa_Leerlingen@sgsintpaulus.eu,,,349000089458
-2026-11-26,Vermeulen B.,3 ~ 4,10:20:00,5DN & 6DN & 6EI,,,D110,DN$DNT,Breye P.,Vermeulen Bart,Bart.Vermeulen@sgsintpaulus.eu,,VTI_5DN_Leerlingen@sgsintpaulus.eu; VTI_6DN_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu,,,334879992448
-2026-11-26,Vermeulen S.,3 ~ 4,10:20:00,5EI,,,D130 & D141 Huis Elektriciteit,EI$EIS,Braeckevelt W.,Vermeulen Stijn,stijn.vermeulen@sgsintpaulus.eu,,VTI_5EI_Leerlingen@sgsintpaulus.eu,,,367890688928
-2026-11-26,Vandevelde R.,3 ~ 4,10:20:00,7TB,,,D220,BVT/RAB,Van Acker A.,Vandevelde Ringo,Ringo.Vandevelde@sgsintpaulus.eu,,VTI_7TB_Leerlingen@sgsintpaulus.eu,,,441938588318
-2026-11-26,Nollet C.,4,11:10:00,1Ba,,,PL V004,STUDIE,Demets R.,Nollet Chris,Chris.Nollet@sgsintpaulus.eu,,VTI_1Ba_Leerlingen@sgsintpaulus.eu,,,460970199598
-2026-11-26,Nollet C.,4,11:10:00,1Bb,,,PL V004,STUDIE,Lagrou G.,Nollet Chris,Chris.Nollet@sgsintpaulus.eu,,VTI_1Bb_Leerlingen@sgsintpaulus.eu,,,355911084929
-2026-11-26,Dehaerne A.,4,11:10:00,1SWc,,,V113>V249,ENG,Lokaalwijziging,Dehaerne An,An.Dehaerne@sgsintpaulus.eu,,VTI_1SWc_Leerlingen@sgsintpaulus.eu,,,270857485768
-2026-11-26,Hermans L.,4,11:10:00,2SBHb,,,V222,WIS,Demeurisse G.,Hermans Laurien,laurien.hermans@sgsintpaulus.eu,,VTI_2SBHb_Leerlingen@sgsintpaulus.eu,,,394902588218
-2026-11-26,Verstuyft G.,4,11:10:00,3BW,,,V007,BW$STUPO,D'Haene H.,Verstuyft Griet,Griet.Verstuyft@sgsintpaulus.eu,,VTI_3BW_Leerlingen@sgsintpaulus.eu,,,270839502348
-2026-11-26,Bauwen T.,4,11:10:00,3TWEM,,,V120,FRA,Demeulemeester C.,Bauwen Tine,Tine.Bauwen@sgsintpaulus.eu,,VTI_3TWEM_Leerlingen@sgsintpaulus.eu,,,452022687178
-2026-11-26,Nollet C.,4,11:10:00,5ICW & 5MEE & 5MEM,,,PL V004,TAAK,Cardinael L.,Nollet Chris,Chris.Nollet@sgsintpaulus.eu,,VTI_5ICW_Leerlingen@sgsintpaulus.eu; VTI_5MEE_Leerlingen@sgsintpaulus.eu; VTI_5MEM_Leerlingen@sgsintpaulus.eu,,STUDIE voor TOETS,451990799428
-2026-11-26,Vanhulle K.,4,11:10:00,6ADT,,,D310,ADT$ICTL,De Keukeleire M.,Vanhulle Kim,Kim.vanhulle@sgsintpaulus.eu,,VTI_6ADT_Leerlingen@sgsintpaulus.eu,,,390952084368
-2026-11-26,Velle M.,5 ~ 6,13:10:00,1STc TG1 & 1STc TG2 & 1STc TG3 & 1STc TG4 & 1STc TG5 & 1STc TG6 & 1STa TG1 & 1STa TG2 & 1STa TG3 & 1STa TG4 & 1STa TG5 & 1STa TG6 & 1STb TG1 & 1STb TG2 & 1STb TG3 & 1STb TG4 & 1STb TG5 & 1STb TG6,,,PL V004,TAAK,Baert M. & Cornelis F. & De Keukeleire M. & Degroote W. & Deweer-Taelman K. & Lagrou G. & Van Welden F.,Velle Mathis,mathis.velle@sgsintpaulus.eu,,,,TAAK op TEAMS,392901492338
-2026-11-26,Demets G.,5,13:10:00,5HTa Gz & 5HTb Gz,,,A135,OND$LBO,Nollet C.,Demets Guy,Guy.Demets@sgsintpaulus.eu,,,,,339979587718
-2026-11-26,Velle M.,5,13:10:00,1Bc,,,PL V004,STUDIE,Demeurisse G.,Velle Mathis,mathis.velle@sgsintpaulus.eu,,VTI_1Bc_Leerlingen@sgsintpaulus.eu,,,295961183738
-2026-11-26,Dupret T.,5,13:10:00,2BEMb,,,B155>A038,GOD,Lokaalwijziging,Dupret Tiffany,tiffany.dupret@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,297889895398
-2026-11-26,Velle M.,5,13:10:00,2BEMc,,,PL V004,STUDIE,Demets R.,Velle Mathis,mathis.velle@sgsintpaulus.eu,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,,399940895539
-2026-11-26,Vermeulen S.,5 ~ 6,13:10:00,3Eb,,,Prak,ELE$EREAp,Breye P.,Vermeulen Stijn,stijn.vermeulen@sgsintpaulus.eu,,,,,351850487148
-2026-11-26,Ossieur W.,5 ~ 6,13:10:00,3ET,,,V120,TWE$MFT,Demeulemeester C.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,VTI_3ET_Leerlingen@sgsintpaulus.eu,,,355982590108
-2026-11-26,Arco K.,5,13:10:00,4HTb,,,V247,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4HTb_Leerlingen@sgsintpaulus.eu,,,470899894608
-2026-11-26,Capiau M.,6,14:00:00,5HTa Gx & 5HTb Gx,,,A135,OND$LBO,Nollet C.,Capiau Maarten,Maarten.Capiau@sgsintpaulus.eu,,,,,341998587238
-2026-11-26,Goemaere K.,6,14:00:00,1Bb,,,PL V004,STUDIE,Demeurisse G.,Goemaere Koen,Koen.Goemaere@sgsintpaulus.eu,,VTI_1Bb_Leerlingen@sgsintpaulus.eu,,,358009689189
-2026-11-26,Dupret T.,6,14:00:00,2BEMb,,,B155>A038,MAVO,Lokaalwijziging,Dupret Tiffany,tiffany.dupret@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,297889894498
-2026-11-26,Arco K. & Tack S.,6,14:00:00,4Hb,,,A162,WIS,De Clerck L. & Tack S.,,,,VTI_4Hb_Leerlingen@sgsintpaulus.eu,,,470899893708
-2026-11-26,Meert T.,6,14:00:00,6OAa,,,V170,LO,Demets R.,Meert Tom,Tom.Meert@sgsintpaulus.eu,,,,,472909797378
-2026-11-26,Velle M.,7,15:05:00,5HTa Gy & 5HTb Gy,,,A135,OND$LBO,Nollet C.,Velle Mathis,mathis.velle@sgsintpaulus.eu,,,,,266970079418
-2026-11-26,Nolf M.,7,15:05:00,1Ba,,,PL V004,STUDIE,Demets R.,Nolf Mathieu,mathieu.nolf@sgsintpaulus.eu,,VTI_1Ba_Leerlingen@sgsintpaulus.eu,,,488960705608
-2026-11-26,Sengier L.,7,15:05:00,2BEMb,,,B155>A038,NED,Lokaalwijziging,Sengier Lesley,Lesley.Sengier@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,276909376458
-2026-11-26,Nolf M.,7,15:05:00,2SBHa,,,PL V004,TAAK,De Keukeleire M.,Nolf Mathieu,mathieu.nolf@sgsintpaulus.eu,,VTI_2SBHa_Leerlingen@sgsintpaulus.eu,,TAAK TEAMS,293970492198
-2026-11-26,Nolf M.,7,15:05:00,3TWENb,,,PL V004,TWE$MFT,Demeulemeester C.,Nolf Mathieu,mathieu.nolf@sgsintpaulus.eu,,VTI_3TWENb_Leerlingen@sgsintpaulus.eu,,,360011294208
-2026-11-26,Arco K.,7,15:05:00,4Ma,,,C205,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4Ma_Leerlingen@sgsintpaulus.eu,,,470899892658
-2026-11-26,Soete V.,7 ~ 8,15:05:00,5ICW & 6ADT,,,V115,ICW$AE,Breye P.,Soete Vincent,Vincent.Soete@sgsintpaulus.eu,,VTI_5ICW_Leerlingen@sgsintpaulus.eu; VTI_6ADT_Leerlingen@sgsintpaulus.eu,,,338840085358
-2026-11-26,Lagrou S.,7 ~ 8,15:05:00,6ET & 7TB,,,D210,TAAK,Van Acker A.,Lagrou Stefan,Stefan.Lagrou@sgsintpaulus.eu,,VTI_6ET_Leerlingen@sgsintpaulus.eu; VTI_7TB_Leerlingen@sgsintpaulus.eu,,ONDERHOUD AFD ELEK,442940084228
-2026-11-26,Velle M.,8,15:55:00,6HT Gy,,,A135,OND$LBO,Nollet C.,Velle Mathis,mathis.velle@sgsintpaulus.eu,,,,,266970078918
-2026-11-26,Moreels W.,8,15:55:00,5ADT,,,PL V004,TAAK,De Keukeleire M.,Moreels Wout,Wout.Moreels@sgsintpaulus.eu,,VTI_5ADT_Leerlingen@sgsintpaulus.eu,,TAAK TEAMS,284969479758
-2026-11-26,Van Glabeke E.,,16:45:00,0,,,08 1005:1020 Broodjes koer B,TOEZICHT,Breye P.,Van Glabeke Evelien,Evelien.Vanglabeke@sgsintpaulus.eu,,,,,447870781770
-2026-11-26,Faingnaert P.,,16:45:00,0,,,13 1200:1230 Resto A013 afruim,TOEZICHT,Demeulemeester C.,Faingnaert Pauline,pauline.faingnaert@sgsintpaulus.eu,,,,,368940291350
-2026-11-26,Arco K.,,16:45:00,0,,,33 1230:1300 Koer B,TOEZICHT,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,,,,470899891250
-2026-11-27,Seynaeve J.,1 ~ 2,08:25:00,4EMT y,,,B004,EMT$EMPRp,Demeulemeester C.,Seynaeve Jeffrey,jeffrey.seynaeve@sgsintpaulus.eu,,,,,268040992508
-2026-11-27,Notebaert L.,1,08:25:00,2BEMb,,,B152>A038,WIS,Lokaalwijziging,Notebaert Lotte,lotte.notebaert@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,203889382758
-2026-11-27,Van Mello G.,1,08:25:00,3EMTa & 5ET,,,D220,ET$AUTt,Van Acker A.,Van Mello Guy,Guy.VanMello@sgsintpaulus.eu,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu; VTI_5ET_Leerlingen@sgsintpaulus.eu,,,432937792518
-2026-11-27,Ossieur W.,1 ~ 2,08:25:00,3Ma,,,D030,MEC$VT,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,363901194998
-2026-11-27,Vandevoorde H.,1,08:25:00,3Md,,,V221>V225,GOD,Lokaalwijziging,Vandevoorde Heleen,heleen.vandevoorde@sgsintpaulus.eu,,,,,296879600798
-2026-11-27,Demets R.,1,08:25:00,4ET,,,PL V004,STUDIE,Breye P.,Demets Rani,rani.demets@sgsintpaulus.eu,,VTI_4ET_Leerlingen@sgsintpaulus.eu,,,463900504768
-2026-11-27,Meulebrouck E.,2,09:15:00,1SWa,,,V221>V224,NED,Lokaalwijziging,Meulebrouck Ellen,ellen.meulebrouck@sgsintpaulus.eu,,VTI_1SWa_Leerlingen@sgsintpaulus.eu,,,291900485828
-2026-11-27,Sengier L.,2,09:15:00,2BEMb,,,B152>A038,NED,Lokaalwijziging,Sengier Lesley,Lesley.Sengier@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,276909382348
-2026-11-27,Deconinck L.,2,09:15:00,4ET,,,D320,NED,Breye P.,Deconinck Lode,Lode.Deconinck@sgsintpaulus.eu,,VTI_4ET_Leerlingen@sgsintpaulus.eu,,,336898994958
-2026-11-27,Arco K.,2,09:15:00,4Mb,,,V245,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4Mb_Leerlingen@sgsintpaulus.eu,,,470899898548
-2026-11-27,Van Mello G.,2,09:15:00,4TWEE & 5ET,,,D220,ET$AUTt,Van Acker A.,Van Mello Guy,Guy.VanMello@sgsintpaulus.eu,,VTI_4TWEE_Leerlingen@sgsintpaulus.eu; VTI_5ET_Leerlingen@sgsintpaulus.eu,,,432937791618
-2026-11-27,Bernaerts A.,3,10:20:00,2BEMb,,,B156>A038,ENG,Lokaalwijziging,Bernaerts Annemie,annemie.bernaerts@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,270869283248
-2026-11-27,Arco K.,3,10:20:00,4ET,,,V246,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4ET_Leerlingen@sgsintpaulus.eu,,,470899897498
-2026-11-27,Van Mello G.,3,10:20:00,4TWEE & 7DE,,,C122 ENG & Fluidsim Full Version,TWE$PEER,Van Acker A.,Van Mello Guy,Guy.VanMello@sgsintpaulus.eu,,VTI_4TWEE_Leerlingen@sgsintpaulus.eu; VTI_7DE_Leerlingen@sgsintpaulus.eu,,,432937790568
-2026-11-27,Viaene T.,3,10:20:00,5AT,,,V221>V007,GES,Lokaalwijziging,Viaene Tuur,Tuur.Viaene@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu,,,187918584398
-2026-11-27,Staelens J.,3 ~ 4,10:20:00,5DN & 6DN & 6EI,,,D110,TAAK,Breye P.,Staelens Jeroen,jeroen.staelens@sgsintpaulus.eu,,VTI_5DN_Leerlingen@sgsintpaulus.eu; VTI_6DN_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu,,ONDERHOUD AFD E,353890597068
-2026-11-27,Demey M.,4,11:10:00,1SWa,,,V221>V007,WIS,Lokaalwijziging,Demey Marijn,Marijn.Demey@sgsintpaulus.eu,,VTI_1SWa_Leerlingen@sgsintpaulus.eu,,,179898278968
-2026-11-27,Dupret T.,4,11:10:00,2BEMb,,,C201>A038,MAVO,Lokaalwijziging,Dupret Tiffany,tiffany.dupret@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,297889897388
-2026-11-27,Ossieur W.,4,11:10:00,3Mb,,,C123,MEC$TEC,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,363901192148
-2026-11-27,Van Mello G.,4,11:10:00,3TWEE & 7DE,,,C122,TWE$PEER,Van Acker A.,Van Mello Guy,Guy.VanMello@sgsintpaulus.eu,,VTI_3TWEE_Leerlingen@sgsintpaulus.eu; VTI_7DE_Leerlingen@sgsintpaulus.eu,,,432937789668
-2026-11-27,Notebaert L.,5,13:10:00,2BEMb,,,B152>A038,WIS,Lokaalwijziging,Notebaert Lotte,lotte.notebaert@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,203889377908
-2026-11-27,De Volder B.,5,13:10:00,2SMEc,,,C131,ST$STEMt,Lagrou G.,De Volder Bram,Bram.Devolder@sgsintpaulus.eu,,VTI_2SMEc_Leerlingen@sgsintpaulus.eu,,,383891785778
-2026-11-27,Van Mello G.,5,13:10:00,3TWEE,,,C122,TWE$PEER,Behouden opdracht,Van Mello Guy,Guy.VanMello@sgsintpaulus.eu,,VTI_3TWEE_Leerlingen@sgsintpaulus.eu,,,163877681178
-2026-11-27,Roobrouck T.,5 ~ 6,13:10:00,6OAa,,,B078 & B080 Onderstel beneden,SV$STA,Genitello S.,Roobrouck Tieben,tieben.roobrouck@sgsintpaulus.eu,,,,,287039383418
-2026-11-27,De Volder B.,6,14:00:00,2BEMb,,,C131,STEM$STAE,Lagrou G.,De Volder Bram,Bram.Devolder@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,383891784878
-2026-11-27,Roobroeck B.,7,15:05:00,2BEMb,,,PL V004,STUDIE,Lagrou G.,Roobroeck Bart,Bart.Roobroeck@sgsintpaulus.eu,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,,358900378488
-2026-11-27,Cottignies V.,,16:45:00,0,,,23 1230:1300 Resto A013 tz,TOEZICHT,D'Haene H.,Cottignies Vincent,Vincent.Cottignies@sgsintpaulus.eu,,,,,179858578390
-2026-11-23,Geannuleerde opdracht,,08:25:00,4Hb z & 4Ha z,,,NTB,TAAK,D'Haene H.,,,,,,Geannuleerde opdracht,-202619438
-2026-11-24,Geannuleerde opdracht,1 ~ 2,08:25:00,4Hb z & 4Ha z,,,NTB,TAAK,D'Haene H.,,,,,,Geannuleerde opdracht,-202619448
-2026-11-26,Geannuleerde opdracht,1 ~ 2,08:25:00,4Hb z & 4Ha z,,,NTB,TAAK,D'Haene H.,,,,,,Geannuleerde opdracht,-202619468
-2026-11-25,Geannuleerde opdracht,1 ~ 2,08:25:00,5HTa x & 5HTb x,,,NTB,TAAK,Nollet C.,,,,,,Geannuleerde opdracht,163898384428
-2026-11-26,Geannuleerde opdracht,1 ~ 2,08:25:00,5HTa x & 5HTb x,,,NTB,TAAK,Nollet C.,,,,,,Geannuleerde opdracht,163898384418
-2026-11-27,Geannuleerde opdracht,1,08:25:00,3EMTa,,,NTB,TAAK,Van Mello G.,,,,VTI_3EMTa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,163877686038
-2026-11-25,Geannuleerde opdracht,1,08:25:00,4HTb,,,NTB,TAAK,De Clerck L.,,,,VTI_4HTb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,298888790108
-2026-11-26,Geannuleerde opdracht,1 ~ 2,08:25:00,5ADT,,,NTB,TAAK,Breye P.,,,,VTI_5ADT_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,166828686748
-2026-11-25,Geannuleerde opdracht,1 ~ 2,08:25:00,5DN & 5EI,,,NTB,TAAK,Breye P.,,,,VTI_5DN_Leerlingen@sgsintpaulus.eu; VTI_5EI_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,166828686758
-2026-11-27,Geannuleerde opdracht,1,08:25:00,5HTb,,,NTB,TAAK,D'Haene H.,,,,VTI_5HTb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,-202619478
-2026-11-27,Geannuleerde opdracht,1,08:25:00,7DE,,,NTB,TAAK,Braeckevelt W.,,,,VTI_7DE_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,182868885618
-2026-11-27,Geannuleerde opdracht,1,08:25:00,7DTI,,,NTB,TAAK,Amri N.,,,,VTI_7DTI_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,184848187788
-2026-11-24,Geannuleerde opdracht,2,09:15:00,Planton,,,NTB,TAAK,Breye P.,,,,,,Geannuleerde opdracht,166828685860
-2026-11-27,Geannuleerde opdracht,2,09:15:00,4BW,,,NTB,TAAK,D'Haene H.,,,,VTI_4BW_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,-202620378
-2026-11-27,Geannuleerde opdracht,2,09:15:00,7DE,,,NTB,TAAK,Braeckevelt W.,,,,VTI_7DE_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,182868884718
-2026-11-27,Geannuleerde opdracht,2,09:15:00,7DTI,,,NTB,TAAK,Amri N.,,,,VTI_7DTI_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,184848186888
-2026-11-24,Geannuleerde opdracht,3 ~ 4,10:20:00,4Hb z & 4Ha z,,,NTB,TAAK,D'Haene H.,,,,,,Geannuleerde opdracht,-202621398
-2026-11-25,Geannuleerde opdracht,3,10:20:00,4Hb z & 4Ha z,,,NTB,TAAK,D'Haene H.,,,,,,Geannuleerde opdracht,-202621408
-2026-11-24,Geannuleerde opdracht,3,10:20:00,1Bf,,,NTB,TAAK,Vercruysse K.,,,,VTI_1Bf_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,180900082778
-2026-11-27,Geannuleerde opdracht,3,10:20:00,4BW,,,NTB,TAAK,D'Haene H.,,,,VTI_4BW_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,-202621428
-2026-11-27,Geannuleerde opdracht,3 ~ 4,10:20:00,4Eb,,,NTB,TAAK,Amri N.,,,,VTI_4Eb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,184848185838
-2026-11-27,Geannuleerde opdracht,3 ~ 4,10:20:00,5ET,,,NTB,TAAK,Braeckevelt W.,,,,VTI_5ET_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,182868883668
-2026-11-26,Geannuleerde opdracht,4,11:10:00,Planton,,,NTB,TAAK,Nollet C.,,,,,,Geannuleerde opdracht,163898381560
-2026-11-25,Geannuleerde opdracht,4,11:10:00,4Hb z & 4Ha z,,,NTB,TAAK,D'Haene H.,,,,,,Geannuleerde opdracht,-202622308
-2026-11-24,Geannuleerde opdracht,4 ~ 5,11:10:00,2BHMb,,,NTB,TAAK,Vercauteren G.,,,,VTI_2BHMb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,164890181338
-2026-11-27,Geannuleerde opdracht,4,11:10:00,4BW,,,NTB,TAAK,D'Haene H.,,,,VTI_4BW_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,-202622328
-2026-11-27,Geannuleerde opdracht,5,13:10:00,4Hb z & 4Ha z,,,NTB,TAAK,D'Haene H.,,,,,,Geannuleerde opdracht,-202624328
-2026-11-23,Geannuleerde opdracht,,13:10:00,5HTa x & 5HTb x,,,NTB,TAAK,Nollet C.,,,,,,Geannuleerde opdracht,163898379598
-2026-11-23,Geannuleerde opdracht,5 ~ 6,13:10:00,3Ma,,,NTB,TAAK,Seynaeve J.,,,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,99918581068
-2026-11-27,Geannuleerde opdracht,5 ~ 6,13:10:00,7DTI,,,NTB,TAAK,Amri N.,,,,VTI_7DTI_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,184848182938
-2026-11-24,Geannuleerde opdracht,6 ~ 7,14:00:00,2SWa w & 2SWa x & 2SWa y & 2SWa z & 2SWb w & 2SWb x & 2SWb y & 2SWb z & 2SWc w & 2SWc x & 2SWc y & 2SWc z,,,NTB,TAAK,Cornelis F. & De Volder B. & Van Herreweghe B. & Van Welden F. & Vercauteren G.,,,,,,Geannuleerde opdracht,182878584948
-2026-11-27,Geannuleerde opdracht,,14:00:00,4Hb z & 4Ha z,,,NTB,TAAK,D'Haene H.,,,,,,Geannuleerde opdracht,-202625228
-2026-11-27,Geannuleerde opdracht,7,15:05:00,5OAa,,,NTB,TAAK,Genitello S.,,,,VTI_5OAa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,184917777458
-2026-11-24,Geannuleerde opdracht,8,15:55:00,0,,,NTB,TAAK,Lagrou G.,,,,,,Geannuleerde opdracht,191810076630
-2026-11-27,Geannuleerde opdracht,8,15:55:00,5OAa,,,NTB,TAAK,Genitello S.,,,,VTI_5OAa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,184917776958
-2026-11-25,Geannuleerde opdracht,,16:45:00,0,,,NTB,TAAK,Nollet C.,,,,,,Geannuleerde opdracht,163898376220
+2026-11-30,Ossieur W.,1,08:25:00,,,,V004,PLA,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,,,,363901194960
+2026-11-30,D'hondt J. & Vermeulen S.,,09:15:00,3Eb,,,D110,ELE$EREAp,Breye P. & D'hondt J.,,,,,,,166828685808
+2026-11-30,Ossieur W.,2,09:15:00,3Mb,,,C123,MEC$TEC,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,363901194068
+2026-11-30,Goemaere K.,2,09:15:00,3TWENa,,,B003,TWE$MFT,Demeulemeester C.,Goemaere Koen,Koen.Goemaere@sgsintpaulus.eu,,VTI_3TWENa_Leerlingen@sgsintpaulus.eu,,,333039994398
+2026-11-30,Ossieur W.,3 ~ 4,10:20:00,3Mb,,,D030,MEC$KW,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,363901193018
+2026-11-30,Goemaere K.,3,10:20:00,3TWENa,,,C101,TWE$MFT,Demeulemeester C.,Goemaere Koen,Koen.Goemaere@sgsintpaulus.eu,,VTI_3TWENa_Leerlingen@sgsintpaulus.eu,,,333039993348
+2026-11-30,Nolf M.,4,11:10:00,6HT Gx,,,A135,OND$LBO,Nollet C.,Nolf Mathieu,mathieu.nolf@sgsintpaulus.eu,,,,,355989895348
+2026-11-30,Ossieur W.,5 ~ 6,13:10:00,3Mc,,,D030,MEC$KW,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,,,,363901190118
+2026-11-30,Arco K. & Tack S.,5,13:10:00,4Hb,,,V243,WIS,De Clerck L. & Tack S.,,,,VTI_4Hb_Leerlingen@sgsintpaulus.eu,,,470899894568
+2026-11-30,Arco K.,6,14:00:00,3Mb,,,V249,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,470899893668
+2026-11-30,Ossieur W.,7,15:05:00,3Eb,,,D030,MEC$VT,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,,,,363901188168
+2026-11-30,Arco K.,7,15:05:00,3Mb,,,V249,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,470899892618
+2026-12-01,Verschaete D.,1,08:25:00,3Mb,,,B090,MEC$VORGp,Adelaere S.,Verschaete Dimitri,dimitri.verschaete@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,353878592498
+2026-12-01,Van Coppenolle K.,2,09:15:00,3Mb,,,B090,MEC$VORGp,Adelaere S.,Van Coppenolle Kenneth,kenneth.vancoppenolle@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,362850892508
+2026-12-01,Arco K.,2,09:15:00,4HTb,,,V244,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4HTb_Leerlingen@sgsintpaulus.eu,,,470899897808
+2026-12-01,Ossieur W.,2,09:15:00,4Ma,,,V219,MEC$TEC,Van Coppenolle K.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,VTI_4Ma_Leerlingen@sgsintpaulus.eu,,,374872693598
+2026-12-01,Van Coppenolle K.,3 ~ 4,10:20:00,4Ma x & 4Mb x,,,B004>B022,MEC$MDp,Lokaalwijziging,Van Coppenolle Kenneth,kenneth.vancoppenolle@sgsintpaulus.eu,,,,,186809884768
+2026-12-01,Vermeulen S.,,10:20:00,3Ea,,,D110,ELE$EREAp,Breye P.,Vermeulen Stijn,stijn.vermeulen@sgsintpaulus.eu,,,,,351850489298
+2026-12-01,Arco K.,3,10:20:00,3Ma,,,C207,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,470899896758
+2026-12-01,Ossieur W.,3 ~ 4,10:20:00,3Mc,,,B004,MEC$MDp,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,,,,363901192308
+2026-12-01,Goemaere K.,3,10:20:00,3TWENb,,,V120,TWE$MFT,Demeulemeester C.,Goemaere Koen,Koen.Goemaere@sgsintpaulus.eu,,VTI_3TWENb_Leerlingen@sgsintpaulus.eu,,,333039992638
+2026-12-01,Arco K.,4,11:10:00,4HTa,,,V244,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4HTa_Leerlingen@sgsintpaulus.eu,,,470899895858
+2026-12-01,Arco K.,5,13:10:00,3Ma,,,V008,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,470899893858
+2026-12-01,Ossieur W.,5,13:10:00,3Mc,,,C123,MEC$TEC,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,,,,363901189408
+2026-12-01,Goemaere K.,5,13:10:00,4TWEM,,,B117,TWE$MEP,Demeulemeester C.,Goemaere Koen,Koen.Goemaere@sgsintpaulus.eu,,VTI_4TWEM_Leerlingen@sgsintpaulus.eu,,,333039989738
+2026-12-01,Baert M.,6 ~ 7,14:00:00,1Bc,,,D040,TCN$M,Adelaere S.,Baert Miranda,miranda.baert@sgsintpaulus.eu,,VTI_1Bc_Leerlingen@sgsintpaulus.eu,,,465870795568
+2026-12-01,Arco K.,6,14:00:00,3Ea,,,V249,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,,,,470899892958
+2026-12-01,D'hondt J. & Vermeulen S.,6,14:00:00,3Eb,,,Prak,ELE$EREAp,Breye P. & D'hondt J.,,,,,,,166828680248
+2026-12-01,Goemaere K.,6,14:00:00,4TWEM,,,B117,TWE$MEP,Demeulemeester C.,Goemaere Koen,Koen.Goemaere@sgsintpaulus.eu,,VTI_4TWEM_Leerlingen@sgsintpaulus.eu,,,333039988838
+2026-12-01,D'hondt J.,7 ~ 8,15:05:00,3Eb,,,Prak,ELE$EREAp,Breye P. & D'hondt J.,,,,,,,166828679198
+2026-12-01,Arco K.,7,15:05:00,4Mb,,,V244,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4Mb_Leerlingen@sgsintpaulus.eu,,,470899891908
+2026-12-01,Vermeulen S.,7 ~ 8,15:05:00,6DN & 6EI,,,D130,SV$STA,Braeckevelt W.,Vermeulen Stijn,stijn.vermeulen@sgsintpaulus.eu,,VTI_6DN_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu,,,367890683328
+2026-12-01,Goemaere K.,8,15:55:00,3TWENb,,,B114,TWE$MFT,Demeulemeester C.,Goemaere Koen,Koen.Goemaere@sgsintpaulus.eu,,VTI_3TWENb_Leerlingen@sgsintpaulus.eu,,,333039987288
+2026-12-01,Arco K.,8,15:55:00,4ET,,,V244,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4ET_Leerlingen@sgsintpaulus.eu,,,470899891408
+2026-12-02,Ossieur W.,1 ~ 2,08:25:00,,,,B004,MEC$MDp,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,,,,363901194240
+2026-12-02,Vaesen Bentein J. & Vannieuwenhuyse T.,1,08:25:00,4Hb,,,V120,MAVO,Vaesen Bentein J. & Vannieuwenhuyse T.,,,,VTI_4Hb_Leerlingen@sgsintpaulus.eu,,,395943389158
+2026-12-02,Arco K.,1,08:25:00,4HTb,,,V124,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4HTb_Leerlingen@sgsintpaulus.eu,,,470899898698
+2026-12-02,Vermeulen F.,2,09:15:00,4EMT y,,,B117 Labo Pneumatica/Elektr & Fluidsim MecLab,EMT$EMPRt,Demeulemeester C.,Vermeulen Freek,freek.vermeulen@sgsintpaulus.eu,,,,,347012495068
+2026-12-02,Arco K.,2,09:15:00,4HTa,,,V247,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4HTa_Leerlingen@sgsintpaulus.eu,,,470899897798
+2026-12-02,Vermeulen F.,3 ~ 4,10:20:00,4EMT y,,,B117 Labo Pneumatica/Elektr & Fluidsim MecLab,EMT$EMPRt,Demeulemeester C.,Vermeulen Freek,freek.vermeulen@sgsintpaulus.eu,,,,,347012494018
+2026-12-02,Deryckere K.,3 ~ 4,10:20:00,6HT Gy,,,A030,SV$STA,Nollet C.,Deryckere Koen,koen.deryckere@sgsintpaulus.eu,,,,,343960990208
+2026-12-02,Ossieur W.,3 ~ 4,10:20:00,2BHMb,,,C112,TCN,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,VTI_2BHMb_Leerlingen@sgsintpaulus.eu,,,363901192298
+2026-12-02,Arco K.,3,10:20:00,3Ea,,,C207,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,,,,470899896748
+2026-12-02,Vermeulen B.,3 ~ 4,10:20:00,6DN & 6EI,,,D130,EI$EIS,Breye P.,Vermeulen Bart,Bart.Vermeulen@sgsintpaulus.eu,,VTI_6DN_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu,,,334879991688
+2026-12-02,Arco K.,4,11:10:00,4Ma,,,V244,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4Ma_Leerlingen@sgsintpaulus.eu,,,470899895848
+2026-12-03,Ossieur W.,1,08:25:00,3Mb,,,C123,MEC$TEC,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,363901194238
+2026-12-03,Arco K.,1,08:25:00,4ET,,,B103,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4ET_Leerlingen@sgsintpaulus.eu,,,470899898688
+2026-12-03,Vermeulen S.,1 ~ 2,08:25:00,5EI,,,D130 & D141 Huis Elektriciteit,TAAK,Braeckevelt W.,Vermeulen Stijn,stijn.vermeulen@sgsintpaulus.eu,,VTI_5EI_Leerlingen@sgsintpaulus.eu,,ONDERHOUD AFD E,367890690108
+2026-12-03,Ben Miled H.,2,09:15:00,3TWENa,,,PL V004,TWE$MFT,Demeulemeester C.,Ben Miled Hamdi,hamdi.benmiled@sgsintpaulus.eu,,VTI_3TWENa_Leerlingen@sgsintpaulus.eu,,,350032793148
+2026-12-03,Verstuyft G.,3,10:20:00,3BW,,,E030,BW$STUPW,Behouden opdracht,Verstuyft Griet,Griet.Verstuyft@sgsintpaulus.eu,,VTI_3BW_Leerlingen@sgsintpaulus.eu,,,270839502478
+2026-12-03,Ossieur W.,3 ~ 4,10:20:00,3Md,,,D030,MEC$KW,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,,,,363901192288
+2026-12-03,Nellen W.,3,10:20:00,3TWEM,,,LO1,LO,Demeulemeester C.,Nellen Winfried,Winfried.Nellen@sgsintpaulus.eu,,VTI_3TWEM_Leerlingen@sgsintpaulus.eu,,,341972888298
+2026-12-03,Arco K.,3,10:20:00,4HTa,,,V008,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4HTa_Leerlingen@sgsintpaulus.eu,,,470899896738
+2026-12-03,Beyaert S.,3,10:20:00,5BIa,,,A135,HBW$CGMA,Nollet C.,Beyaert Stijn,stijn.beyaert@sgsintpaulus.eu,,VTI_5BIa_Leerlingen@sgsintpaulus.eu,,,349000088688
+2026-12-03,Vermeulen B.,3 ~ 4,10:20:00,5DN & 6DN & 6EI,,,D110,DN$DNT,Breye P.,Vermeulen Bart,Bart.Vermeulen@sgsintpaulus.eu,,VTI_5DN_Leerlingen@sgsintpaulus.eu; VTI_6DN_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu,,,334879991678
+2026-12-03,Vermeulen S.,3 ~ 4,10:20:00,5EI,,,D130 & D141 Huis Elektriciteit,EI$EIS,Braeckevelt W.,Vermeulen Stijn,stijn.vermeulen@sgsintpaulus.eu,,VTI_5EI_Leerlingen@sgsintpaulus.eu,,,367890688158
+2026-12-03,D'hulst H.,3,10:20:00,6MT,,,B003,TM$MMC,Vandenbroucke S.,,,,VTI_6MT_Leerlingen@sgsintpaulus.eu,,,180918181558
+2026-12-03,Verstuyft G.,4,11:10:00,3BW,,,E030,BW$STUPO,Behouden opdracht,Verstuyft Griet,Griet.Verstuyft@sgsintpaulus.eu,,VTI_3BW_Leerlingen@sgsintpaulus.eu,,,270839501578
+2026-12-03,Bauwen T.,4,11:10:00,3TWEM,,,V120,FRA,Demeulemeester C.,Bauwen Tine,Tine.Bauwen@sgsintpaulus.eu,,VTI_3TWEM_Leerlingen@sgsintpaulus.eu,,,452022686408
+2026-12-03,D'hulst H.,4,11:10:00,6MT,,,B003,TM$MMC,Vandenbroucke S.,,,,VTI_6MT_Leerlingen@sgsintpaulus.eu,,,180918180658
+2026-12-03,Demets G.,5,13:10:00,5HTa Gz & 5HTb Gz,,,A135,OND$LBO,Nollet C.,Demets Guy,Guy.Demets@sgsintpaulus.eu,,,,,339979586948
+2026-12-03,Vermeulen S.,5 ~ 6,13:10:00,3Eb,,,Prak,ELE$EREAp,Breye P.,Vermeulen Stijn,stijn.vermeulen@sgsintpaulus.eu,,,,,351850486378
+2026-12-03,Ossieur W.,5 ~ 6,13:10:00,3ET,,,V120,TWE$MFT,Demeulemeester C.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,VTI_3ET_Leerlingen@sgsintpaulus.eu,,,355982589338
+2026-12-03,Arco K.,5,13:10:00,4HTb,,,V247,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4HTb_Leerlingen@sgsintpaulus.eu,,,470899893838
+2026-12-03,Arco K. & Tack S.,6,14:00:00,4Hb,,,A162,WIS,De Clerck L. & Tack S.,,,,VTI_4Hb_Leerlingen@sgsintpaulus.eu,,,470899892938
+2026-12-03,Velle M.,7,15:05:00,5HTa Gy & 5HTb Gy,,,A135,OND$LBO,Nollet C.,Velle Mathis,mathis.velle@sgsintpaulus.eu,,,,,266970078648
+2026-12-03,Nolf M.,7,15:05:00,3TWENb,,,PL V004,TWE$MFT,Demeulemeester C.,Nolf Mathieu,mathieu.nolf@sgsintpaulus.eu,,VTI_3TWENb_Leerlingen@sgsintpaulus.eu,,,360011293438
+2026-12-03,Arco K.,7,15:05:00,4Ma,,,C205,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4Ma_Leerlingen@sgsintpaulus.eu,,,470899891888
+2026-12-03,Arco K.,,16:45:00,0,,,33 1230:1300 Koer B,TOEZICHT,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,,,,470899890480
+2026-12-04,Ossieur W.,1 ~ 2,08:25:00,3Ma,,,D030,MEC$KW,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,VTI_3Ma_Leerlingen@sgsintpaulus.eu,,,363901194228
+2026-12-04,Van Acker A.,1,08:25:00,5ET & 7DE,,,D220,ET$AUTt,Braeckevelt W.,Van Acker Anja,Anja.VanAcker@sgsintpaulus.eu,,VTI_5ET_Leerlingen@sgsintpaulus.eu; VTI_7DE_Leerlingen@sgsintpaulus.eu,,,451928991328
+2026-12-04,Arco K.,2,09:15:00,4Mb,,,A161,WIS,De Clerck L.,Arco Kurt,kurt.arco@sgsintpaulus.eu,,VTI_4Mb_Leerlingen@sgsintpaulus.eu,,,470899897778
+2026-12-04,Van Acker A.,2,09:15:00,5ET & 7DE,,,D220,ET$AUTt,Braeckevelt W.,Van Acker Anja,Anja.VanAcker@sgsintpaulus.eu,,VTI_5ET_Leerlingen@sgsintpaulus.eu; VTI_7DE_Leerlingen@sgsintpaulus.eu,,,451928990428
+2026-12-04,Van Acker A.,3 ~ 4,10:20:00,5ET & 7DE,,,D210,ET$ETR,Braeckevelt W.,Van Acker Anja,Anja.VanAcker@sgsintpaulus.eu,,VTI_5ET_Leerlingen@sgsintpaulus.eu; VTI_7DE_Leerlingen@sgsintpaulus.eu,,,451928989378
+2026-12-04,Van Quickelberghe J.,3 ~ 4,10:20:00,5ICW & 5MEE & 5MEM & 6BHW & 6ICW & 6TWE,,,V025,EX_EICT + EP,Behouden opdracht,Van Quickelberghe Jos,Jos.VanQuickelberghe@sgsintpaulus.eu,,VTI_5ICW_Leerlingen@sgsintpaulus.eu; VTI_5MEE_Leerlingen@sgsintpaulus.eu; VTI_5MEM_Leerlingen@sgsintpaulus.eu; VTI_6BHW_Leerlingen@sgsintpaulus.eu,,,169839187118
+2026-12-04,Ossieur W.,4,11:10:00,3Mb,,,C123,MEC$TEC,Adelaere S.,Ossieur Willem,willem.ossieur@sgsintpaulus.eu,,VTI_3Mb_Leerlingen@sgsintpaulus.eu,,,363901191378
+2026-12-04,Declercq D.,4,11:10:00,5AT,,,A115>V250,GOD,Lokaalwijziging,Declercq Dirk,Dirk.Declercq@sgsintpaulus.eu,,VTI_5AT_Leerlingen@sgsintpaulus.eu,,,163900278358
+2026-11-30,Geannuleerde opdracht,,08:25:00,4Hb z & 4Ha z,,,NTB,TAAK,D'Haene H.,,,,,,Geannuleerde opdracht,-202619508
+2026-12-01,Geannuleerde opdracht,1 ~ 2,08:25:00,4Hb z & 4Ha z,,,NTB,TAAK,D'Haene H.,,,,,,Geannuleerde opdracht,-202620218
+2026-12-03,Geannuleerde opdracht,1 ~ 2,08:25:00,4Hb z & 4Ha z,,,NTB,TAAK,D'Haene H.,,,,,,Geannuleerde opdracht,-202620238
+2026-12-02,Geannuleerde opdracht,1 ~ 2,08:25:00,5HTa x & 5HTb x,,,NTB,TAAK,Nollet C.,,,,,,Geannuleerde opdracht,163898383658
+2026-12-03,Geannuleerde opdracht,1 ~ 2,08:25:00,5HTa x & 5HTb x,,,NTB,TAAK,Nollet C.,,,,,,Geannuleerde opdracht,163898383648
+2026-12-01,Geannuleerde opdracht,1 ~ 2,08:25:00,2BEMb,,,NTB,TAAK,Duymelinck L.,,,,VTI_2BEMb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,298848684918
+2026-12-02,Geannuleerde opdracht,1 ~ 2,08:25:00,2BEMc,,,NTB,TAAK,Duymelinck L.,,,,VTI_2BEMc_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,298848684909
+2026-12-03,Geannuleerde opdracht,1 ~ 2,08:25:00,5ADT,,,NTB,TAAK,Breye P.,,,,VTI_5ADT_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,166828685978
+2026-12-01,Geannuleerde opdracht,1,08:25:00,5DN & 5EI,,,NTB,TAAK,Turpijn B.,,,,VTI_5DN_Leerlingen@sgsintpaulus.eu; VTI_5EI_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,164849883978
+2026-12-02,Geannuleerde opdracht,1 ~ 2,08:25:00,5DN & 5EI,,,NTB,TAAK,Breye P.,,,,VTI_5DN_Leerlingen@sgsintpaulus.eu; VTI_5EI_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,166828685988
+2026-12-04,Geannuleerde opdracht,1,08:25:00,5HTb,,,NTB,TAAK,D'Haene H.,,,,VTI_5HTb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,-202620248
+2026-12-04,Geannuleerde opdracht,1,08:25:00,5LC & 5SV,,,NTB,TAAK,Turpijn B.,,,,VTI_5LC_Leerlingen@sgsintpaulus.eu; VTI_5SV_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,164849883948
+2026-12-01,Geannuleerde opdracht,2,09:15:00,Planton,,,NTB,TAAK,Breye P.,,,,,,Geannuleerde opdracht,166828685090
+2026-12-04,Geannuleerde opdracht,2,09:15:00,2SWb,,,NTB,TAAK,Duymelinck L.,,,,VTI_2SWb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,298848683989
+2026-12-01,Geannuleerde opdracht,2,09:15:00,5DN & 5EI,,,NTB,TAAK,Turpijn B.,,,,VTI_5DN_Leerlingen@sgsintpaulus.eu; VTI_5EI_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,164849883078
+2026-11-30,Geannuleerde opdracht,2,09:15:00,5OAa,,,NTB,TAAK,Turpijn B.,,,,VTI_5OAa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,164849883788
+2026-12-01,Geannuleerde opdracht,3,10:20:00,Planton,,,NTB,TAAK,Turpijn B.,,,,,,Geannuleerde opdracht,164849882020
+2026-12-01,Geannuleerde opdracht,3 ~ 4,10:20:00,4Hb z & 4Ha z,,,NTB,TAAK,D'Haene H.,,,,,,Geannuleerde opdracht,-202622168
+2026-12-02,Geannuleerde opdracht,3,10:20:00,4Hb z & 4Ha z,,,NTB,TAAK,D'Haene H.,,,,,,Geannuleerde opdracht,-202622178
+2026-12-02,Geannuleerde opdracht,3 ~ 4,10:20:00,2BHMa,,,NTB,TAAK,Duymelinck L.,,,,VTI_2BHMa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,298848682958
+2026-12-04,Geannuleerde opdracht,3,10:20:00,5LC & 5SV,,,NTB,TAAK,Turpijn B.,,,,VTI_5LC_Leerlingen@sgsintpaulus.eu; VTI_5SV_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,164849881998
+2026-11-30,Geannuleerde opdracht,3,10:20:00,5OAa,,,NTB,TAAK,Turpijn B.,,,,VTI_5OAa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,164849882738
+2026-12-04,Geannuleerde opdracht,3 ~ 4,10:20:00,6DN & 6EI,,,NTB,TAAK,Breye P.,,,,VTI_6DN_Leerlingen@sgsintpaulus.eu; VTI_6EI_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,166828684018
+2026-12-02,Geannuleerde opdracht,4,11:10:00,4Hb z & 4Ha z,,,NTB,TAAK,D'Haene H.,,,,,,Geannuleerde opdracht,-202623078
+2026-12-01,Geannuleerde opdracht,4 ~ 5,11:10:00,2BEMa,,,NTB,TAAK,Duymelinck L.,,,,VTI_2BEMa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,298848682068
+2026-11-30,Geannuleerde opdracht,4,11:10:00,5DN & 5EI,,,NTB,TAAK,Turpijn B.,,,,VTI_5DN_Leerlingen@sgsintpaulus.eu; VTI_5EI_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,164849881838
+2026-12-01,Geannuleerde opdracht,4,11:10:00,5OAa,,,NTB,TAAK,Turpijn B.,,,,VTI_5OAa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,164849881128
+2026-12-04,Geannuleerde opdracht,4,11:10:00,5OAb,,,NTB,TAAK,Turpijn B.,,,,VTI_5OAb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,164849881098
+2026-12-04,Geannuleerde opdracht,5,13:10:00,4Hb z & 4Ha z,,,NTB,TAAK,D'Haene H.,,,,,,Geannuleerde opdracht,-202625098
+2026-12-01,Geannuleerde opdracht,,13:10:00,5HTa x & 5HTb x,,,NTB,TAAK,Nollet C.,,,,,,Geannuleerde opdracht,163898378818
+2026-11-30,Geannuleerde opdracht,,13:10:00,5HTa x & 5HTb x,,,NTB,TAAK,Nollet C.,,,,,,Geannuleerde opdracht,163898379528
+2026-12-04,Geannuleerde opdracht,5 ~ 6,13:10:00,7BIa,,,NTB,TAAK,Vanassche B.,,,,VTI_7BIa_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,187850383678
+2026-12-04,Geannuleerde opdracht,,14:00:00,4Hb z & 4Ha z,,,NTB,TAAK,D'Haene H.,,,,,,Geannuleerde opdracht,-202625998
+2026-12-03,Geannuleerde opdracht,6,14:00:00,5HTa Gx & 5HTb Gx,,,NTB,TAAK,Nollet C.,,,,,,Geannuleerde opdracht,163898377898
+2026-12-01,Geannuleerde opdracht,6 ~ 7,14:00:00,2BHMb,,,NTB,TAAK,Duymelinck L.,,,,VTI_2BHMb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,298848679168
+2026-12-04,Geannuleerde opdracht,7 ~ 8,15:05:00,7BIb,,,NTB,TAAK,Vanassche B.,,,,VTI_7BIb_Leerlingen@sgsintpaulus.eu,,Geannuleerde opdracht,187850381728
+2026-12-02,Geannuleerde opdracht,,16:45:00,0,,,NTB,TAAK,Nollet C.,,,,,,Geannuleerde opdracht,163898375450
+2026-12-03,Geannuleerde opdracht,,16:45:00,0,,,NTB,TAAK,Breye P.,,,,,,Geannuleerde opdracht,166828677770
+2026-12-03,Geannuleerde opdracht,,16:45:00,0,,,NTB,TAAK,Demeulemeester C.,,,,,,Geannuleerde opdracht,167919778210
+2026-12-04,Geannuleerde opdracht,,16:45:00,0,,,NTB,TAAK,Vanassche B.,,,,,,Geannuleerde opdracht,187850380320
+2026-12-01,Geannuleerde opdracht,,16:45:00,0,,,NTB,TAAK,Braeckevelt W.,,,,,,Geannuleerde opdracht,182868876670
+2026-12-04,Geannuleerde opdracht,,16:45:00,0,,,NTB,TAAK,D'Haene H.,,,,,,Geannuleerde opdracht,-202628441
